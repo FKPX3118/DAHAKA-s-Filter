@@ -9,7 +9,7 @@ DAHAKA’s Filter is a custom filter for path of exile, based on [Neversink’s 
 
 
 ## Installation
--WIP
+- WIP
 
 
 ## ChangeLog
