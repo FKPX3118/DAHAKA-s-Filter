@@ -9,10 +9,11 @@ DAHAKA’s Filter is a custom filter for path of exile, based on [Neversink’s 
 - WIP
 
 ## Installation
-Following on Official site
-Customizing on Filterblade
+### Following on Official site
+### Customizing on Filterblade
+### Modularization Installing on Filterblade
 <details>
-  <summary>### Modularization Installing on Filterblade</summary>
+  <summary>Click to see more detail</summary>
   
   ### Heading
   1. Foo
@@ -21,8 +22,7 @@ Customizing on Filterblade
      * Qux
 
 </details>
-
-4. Manual Installing
+### Manual Installing
 
 ## FAQ
 - WIP
