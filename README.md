@@ -12,6 +12,7 @@ DAHAKA’s Filter is a custom filter for path of exile, based on [Neversink’s 
 ### Following on Official site
 ### Customizing on Filterblade
 ### Modularization Installing on Filterblade
+
 <details>
   <summary>Click to see more detail</summary>
   
@@ -22,6 +23,7 @@ DAHAKA’s Filter is a custom filter for path of exile, based on [Neversink’s 
      * Qux
 
 </details>
+
 ### Manual Installing
 
 ## FAQ
