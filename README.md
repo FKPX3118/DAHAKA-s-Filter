@@ -43,9 +43,9 @@ DAHAKA’s Filter is a custom filter for path of exile, based on [Neversink’s 
   ### Instruction
   * 0-Tiering
   * 1-Strictness
-  * 2-Style
-  * 3-Soundpack
-  * 4-Leveling add-on
+  * 2-Leveling add-on
+  * 3-Style
+  * 4-Soundpack
   
 </details>
 
