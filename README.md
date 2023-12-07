@@ -6,7 +6,12 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 - [Soft Filter Style Overview](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/Filter%20Overview%203.22.png)
   
 ## Features
-- WIP
+-# 5 different blocks
+  * 0-Tiering
+  * 1-Style
+  * 2-SoundPack
+  * 3-Strictness
+  * 4-Leveling add-on
 
 ## Installation
 
@@ -14,13 +19,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 
 - <details>
   <summary><i>Click to see more</i></summary>
-  ### Instruction 
-  Full filter included 5 different block
-  * 0-Tiering
-  * 1-Style
-  * 2-SoundPack
-  * 3-Strictness
-  * 4-Leveling add-on
+
   
   
 </details>
