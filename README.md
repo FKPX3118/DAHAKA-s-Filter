@@ -13,15 +13,14 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 ### 1. Modularization Installing on Filterblade (Recommended)
 
 - <details>
-  <summary><i>Click to see more</i></summary>
-  
-  ### Instruction
-  5 different blocks included in 
+  <summary><i>Click to see more instruction</i></summary>
+  Full filter included 5 different block
   * 0-Tiering
   * 1-Style
   * 2-SoundPack
   * 3-Strictness
   * 4-Leveling add-on
+  
   
 </details>
 
