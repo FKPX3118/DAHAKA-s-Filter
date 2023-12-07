@@ -47,9 +47,12 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   ### Step 4
   add in order of below: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on -> APPLY
 
-  uninstalling here
+  for uninstalling
   
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
+
+  ### Step 4
+  SAVE & EXPORT -> Sync or download locally
   
 </details>
 
@@ -59,12 +62,16 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
+  ### Preload Filter for customizing
+  - [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
+  - [DAHAKA-s-Filter-01-REGULAR](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
+  - [DAHAKA-s-Filter-02-SEMI-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
+  - [DAHAKA-s-Filter-03-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=T3CO19ZXDEUBPT&platform=pc&isPreset=false)
+  - [DAHAKA-s-Filter-04-VERY STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=1EALH7YPPUXH3J&platform=pc&isPreset=false)
+  - [DAHAKA-s-Filter-05-UBER STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
+  - [DAHAKA-s-Filter-06-UBER PLUS](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
+  
+  not including soundpack, leveling add-on
 </details>
 
 
@@ -73,11 +80,10 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  ### new players only
+  [Official Item Filter](https://www.pathofexile.com/account/view-profile/FKPX3118/item-filters)
+
+  not including soundpack, leveling add-on
 
 </details>
 
@@ -88,8 +94,10 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   <summary><i>Click to see more</i></summary>
   
   ### devs only
-  The filters from GitHub do NOT auto-update, check commit 
-
+  The filters from GitHub do NOT auto-update, check commit
+  
+  not including soundpack, leveling add-on
+  
 </details>
 
 ## How does the update work
