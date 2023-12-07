@@ -27,19 +27,29 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
   ### Step 1
   go to [Filterblade](https://www.filterblade.xyz/) and login with your account
-  ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/16643996/288828031-9874e837-f9e2-4448-8cf2-27f581d62901.png)
+  
+  <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2472cdd3-a559-43fa-8c1d-20d818309a86" alt="Image" width="400">
   
   ### Step 2
   load you own filter or NEVERSINK's STABLE version, using the corresponding strictness you want
-  ![image](https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078)
+  
+  <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078" alt="Image" width="400">
 
   ### Step 3
-  OVERVIEW -> PRESETS -> Public -> at "By Author" insert "FKPX3118" -> search
-  ![image](https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/644508bf-f327-4760-b698-e537e22d65c7)
-  ![image](https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c)
+  OVERVIEW -> PRESETS 
+  
+  <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/644508bf-f327-4760-b698-e537e22d65c7" alt="Image" width="400">
+
+  -> Public -> at "By Author" insert "FKPX3118" -> search
+
+  <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c" alt="Image" width="400">
   
   ### Step 4
-  choose in order of below: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on
+  add in order of below: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on -> APPLY
+
+  uninstalling here
+  
+  <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
   
 </details>
 
