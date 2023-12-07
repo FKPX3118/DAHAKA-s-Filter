@@ -8,8 +8,11 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
 ## Features
 - ### Based on [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter)
+  
   Easiest way to manage your filters, customize them to your liking, and get fast updates
+  
 - ### Choose from 5 different blocks (Presets)
+  
   * 0-Tiering - Customized assigning tiers
   * 1-Style - Variant of the NORMAL style
   * 2-SoundPack - Mixture of D2 and default sound, more immersive item drop sound
