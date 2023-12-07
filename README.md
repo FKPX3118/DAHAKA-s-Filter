@@ -52,7 +52,10 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
 
   ### Step 5
-  SAVE & EXPORT -> Sync or download locally
+  SAVE & EXPORT -> Sync or download locally to %userprofile%/Documents/My Games/Path of Exile
+  In game Option, choose the filter you want
+
+  <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/260e6486-7d54-4ed8-b1ea-91e9172ecb8b" alt="Image" width="400">
   
 </details>
 
@@ -101,7 +104,9 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
 </details>
 
-## How does the update work
+## Sound File installation
+
+## How to update
 
 
 ## FAQ
