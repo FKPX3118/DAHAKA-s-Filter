@@ -1,9 +1,3 @@
-<style>
-img{
-    width: 60%;
-    padding-left: 20%;
-}
-</style>
 
 # DAHAKA's Filter
 
@@ -33,7 +27,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
   ### Step 1
   go to [Filterblade](https://www.filterblade.xyz/) and login with your account
-  ![image](https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/9874e837-f9e2-4448-8cf2-27f581d62901){:width="400px"}
+  <img src=“https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/9874e837-f9e2-4448-8cf2-27f581d62901” alt=“image” width=“500”/>
 
   ### Step 2
   load you own filter or NEVERSINK's STABLE version, using the corresponding strictness you want
