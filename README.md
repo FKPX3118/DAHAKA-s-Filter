@@ -114,7 +114,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 ## Sound File
 Download Diablo_2_Lootfilter_Sounds([GitHub](https://raw.githubusercontent.com/FKPX3118/DAHAKA-s-Filter/main/Diablo_2_Lootfilter_Sounds.zip))([MEGA](https://mega.nz/file/8YRC3JQR#fe9REHw8__V8100QRhYGNY88t4JWHNJFBEU5hFQ7hxA))
 
-extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
+Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
 
 ## How to update
 
