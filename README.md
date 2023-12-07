@@ -23,8 +23,14 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 
 - <details>
   <summary><i>Click to see more</i></summary>
-
-  
+  ### Step 1
+  go to [Filterblade](https://www.filterblade.xyz/) and login with your account
+  ### Step 2
+  load you own filter or neversink's, using the corresponding strictness you want
+  ### Step 3
+  OVERVIEW -> PRESETS -> Public -> at "By Author" insert "FKPX3118" -> search
+  ### Step 4
+  choose in order of below: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on
   
 </details>
 
