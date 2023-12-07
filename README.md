@@ -57,18 +57,18 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 </details>
 
 
-### 4. Manual Installing
+### 4. Github
 
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+  ### devs only
+  The filters from GitHub do NOT auto-update, check commit 
 
 </details>
+
+## How does the update work
+
 
 ## FAQ
 - WIP
