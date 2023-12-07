@@ -18,10 +18,10 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
   fully compatibility to other filters and presets
 - ### Leveling add-on for league starter builds
-  * [Boneshatter-Juggernaut](https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter/leveling-guide)
-  * [Corrupting-Fever-Champion](https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide/leveling)
-  * [Explosive-Arrow-Ballista-Elementalist](https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist/leveling)
-  * [Poison-Concoction-Pathfinder](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)
+  * Boneshatter-Juggernaut
+  * Corrupting-Fever-Champion
+  * Explosive-Arrow-Ballista-Elementalist
+  * Poison-Concoction-Pathfinder
   * more incoming
 
 ## Installation
