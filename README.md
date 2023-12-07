@@ -53,6 +53,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 
   ### Step 5
   SAVE & EXPORT -> Sync or download locally to %userprofile%/Documents/My Games/Path of Exile
+  
   In game Option, choose the filter you want
 
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/260e6486-7d54-4ed8-b1ea-91e9172ecb8b" alt="Image" width="400">
