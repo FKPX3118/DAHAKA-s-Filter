@@ -22,6 +22,9 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   * Corrupting-Fever-Champion
   * Explosive-Arrow-Ballista-Elementalist
   * Poison-Concoction-Pathfinder
+  * Lightning-Arrow-Deadeye-01-RoA-Ballista
+  * Lightning-Arrow-Deadeye-02-LA+Manaforged Arrow
+  * Summon-Raging-Spirit-Guardian
   * more incoming
 
 ## Installation
@@ -123,7 +126,7 @@ Download Diablo_2_Lootfilter_Sounds([GitHub](https://raw.githubusercontent.com/F
 Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
 
 ## How to update
-
+You need to click load on your filter every time filterblade, neversink, or I push an update, unless you have pateron support on filterblade.
 
 ## FAQ
 - WIP
