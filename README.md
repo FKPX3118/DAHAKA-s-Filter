@@ -131,7 +131,7 @@ Download Diablo_2_Lootfilter_Sounds([GitHub](https://raw.githubusercontent.com/F
 Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
 
 ## How to update
-You need to click load on your filter every time filterblade, neversink, or I push an update, unless you have pateron support on filterblade.
+You need to click load on your filter every time filterblade, neversink, or I push an update, unless you have patreon support on filterblade.
 
 ## FAQ
 - WIP
