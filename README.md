@@ -9,18 +9,21 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 - WIP
 
 ## Installation
-### 1. Following on Official site
+
+### 1. Modularization Installing on Filterblade
 
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
-
+  ### Instruction
+  * 0-Tiering
+  * 1-Strictness
+  * 2-Leveling add-on
+  * 3-Style
+  * 4-Soundpack
+  
 </details>
+
 
 ### 2. Customizing on Filterblade
 
@@ -35,19 +38,20 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 
 </details>
 
-### 3. Modularization Installing on Filterblade
+
+### 3. Following on Official site
 
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Instruction
-  * 0-Tiering
-  * 1-Strictness
-  * 2-Leveling add-on
-  * 3-Style
-  * 4-Soundpack
-  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
 </details>
+
 
 ### 4. Manual Installing
 
