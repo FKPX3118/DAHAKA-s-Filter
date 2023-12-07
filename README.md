@@ -9,11 +9,11 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 - ### Based on [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter)
   Easiest way to manage your filters, customize them to your liking, and get fast updates
 - ### Choose from 5 different blocks (Presets)
-  * 0-Tiering
-  * 1-Style
-  * 2-SoundPack
-  * 3-Strictness
-  * 4-Leveling add-on
+  * 0-Tiering - Customized assigning different tiers to items based on their value and rarity
+  * 1-Style - 
+  * 2-SoundPack - 
+  * 3-Strictness - 
+  * 4-Leveling add-on - 
   fully compatibility to other filters and presets
 
 ## Installation
