@@ -27,8 +27,8 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
   ### Step 1
   go to [Filterblade](https://www.filterblade.xyz/) and login with your account
-  <img src=“https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/9874e837-f9e2-4448-8cf2-27f581d62901” alt=“image” width=“500”/>
-
+  ![image](https://github-production-user-asset-6210df.s3.amazonaws.com/16643996/288828031-9874e837-f9e2-4448-8cf2-27f581d62901.png)
+  
   ### Step 2
   load you own filter or NEVERSINK's STABLE version, using the corresponding strictness you want
   ![image](https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078)
