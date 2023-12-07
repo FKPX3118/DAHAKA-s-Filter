@@ -49,8 +49,9 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 
   All are optional. You can add any or all of these presets to your filter by clicking add. After you have added the presets you want, click on Apply to confirm your changes.
 
-- Note: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.
-- Note: If you want to add multiple presets, you need to add them in order from 0 to 4. This will ensure that the presets are applied correctly and do not conflict with each other.
+  Note: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.
+  
+  Note: If you want to add multiple presets, you need to add them in order from 0 to 4. This will ensure that the presets are applied correctly and do not conflict with each other.
 
   For uninstalling, click remove
   
