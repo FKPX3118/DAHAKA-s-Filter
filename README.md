@@ -26,28 +26,33 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   <summary><i>Click to see more</i></summary>
   
   ### Step 1
-  go to [Filterblade](https://www.filterblade.xyz/) and login with your account
+  Visit the [FilterBlade](https://www.filterblade.xyz/) and log in with your account. If you don’t have an account, you can create one for free by linking your Path of Exile account.
   
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2472cdd3-a559-43fa-8c1d-20d818309a86" alt="Image" width="400">
   
   ### Step 2
-  load you own filter or NEVERSINK's STABLE version, using the corresponding strictness you want
+  On the FilterBlade homepage, you can choose to load your own filter or use Neversink’s stable version, which is the default option. You can also select the strictness level of the filter, which determines how much loot is shown or hidden. The higher the strictness, the less loot you will see, but the more valuable it will be.
   
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078" alt="Image" width="400">
 
   ### Step 3
-  OVERVIEW -> PRESETS 
+  To apply DAHAKA’s presets, go to the Overview tab and click on Presets.
   
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/644508bf-f327-4760-b698-e537e22d65c7" alt="Image" width="400">
 
-  -> Public -> at "By Author" insert "FKPX3118" -> search
+  Then, click on Public and enter “FKPX3118” in the By Author field. Click on Search to find DAHAKA’s presets.
 
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c" alt="Image" width="400">
   
   ### Step 4
-  add in order of below: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on -> APPLY
+  You will see a list of presets that you can add to your filter. They are: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on
 
-  for uninstalling
+  All are optional. You can add any or all of these presets to your filter by clicking add. After you have added the presets you want, click on Apply to confirm your changes.
+
+- Note: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.
+- Note: If you want to add multiple presets, you need to add them in order from 0 to 4. This will ensure that the presets are applied correctly and do not conflict with each other.
+
+  For uninstalling, click remove
   
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
 
