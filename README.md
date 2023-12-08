@@ -28,6 +28,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   * Lightning-Arrow-Deadeye-01-RoA-Ballista
   * Lightning-Arrow-Deadeye-02-LA-Manaforged Arrow
   * Summon-Raging-Spirit-Guardian
+  * Detonate-Dead-Elementalist
   * more incoming
 
 ## Installation
