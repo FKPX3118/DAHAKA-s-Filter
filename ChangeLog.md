@@ -1,6 +1,12 @@
 # DAHAKA-s-Filter Change Log
 
 
+## [0.9.3] - 2023-12-10
+- tiering updating
+- fixed style bugs
+- fixed a bug with strictness above very strict
+
+
 ## [0.9.2] - 2023-12-09
 - updated to neversink 8.13.0 for 3.23 AFFLICTION
 - Soundpack ✔
