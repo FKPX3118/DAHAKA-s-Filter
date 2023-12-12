@@ -5735,7 +5735,6 @@ SetFontSize 45
 SetTextColor 30 190 190 255
 SetBorderColor 40 130 130 255
 PlayEffect Grey Temp
-MinimapIcon 1 Grey Triangle
 
 #Show # # %D0 $type->gems-generic $tier->lt4
 #	GemLevel >= 2
@@ -6502,7 +6501,7 @@ Show # %DS4 $type->fragments->stacked $tier->t3
 Show # $type->fragments->stackedscarabs $tier->t3
 	StackSize >= 3
 	Class == "Map Fragments"
-	BaseType == "Polished Elder Scarab" "Polished Shaper Scarab" "Polished Torment Scarab" "Rusted Abyss Scarab" "Rusted Bestiary Scarab" "Rusted Blight Scarab" "Rusted Breach Scarab" "Rusted Cartography Scarab" "Rusted Elder Scarab" "Rusted Expedition Scarab" "Rusted Harbinger Scarab" "Rusted Reliquary Scarab" "Rusted Shaper Scarab" "Rusted Torment Scarab" "Rusted Ultimatum Scarab"
+	BaseType == "Polished Elder Scarab" "Polished Shaper Scarab" "Polished Torment Scarab" "Rusted Abyss Scarab" "Rusted Bestiary Scarab" "Rusted Breach Scarab" "Rusted Cartography Scarab" "Rusted Elder Scarab" "Rusted Harbinger Scarab" "Rusted Reliquary Scarab" "Rusted Shaper Scarab" "Rusted Torment Scarab" "Rusted Ultimatum Scarab" "Rusted Divination Scarab" "Rusted Ambush Scarab" "Rusted Sulphite Scarab" "Polished Breach Scarab" "Gilded Torment Scarab" "Gilded Shaper Scarab" "Polished Harbinger Scarab" "Polished Cartography Scarab" "Polished Bestiary Scarab" "Gilded Elder Scarab" "Polished Reliquary Scarab" "Polished Ambush Scarab" "Polished Abyss Scarab" "Polished Ultimatum Scarab"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -6528,7 +6527,7 @@ Show # $type->fragments->scarabs $tier->t1
 
 Show # $type->fragments->scarabs $tier->t2
 	Class == "Map Fragments"
-	BaseType == "Gilded Ambush Scarab" "Gilded Divination Scarab" "Gilded Reliquary Scarab" "Polished Divination Scarab" "Polished Legion Scarab" "Gilded Harbinger Scarab" "Gilded Legion Scarab" "Gilded Breach Scarab" "Gilded Bestiary Scarab" "Gilded Cartography Scarab" "Gilded Blight Scarab"
+	BaseType == "Gilded Divination Scarab" "Gilded Reliquary Scarab" "Gilded Blight Scarab" "Gilded Legion Scarab" "Polished Blight Scarab" "Gilded Abyss Scarab" "Polished Expedition Scarab" "Gilded Expedition Scarab" "Gilded Ultimatum Scarab"
 	SetFontSize 45
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
@@ -6539,7 +6538,7 @@ Show # $type->fragments->scarabs $tier->t2
 
 Show # $type->fragments->scarabs $tier->t3
 	Class == "Map Fragments"
-	BaseType == "Gilded Abyss Scarab" "Gilded Elder Scarab" "Gilded Expedition Scarab" "Gilded Shaper Scarab" "Gilded Sulphite Scarab" "Gilded Torment Scarab" "Gilded Ultimatum Scarab" "Polished Abyss Scarab" "Polished Ambush Scarab" "Polished Bestiary Scarab" "Polished Blight Scarab" "Polished Breach Scarab" "Polished Cartography Scarab" "Polished Expedition Scarab" "Polished Harbinger Scarab" "Polished Reliquary Scarab" "Polished Sulphite Scarab" "Polished Ultimatum Scarab" "Rusted Ambush Scarab" "Rusted Divination Scarab" "Rusted Legion Scarab" "Rusted Sulphite Scarab"
+	BaseType == "Gilded Bestiary Scarab" "Gilded Breach Scarab" "Gilded Cartography Scarab" "Gilded Harbinger Scarab" "Gilded Sulphite Scarab" "Polished Sulphite Scarab" "Rusted Legion Scarab" "Polished Divination Scarab" "Gilded Ambush Scarab" "Polished Legion Scarab" "Rusted Expedition Scarab" "Rusted Blight Scarab"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -6550,7 +6549,7 @@ Show # $type->fragments->scarabs $tier->t3
 
 Show # %HS4 $type->fragments->scarabs $tier->t4
 	Class == "Map Fragments"
-	BaseType == "Polished Elder Scarab" "Polished Shaper Scarab" "Polished Torment Scarab" "Rusted Abyss Scarab" "Rusted Bestiary Scarab" "Rusted Blight Scarab" "Rusted Breach Scarab" "Rusted Cartography Scarab" "Rusted Elder Scarab" "Rusted Expedition Scarab" "Rusted Harbinger Scarab" "Rusted Reliquary Scarab" "Rusted Shaper Scarab" "Rusted Torment Scarab" "Rusted Ultimatum Scarab"
+	BaseType == "Polished Elder Scarab" "Polished Shaper Scarab" "Polished Torment Scarab" "Rusted Abyss Scarab" "Rusted Bestiary Scarab" "Rusted Breach Scarab" "Rusted Cartography Scarab" "Rusted Elder Scarab" "Rusted Harbinger Scarab" "Rusted Reliquary Scarab" "Rusted Shaper Scarab" "Rusted Torment Scarab" "Rusted Ultimatum Scarab" "Rusted Divination Scarab" "Rusted Ambush Scarab" "Rusted Sulphite Scarab" "Polished Breach Scarab" "Gilded Torment Scarab" "Gilded Shaper Scarab" "Polished Harbinger Scarab" "Polished Cartography Scarab" "Polished Bestiary Scarab" "Gilded Elder Scarab" "Polished Reliquary Scarab" "Polished Ambush Scarab" "Polished Abyss Scarab" "Polished Ultimatum Scarab"
 	SetFontSize 45
 	SetTextColor 75 58 182 255
 	SetBorderColor 75 58 182 255
@@ -6576,7 +6575,7 @@ Show # $type->fragments->scarabs $tier->restex
 
 Show # $type->fragments $tier->t1
 	Class == "Map Fragments"
-	BaseType == "Gift to the Goddess" "Sacred Blossom" "Simulacrum" "The Maven's Writ" "Fragment of Shape" "Fragment of Knowledge" "Dedication to the Goddess" "Unrelenting Timeless Maraketh Emblem" "Fragment of Emptiness" "Unrelenting Timeless Eternal Emblem" "Fragment of Terror" "Unrelenting Timeless Karui Emblem" "Tribute to the Goddess" "Unrelenting Timeless Templar Emblem" "Unrelenting Timeless Vaal Emblem"
+	BaseType == "Gift to the Goddess" "Sacred Blossom" "Simulacrum" "The Maven's Writ" "Fragment of Shape" "Fragment of Knowledge" "Unrelenting Timeless Maraketh Emblem" "Fragment of Emptiness" "Unrelenting Timeless Eternal Emblem" "Fragment of Terror" "Unrelenting Timeless Karui Emblem" "Unrelenting Timeless Templar Emblem" "Unrelenting Timeless Vaal Emblem"
 	SetFontSize 45
 	SetTextColor 182 58 172 255
 	SetBorderColor 182 58 172 255
@@ -6587,7 +6586,7 @@ Show # $type->fragments $tier->t1
 
 Show # $type->fragments $tier->t2
 	Class == "Map Fragments"
-	BaseType == "Al-Hezmin's Crest" "Baran's Crest" "Drox's Crest" "Fragment of Constriction" "Fragment of Enslavement" "Fragment of Eradication" "Fragment of Purification" "Fragment of the Chimera" "Fragment of the Hydra" "Fragment of the Minotaur" "Fragment of the Phoenix" "Mortal Ignorance" "Veritania's Crest" "Timeless Vaal Emblem"
+	BaseType == "Al-Hezmin's Crest" "Baran's Crest" "Drox's Crest" "Fragment of Constriction" "Fragment of Enslavement" "Fragment of Eradication" "Fragment of Purification" "Fragment of the Chimera" "Fragment of the Hydra" "Fragment of the Minotaur" "Fragment of the Phoenix" "Mortal Ignorance" "Veritania's Crest" "Timeless Maraketh Emblem" "Mortal Rage" "Timeless Templar Emblem" "Mortal Hope"
 	SetFontSize 45
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
@@ -6598,7 +6597,7 @@ Show # $type->fragments $tier->t2
 
 Show # $type->fragments $tier->t3
 	Class == "Map Fragments"
-	BaseType == "Blood-filled Vessel" "Divine Vessel" "Mortal Grief" "Mortal Hope" "Mortal Rage" "Offering to the Goddess" "Sacrifice at Midnight" "Timeless Eternal Emblem" "Timeless Karui Emblem" "Timeless Maraketh Emblem" "Timeless Templar Emblem"
+	BaseType == "Blood-filled Vessel" "Divine Vessel" "Mortal Grief" "Offering to the Goddess" "Timeless Eternal Emblem" "Timeless Karui Emblem" "Timeless Vaal Emblem" "Dedication to the Goddess" "Tribute to the Goddess"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -6609,7 +6608,7 @@ Show # $type->fragments $tier->t3
 
 Show # %HS4 $type->fragments $tier->t4
 	Class == "Map Fragments"
-	BaseType == "Sacrifice at Dawn" "Sacrifice at Dusk" "Sacrifice at Noon"
+	BaseType == "Sacrifice at Dawn" "Sacrifice at Dusk" "Sacrifice at Noon" "Sacrifice at Midnight"
 	SetFontSize 45
 	SetTextColor 182 58 172 255
 	SetBorderColor 182 58 172 255
@@ -6916,7 +6915,7 @@ Show # %D2 $type->currency->stackedsupplieswisdom $tier->t3
 Show # %D9 $type->currency->stackedsix $tier->t1
 	StackSize >= 8
 	Class == "Stackable Currency"
-	BaseType == "Burial Medallion" "Exotic Coinage" "Orb of Conflict" "Tailoring Orb" "Eldritch Chaos Orb" "Facetor's Lens" "Elevated Sextant" "Otherworldly Scouting Report"
+	BaseType == "Burial Medallion" "Eldritch Exalted Orb" "Exotic Coinage" "Orb of Annulment" "Prismatic Catalyst" "Tainted Mythic Orb" "Facetor's Lens" "Tainted Catalyst" "Eldritch Orb of Annulment" "Oil Extractor" "Sacred Orb" "Exceptional Eldritch Ichor" "Otherworldly Scouting Report"
 	SetFontSize 45
 	SetTextColor 240 90 35 255
 	SetBorderColor 240 90 35 255
@@ -6928,7 +6927,7 @@ Show # %D9 $type->currency->stackedsix $tier->t1
 Show # %D8 $type->currency->stackedsix $tier->t2
 	StackSize >= 8
 	Class == "Stackable Currency"
-	BaseType == "Fertile Catalyst" "Grand Eldritch Ichor" "Greater Eldritch Ichor" "Harbinger's Orb" "Orb of Annulment" "Prismatic Catalyst" "Delirious Scouting Report" "Operative's Scouting Report" "Tainted Jeweller's Orb" "Tainted Exalted Orb" "Exceptional Eldritch Ichor" "Veiled Chaos Orb" "Sacred Orb" "Tainted Chaos Orb" "Tainted Chromatic Orb" "Influenced Scouting Report" "Eldritch Exalted Orb" "Tainted Mythic Orb" "Charged Compass" "Exceptional Eldritch Ember" "Eldritch Orb of Annulment" "Oil Extractor" "Blighted Scouting Report" "Ancient Orb" "Surveyor's Compass"
+	BaseType == "Awakened Sextant" "Fertile Catalyst" "Grand Eldritch Ichor" "Greater Eldritch Ichor" "Harbinger's Orb" "Blighted Scouting Report" "Charged Compass" "Intrinsic Catalyst" "Primal Crystallised Lifeforce" "Singular Scouting Report" "Surveyor's Compass" "Tainted Jeweller's Orb" "Vivid Crystallised Lifeforce" "Wild Crystallised Lifeforce" "Tainted Chromatic Orb" "Exceptional Eldritch Ember" "Comprehensive Scouting Report" "Tainted Exalted Orb" "Tainted Chaos Orb" "Influenced Scouting Report" "Veiled Chaos Orb" "Ancient Orb" "Turbulent Catalyst"
 	SetFontSize 45
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
@@ -6940,7 +6939,7 @@ Show # %D8 $type->currency->stackedsix $tier->t2
 Show # %D7 $type->currency->stackedsix $tier->t3
 	StackSize >= 8
 	Class == "Stackable Currency"
-	BaseType == "Exalted Shard" "Greater Eldritch Ember" "Intrinsic Catalyst" "Lesser Eldritch Ichor" "Noxious Catalyst" "Orb of Regret" "Orb of Unmaking" "Regal Orb" "Scrap Metal" "Tempering Catalyst" "Turbulent Catalyst" "Vaal Orb" "Abrasive Catalyst" "Annulment Shard" "Bestiary Orb" "Enkindling Orb" "Imbued Catalyst" "Instilling Orb" "Awakened Sextant" "Grand Eldritch Ember" "Ritual Vessel" "Accelerating Catalyst" "Unstable Catalyst" "Tainted Blacksmith's Whetstone" "Tainted Armourer's Scrap" "Singular Scouting Report" "Vaal Scouting Report" "Explorer's Scouting Report" "Stacked Deck" "Chaos Orb" "Comprehensive Scouting Report" "Glassblower's Bauble" "Gemcutter's Prism"
+	BaseType == "Blessed Orb" "Exalted Shard" "Lesser Eldritch Ichor" "Noxious Catalyst" "Orb of Unmaking" "Regal Orb" "Scrap Metal" "Tempering Catalyst" "Abrasive Catalyst" "Annulment Shard" "Bestiary Orb" "Glassblower's Bauble" "Imbued Catalyst" "Instilling Orb" "Grand Eldritch Ember" "Operative's Scouting Report" "Gemcutter's Prism" "Stacked Deck" "Ritual Vessel" "Accelerating Catalyst" "Unstable Catalyst" "Tainted Blacksmith's Whetstone" "Tainted Armourer's Scrap" "Vaal Scouting Report" "Delirious Scouting Report" "Explorer's Scouting Report" "Chaos Orb"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -6952,7 +6951,7 @@ Show # %D7 $type->currency->stackedsix $tier->t3
 Show # %D6 $type->currency->stackedsix $tier->t4
 	StackSize >= 8
 	Class == "Stackable Currency"
-	BaseType == "Ancient Shard" "Astragali" "Orb of Fusing" "Orb of Horizons" "Orb of Scouring" "Lesser Eldritch Ember" "Blessed Orb"
+	BaseType == "Ancient Shard" "Astragali" "Enkindling Orb" "Orb of Fusing" "Orb of Horizons" "Orb of Regret" "Greater Eldritch Ember" "Vaal Orb" "Lesser Eldritch Ember"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -6964,7 +6963,7 @@ Show # %D6 $type->currency->stackedsix $tier->t4
 Show # %DS4 $type->currency->stackedsix $tier->t5
 	StackSize >= 8
 	Class == "Stackable Currency"
-	BaseType == "Harbinger's Shard" "Orb of Binding" "Orb of Chance" "Orb of Alchemy" "Chromatic Orb" "Engineer's Orb" "Cartographer's Chisel"
+	BaseType == "Orb of Binding" "Orb of Scouring" "Chromatic Orb" "Orb of Alchemy" "Cartographer's Chisel"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -6982,12 +6981,12 @@ SetBorderColor 0 0 0 255
 SetBackgroundColor 203 161 86 255
 PlayAlertSound 2 300
 PlayEffect Grey
-BaseType == "Blacksmith's Whetstone" "Chaos Shard" "Regal Shard" "Jeweller's Orb" "Ritual Splinter" "Orb of Alteration" "Orb of Augmentation" "Armourer's Scrap" "Orb of Transmutation"
+BaseType == "Blacksmith's Whetstone" "Chaos Shard" "Regal Shard" "Engineer's Orb" "Jeweller's Orb" "Orb of Chance" "Orb of Alteration" "Harbinger's Shard"
 
 Show # %D3 $type->currency->stackedsix $tier->t7
 StackSize >= 8
 Class == "Stackable Currency"
-BaseType == "Alchemy Shard" "Binding Shard" "Horizon Shard"
+BaseType == "Alchemy Shard" "Binding Shard" "Horizon Shard" "Armourer's Scrap" "Orb of Augmentation" "Orb of Transmutation" "Ritual Splinter"
 SetFontSize 40
 SetTextColor 190 178 135 255
 SetBorderColor 190 178 135 255
@@ -7001,7 +7000,7 @@ PlayEffect Grey
 Show # %D9 $type->currency->stackedthree $tier->t1
 	StackSize >= 3
 	Class == "Stackable Currency"
-	BaseType == "Fracturing Shard" "Crescent Splinter" "Crusader's Exalted Orb" "Exalted Orb" "Tainted Catalyst" "Tainted Orb of Fusing" "Warlord's Exalted Orb" "Tempering Orb" "Tainted Divine Teardrop" "Redeemer's Exalted Orb"
+	BaseType == "Fracturing Shard" "Crescent Splinter" "Crusader's Exalted Orb" "Eldritch Chaos Orb" "Elevated Sextant" "Exalted Orb" "Tainted Orb of Fusing" "Redeemer's Exalted Orb" "Tailoring Orb" "Orb of Conflict"
 	SetFontSize 45
 	SetTextColor 240 90 35 255
 	SetBorderColor 240 90 35 255
@@ -7013,7 +7012,7 @@ Show # %D9 $type->currency->stackedthree $tier->t1
 Show # %D8 $type->currency->stackedthree $tier->t2
 	StackSize >= 3
 	Class == "Stackable Currency"
-	BaseType == "Burial Medallion" "Exotic Coinage" "Orb of Conflict" "Tailoring Orb" "Eldritch Chaos Orb" "Facetor's Lens" "Elevated Sextant" "Otherworldly Scouting Report"
+	BaseType == "Burial Medallion" "Exotic Coinage" "Orb of Annulment" "Prismatic Catalyst" "Eldritch Exalted Orb" "Tainted Mythic Orb" "Facetor's Lens" "Tainted Catalyst" "Eldritch Orb of Annulment" "Oil Extractor" "Sacred Orb" "Exceptional Eldritch Ichor" "Otherworldly Scouting Report"
 	SetFontSize 45
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
@@ -7025,7 +7024,7 @@ Show # %D8 $type->currency->stackedthree $tier->t2
 Show # %D7 $type->currency->stackedthree $tier->t3
 	StackSize >= 3
 	Class == "Stackable Currency"
-	BaseType == "Greater Eldritch Ichor" "Harbinger's Orb" "Delirious Scouting Report" "Operative's Scouting Report" "Tainted Jeweller's Orb" "Orb of Annulment" "Tainted Exalted Orb" "Exceptional Eldritch Ichor" "Veiled Chaos Orb" "Sacred Orb" "Tainted Chaos Orb" "Prismatic Catalyst" "Tainted Chromatic Orb" "Influenced Scouting Report" "Eldritch Exalted Orb" "Tainted Mythic Orb" "Charged Compass" "Exceptional Eldritch Ember" "Eldritch Orb of Annulment" "Oil Extractor" "Blighted Scouting Report" "Ancient Orb" "Fertile Catalyst" "Surveyor's Compass" "Grand Eldritch Ichor"
+	BaseType == "Greater Eldritch Ichor" "Harbinger's Orb" "Blighted Scouting Report" "Charged Compass" "Fertile Catalyst" "Intrinsic Catalyst" "Singular Scouting Report" "Surveyor's Compass" "Tainted Jeweller's Orb" "Tainted Chromatic Orb" "Exceptional Eldritch Ember" "Comprehensive Scouting Report" "Tainted Exalted Orb" "Tainted Chaos Orb" "Influenced Scouting Report" "Veiled Chaos Orb" "Ancient Orb" "Grand Eldritch Ichor" "Awakened Sextant" "Turbulent Catalyst"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7037,7 +7036,7 @@ Show # %D7 $type->currency->stackedthree $tier->t3
 Show # %D6 $type->currency->stackedthree $tier->t4
 	StackSize >= 3
 	Class == "Stackable Currency"
-	BaseType == "Abrasive Catalyst" "Annulment Shard" "Enkindling Orb" "Exalted Shard" "Glassblower's Bauble" "Imbued Catalyst" "Instilling Orb" "Intrinsic Catalyst" "Lesser Eldritch Ichor" "Noxious Catalyst" "Orb of Regret" "Regal Orb" "Scrap Metal" "Tempering Catalyst" "Turbulent Catalyst" "Vaal Orb" "Bestiary Orb" "Awakened Sextant" "Grand Eldritch Ember" "Ritual Vessel" "Accelerating Catalyst" "Unstable Catalyst" "Tainted Blacksmith's Whetstone" "Tainted Armourer's Scrap" "Singular Scouting Report" "Vaal Scouting Report" "Explorer's Scouting Report" "Stacked Deck" "Chaos Orb" "Comprehensive Scouting Report" "Orb of Unmaking" "Greater Eldritch Ember" "Gemcutter's Prism"
+	BaseType == "Abrasive Catalyst" "Annulment Shard" "Blessed Orb" "Exalted Shard" "Glassblower's Bauble" "Imbued Catalyst" "Instilling Orb" "Lesser Eldritch Ichor" "Noxious Catalyst" "Regal Orb" "Scrap Metal" "Tempering Catalyst" "Bestiary Orb" "Grand Eldritch Ember" "Operative's Scouting Report" "Orb of Unmaking" "Gemcutter's Prism" "Stacked Deck" "Ritual Vessel" "Accelerating Catalyst" "Unstable Catalyst" "Tainted Blacksmith's Whetstone" "Tainted Armourer's Scrap" "Vaal Scouting Report" "Delirious Scouting Report" "Explorer's Scouting Report" "Chaos Orb"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7049,7 +7048,7 @@ Show # %D6 $type->currency->stackedthree $tier->t4
 Show # %DS4 $type->currency->stackedthree $tier->t5
 	StackSize >= 3
 	Class == "Stackable Currency"
-	BaseType == "Orb of Horizons" "Astragali" "Ancient Shard" "Lesser Eldritch Ember" "Blessed Orb" "Orb of Scouring" "Orb of Fusing"
+	BaseType == "Orb of Horizons" "Orb of Regret" "Greater Eldritch Ember" "Vaal Orb" "Lesser Eldritch Ember" "Enkindling Orb" "Orb of Fusing" "Astragali" "Ancient Shard"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7061,7 +7060,7 @@ Show # %DS4 $type->currency->stackedthree $tier->t5
 Show # %DS3 $type->currency->stackedthree $tier->t6
 	StackSize >= 3
 	Class == "Stackable Currency"
-	BaseType == "Orb of Chance" "Harbinger's Shard" "Orb of Alchemy" "Orb of Binding" "Chromatic Orb" "Engineer's Orb" "Cartographer's Chisel"
+	BaseType == "Orb of Scouring" "Chromatic Orb" "Orb of Alchemy" "Cartographer's Chisel" "Orb of Binding"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7072,7 +7071,7 @@ Show # %DS3 $type->currency->stackedthree $tier->t6
 Show # %D3 $type->currency->stackedthree $tier->t7
 StackSize >= 3
 Class == "Stackable Currency"
-BaseType == "Regal Shard" "Blacksmith's Whetstone" "Chaos Shard" "Jeweller's Orb" "Ritual Splinter" "Orb of Alteration" "Orb of Augmentation" "Armourer's Scrap" "Orb of Transmutation"
+BaseType == "Regal Shard" "Blacksmith's Whetstone" "Chaos Shard" "Engineer's Orb" "Jeweller's Orb" "Orb of Chance" "Orb of Alteration" "Harbinger's Shard"
 SetFontSize 40
 SetTextColor 190 178 135 255
 SetBorderColor 190 178 135 255
@@ -7120,7 +7119,7 @@ SetBackgroundColor 0 0 0
 
 Show # $type->currency $tier->t1exalted
 	Class == "Stackable Currency"
-	BaseType == "Albino Rhoa Feather" "Awakener's Orb" "Blessing of Chayula" "Blessing of Esh" "Blessing of Tul" "Blessing of Uul-Netol" "Blessing of Xoph" "Divine Orb" "Eternal Orb" "Fracturing Orb" "Hunter's Exalted Orb" "Mirror of Kalandra" "Mirror Shard" "Orb of Dominance" "Sacred Crystallised Lifeforce"
+	BaseType == "Albino Rhoa Feather" "Awakener's Orb" "Blessing of Chayula" "Blessing of Esh" "Blessing of Tul" "Blessing of Uul-Netol" "Blessing of Xoph" "Divine Orb" "Eternal Orb" "Fracturing Orb" "Hunter's Exalted Orb" "Mirror of Kalandra" "Mirror Shard" "Orb of Dominance" "Sacred Crystallised Lifeforce" "Tainted Divine Teardrop" "Tempering Orb" "Warlord's Exalted Orb"
 	SetFontSize 45
 	SetTextColor 240 90 35 255
 	SetBorderColor 240 90 35 255
@@ -7131,7 +7130,7 @@ Show # $type->currency $tier->t1exalted
 
 Show # $type->currency $tier->t2divine
 	Class == "Stackable Currency"
-	BaseType == "Crescent Splinter" "Crusader's Exalted Orb" "Exalted Orb" "Tainted Catalyst" "Tainted Orb of Fusing" "Warlord's Exalted Orb" "Tempering Orb" "Redeemer's Exalted Orb" "Tainted Divine Teardrop" "Fracturing Shard"
+	BaseType == "Crescent Splinter" "Crusader's Exalted Orb" "Eldritch Chaos Orb" "Elevated Sextant" "Exalted Orb" "Tainted Orb of Fusing" "Fracturing Shard" "Redeemer's Exalted Orb" "Tailoring Orb" "Orb of Conflict"
 	SetFontSize 45
 	SetTextColor 255 255 255 255
 	SetBorderColor 255 255 255 255
@@ -7142,7 +7141,7 @@ Show # $type->currency $tier->t2divine
 
 Show # $type->currency $tier->t3annul
 	Class == "Stackable Currency"
-	BaseType == "Burial Medallion" "Exotic Coinage" "Elevated Sextant" "Eldritch Chaos Orb" "Orb of Conflict" "Tailoring Orb" "Otherworldly Scouting Report" "Facetor's Lens"
+	BaseType == "Burial Medallion" "Eldritch Exalted Orb" "Exotic Coinage" "Orb of Annulment" "Prismatic Catalyst" "Tainted Mythic Orb" "Facetor's Lens" "Tainted Catalyst" "Eldritch Orb of Annulment" "Oil Extractor" "Sacred Orb" "Exceptional Eldritch Ichor" "Otherworldly Scouting Report"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7153,7 +7152,7 @@ Show # $type->currency $tier->t3annul
 
 Show # $type->currency $tier->t4chaos
 	Class == "Stackable Currency"
-	BaseType == "Blighted Scouting Report" "Charged Compass" "Delirious Scouting Report" "Fertile Catalyst" "Greater Eldritch Ichor" "Harbinger's Orb" "Operative's Scouting Report" "Primal Crystallised Lifeforce" "Surveyor's Compass" "Tainted Jeweller's Orb" "Vivid Crystallised Lifeforce" "Wild Crystallised Lifeforce" "Orb of Annulment" "Tainted Mythic Orb" "Exceptional Eldritch Ember" "Exceptional Eldritch Ichor" "Eldritch Orb of Annulment" "Oil Extractor" "Sacred Orb" "Tainted Exalted Orb" "Eldritch Exalted Orb" "Prismatic Catalyst" "Veiled Chaos Orb" "Tainted Chromatic Orb" "Tainted Chaos Orb" "Ancient Orb" "Grand Eldritch Ichor" "Influenced Scouting Report"
+	BaseType == "Blighted Scouting Report" "Charged Compass" "Fertile Catalyst" "Greater Eldritch Ichor" "Harbinger's Orb" "Intrinsic Catalyst" "Primal Crystallised Lifeforce" "Singular Scouting Report" "Surveyor's Compass" "Tainted Jeweller's Orb" "Vivid Crystallised Lifeforce" "Wild Crystallised Lifeforce" "Tainted Chromatic Orb" "Exceptional Eldritch Ember" "Comprehensive Scouting Report" "Tainted Exalted Orb" "Tainted Chaos Orb" "Influenced Scouting Report" "Veiled Chaos Orb" "Ancient Orb" "Grand Eldritch Ichor" "Awakened Sextant" "Turbulent Catalyst"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7164,7 +7163,7 @@ Show # $type->currency $tier->t4chaos
 
 Show # %HS4 $type->currency $tier->t5alchemy
 	Class == "Stackable Currency"
-	BaseType == "Abrasive Catalyst" "Annulment Shard" "Bestiary Orb" "Enkindling Orb" "Glassblower's Bauble" "Imbued Catalyst" "Instilling Orb" "Lesser Eldritch Ichor" "Orb of Regret" "Regal Orb" "Turbulent Catalyst" "Vaal Orb" "Awakened Sextant" "Stacked Deck" "Exalted Shard" "Tempering Catalyst" "Intrinsic Catalyst" "Ritual Vessel" "Noxious Catalyst" "Accelerating Catalyst" "Unstable Catalyst" "Tainted Blacksmith's Whetstone" "Tainted Armourer's Scrap" "Grand Eldritch Ember" "Singular Scouting Report" "Comprehensive Scouting Report" "Vaal Scouting Report" "Explorer's Scouting Report" "Orb of Unmaking" "Greater Eldritch Ember" "Gemcutter's Prism" "Chaos Orb" "Scrap Metal"
+	BaseType == "Abrasive Catalyst" "Annulment Shard" "Bestiary Orb" "Blessed Orb" "Glassblower's Bauble" "Imbued Catalyst" "Instilling Orb" "Lesser Eldritch Ichor" "Regal Orb" "Grand Eldritch Ember" "Operative's Scouting Report" "Orb of Unmaking" "Gemcutter's Prism" "Stacked Deck" "Exalted Shard" "Tempering Catalyst" "Ritual Vessel" "Noxious Catalyst" "Accelerating Catalyst" "Unstable Catalyst" "Tainted Blacksmith's Whetstone" "Tainted Armourer's Scrap" "Vaal Scouting Report" "Delirious Scouting Report" "Explorer's Scouting Report" "Chaos Orb" "Scrap Metal"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7175,7 +7174,7 @@ Show # %HS4 $type->currency $tier->t5alchemy
 
 Show # %HS3 $type->currency $tier->t6chrom
 	Class == "Stackable Currency"
-	BaseType == "Lesser Eldritch Ember" "Blessed Orb" "Orb of Scouring" "Orb of Horizons" "Orb of Fusing" "Astragali" "Ancient Shard"
+	BaseType == "Orb of Regret" "Greater Eldritch Ember" "Vaal Orb" "Lesser Eldritch Ember" "Enkindling Orb" "Orb of Fusing" "Orb of Horizons" "Astragali" "Ancient Shard"
 	SetFontSize 45
 	SetTextColor 0 0 0 255
 	SetBorderColor 0 0 0 255
@@ -7185,7 +7184,7 @@ Show # %HS3 $type->currency $tier->t6chrom
 
 Show # %H3 $type->currency $tier->t7chance
 Class == "Stackable Currency"
-BaseType == "Engineer's Orb" "Harbinger's Shard" "Orb of Chance" "Orb of Alchemy" "Orb of Binding" "Chromatic Orb" "Cartographer's Chisel"
+BaseType == "Orb of Scouring" "Chromatic Orb" "Orb of Alchemy" "Cartographer's Chisel" "Orb of Binding"
 SetFontSize 40
 SetTextColor 0 0 0 255
 SetBorderColor 0 0 0 255
@@ -7194,7 +7193,7 @@ PlayEffect Grey
 
 Show # %H2 $type->currency $tier->t8trans
 Class == "Stackable Currency"
-BaseType == "Blacksmith's Whetstone" "Chaos Shard" "Orb of Augmentation" "Orb of Transmutation" "Regal Shard" "Orb of Alteration" "Jeweller's Orb" "Armourer's Scrap" "Ritual Splinter"
+BaseType == "Blacksmith's Whetstone" "Chaos Shard" "Regal Shard" "Engineer's Orb" "Jeweller's Orb" "Orb of Chance" "Orb of Alteration" "Harbinger's Shard"
 SetFontSize 35
 SetTextColor 190 178 135 255
 SetBorderColor 190 178 135 255
@@ -7203,7 +7202,7 @@ PlayEffect Grey
 
 Show # %H1 $type->currency $tier->t9armour
 Class == "Stackable Currency"
-BaseType == "Engineer's Shard" "Transmutation Shard" "Alchemy Shard" "Binding Shard" "Horizon Shard" "Alteration Shard"
+BaseType == "Armourer's Scrap" "Engineer's Shard" "Transmutation Shard" "Orb of Augmentation" "Orb of Transmutation" "Alchemy Shard" "Binding Shard" "Horizon Shard" "Alteration Shard" "Ritual Splinter"
 SetFontSize 30
 SetTextColor 190 164 135 255
 SetBorderColor 190 164 135 255
