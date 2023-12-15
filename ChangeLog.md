@@ -1,5 +1,10 @@
 # DAHAKA-s-Filter Change Log
 
+## [0.9.4] - 2023-12-12
+- minor bug fixes for tiering and styling
+- updated new tiering for currency
+- strictness has been adjusted
+
 
 ## [0.9.3] - 2023-12-10
 - tiering updating
