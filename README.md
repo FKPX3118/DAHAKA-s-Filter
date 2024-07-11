@@ -17,16 +17,18 @@
   
   * Easiest way to manage your filters, customize them to your liking, and get fast updates
   
-- ### 🧬Preset-Based Architecture
+- ### 🧬Module-Based Architecture
 
   * Unlike typical filters, DAHAKA’s Filter is entirely preset-based. This means it is divided into several independent aspects, ensuring that changes in one aspect do not affect the others.
 
   * Each aspect can be individually added to your custom filter, or you can assemble all of them to create the complete DAHAKA’s Filter. This flexibility allows you to tailor the filter to your specific needs and preferences, ensuring an optimized and clutter-free gaming experience.
 
-- ### 🎛️ Presets Order
+- ### 🎛️ Module Introduction
   * **0-Tiering**
     
-    >Customized item filter by assigning tiers to items based on league economy
+    >Customized item tiering based on the league economy
+    >
+    >You can check here to see the full details on how the tiering was created
     
   * **1-Style**
     
