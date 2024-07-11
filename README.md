@@ -51,7 +51,8 @@
     
 - ### 🚀 Leveling add-on for league starter builds
 
-  * The **Leveling Add-on** highlights specific weapons, socket color combinations, specific flasks, and essential recipes for league starter builds. Additionally, if a build has a transition using different skill gems and weapons, the Leveling Add-on ensures this happens at the appropriate level.
+  * The **Leveling Add-on** highlights specific weapons, socket color combinations, specific flasks, and essential recipes for different league starter builds. Additionally, if a build has a transition using different skill gems and weapons, the Leveling Add-on ensures this happens at the appropriate level.
+
   * There are now various Leveling Add-ons for several reliable league starter builds:
 
     >**1. Boneshatter Juggernaut**
