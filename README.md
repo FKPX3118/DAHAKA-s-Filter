@@ -168,7 +168,7 @@
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Devs only
+  ### For Devs or you can download here
   >Filter Includes Only Tiering, Style, and Strictness
   >
   >The filters from GitHub do **NOT** auto-update. Please check the commit history for updates.
