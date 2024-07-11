@@ -93,7 +93,7 @@
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078" alt="Image" width="400">
 
   ### Step 3
-  >To apply DAHAKA’s presets, go to the Overview tab and click on Presets.
+  >To apply DAHAKA’s presets, go to the Overview tab and click "MODULES".
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/644508bf-f327-4760-b698-e537e22d65c7" alt="Image" width="400">
   >
