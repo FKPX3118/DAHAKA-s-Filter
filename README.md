@@ -113,7 +113,7 @@
   >
   >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 4. This will ensure that the presets are applied correctly and do not conflict with each other.*
   >
-  >***Note3**: If you want to use the SoundPack, you'll need the [sound file](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#sound-file) to be installed.*
+  >***Note3**: If you want to use the SoundPack, you'll need the [sound file](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
   >For uninstalling, click "Delete"
   >
