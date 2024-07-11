@@ -95,9 +95,9 @@
   ### Step 3
   >To apply DAHAKA’s presets, go to the Overview tab and click "MODULES".
   >
-  ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/644508bf-f327-4760-b698-e537e22d65c7" alt="Image" width="400">
+  ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
   >
-  >Then, click on Public and enter “FKPX3118” in the By Author field. Click on Search to find DAHAKA’s presets.
+  >Then, click on Public and enter **“FKPX3118”** in the By Author field. Click on Search to find DAHAKA’s presets.
   >
   >You will see a list of presets that you can add to your filter.
   >
