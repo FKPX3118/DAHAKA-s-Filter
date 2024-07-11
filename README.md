@@ -28,7 +28,7 @@
     
     >Customized item tiering based on the league economy
     >
-    >You can check here to see the full details on how the tiering was created
+    >You can check here to see the full details on how each tier was determined, along with the mathematical background behind it
     
   * **1-Style**
     
