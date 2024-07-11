@@ -112,7 +112,7 @@
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### Preload Filter for customizing
+  ### Preloaded Filter for customizing
   - [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
   - [DAHAKA-s-Filter-01-REGULAR](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
   - [DAHAKA-s-Filter-02-SEMI-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
