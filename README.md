@@ -1,26 +1,42 @@
+# 🌟 DAHAKA's Filter
 
-# DAHAKA's Filter
+**DAHAKA’s Filter** is a customizable, preset-based filter for Path of Exile, inspired by [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter). It helps to show rare or higher items, with different colors, sounds, icons, and beams. It hides useless or cluttering items. It is easy to customize and update on [Filterblade](https://www.filterblade.xyz/).
 
-DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter). It helps to show rare or higher items, with different colors, sounds, icons, and beams. It hides useless or cluttering items. It is easy to customize and update on [Filterblade](https://www.filterblade.xyz/).
+&nbsp;
 
-## Overview
-- [Soft Filter Style Overview](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/Filter%20Overview%203.22.png)
+## 🎨 Overview
+- [Style Overview](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/Filter%20Overview%203.22.png)
+
+&nbsp;
   
-## Features
-- ### Based on [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter)
+## ⚙️ Features
+- ### 🛡️ Based on [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter)
   
   Easiest way to manage your filters, customize them to your liking, and get fast updates
   
-- ### Choose from 5 different blocks (Presets)
+- ### 🎛️ Choose from 5 different blocks (Presets)
+  * **0-Tiering**
+    
+    Customized item filter by assigning tiers to items based on league economy
+    
+  * **1-Style**
+    
+    A variant of the standard Neversink Filter style, offering a familiar yet distinct visual and auditory experience
+    
+  * **2-SoundPack**
   
-  * 0-Tiering - Customized assigning tiers
-  * 1-Style - Variant of the NORMAL style
-  * 2-SoundPack - Mixture of D2 and default sound, more immersive item drop sound
-  * 3-Strictness - 7 Strictnesses with tweakness 
-  * 4-Leveling add-on - Enable additional features for faster and smoother leveling, following specific authoritative league starter build guides
+    Enhance your immersion with a sound pack that blends Diablo II and default sounds, providing a more engaging item drop audio experience
+    
+  * **3-Strictness**
+    
+    Choose from 7 levels of strictness, each with its own tweaks to optimize loot filtering for different needs and strategies
   
+  * **4-Leveling Add-on**
+  
+    Enable additional features designed to make leveling faster and smoother. This add-on follows various specific, authoritative league starter build guides to ensure an efficient progression
   fully compatibility to other filters and presets
-- ### Leveling add-on for league starter builds
+
+- ### 🚀 Leveling add-on for league starter builds
   * Boneshatter-Juggernaut
   * Corrupting-Fever-Champion
   * Explosive-Arrow-Ballista-Elementalist
@@ -29,11 +45,14 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   * Lightning-Arrow-Deadeye-02-LA-Manaforged Arrow
   * Summon-Raging-Spirit-Guardian
   * Detonate-Dead-Elementalist
-  * more incoming
+    
+    more incoming
 
-## Installation
+&nbsp;
 
-### 1. Modularization Installing on Filterblade (Recommended)
+## 🛠️ Installation
+
+### 1. 🧩 Modularization Installing on Filterblade (Recommended)
 
 - <details>
   <summary><i>Click to see more</i></summary>
@@ -54,13 +73,16 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/644508bf-f327-4760-b698-e537e22d65c7" alt="Image" width="400">
 
   Then, click on Public and enter “FKPX3118” in the By Author field. Click on Search to find DAHAKA’s presets.
+  
+  You will see a list of presets that you can add to your filter.
+
+  These include: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, and 4-Leveling add-on.
 
   <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c" alt="Image" width="400">
-  
-  ### Step 4
-  You will see a list of presets that you can add to your filter. They are: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on
 
-  All are optional. You can add any or all of these presets to your filter by clicking add. After you have added the presets you want, click on Apply to confirm your changes.
+  ### Step 4
+  
+  All of these presets are optional. You can add any or all of them to your filter by clicking "Add." Once you have selected the presets you want, click "Apply" to confirm your changes.
 
   *Note1: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.*
   
@@ -82,7 +104,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 </details>
 
 
-### 2. Customizing on Filterblade
+### 2. 🔧 Customizing on Filterblade
 
 - <details>
   <summary><i>Click to see more</i></summary>
@@ -101,7 +123,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 </details>
 
 
-### 3. Following on Official site
+### 3. 🌐 Following on Official site
 
 - <details>
   <summary><i>Click to see more</i></summary>
@@ -114,7 +136,7 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
 </details>
 
 
-### 4. Github
+### 4. 🖥️ Github
 
 - <details>
   <summary><i>Click to see more</i></summary>
@@ -126,16 +148,24 @@ DAHAKA’s Filter is a custom filter for Path of Exile, based on [Neversink’s 
   
 </details>
 
-## Sound File
+&nbsp;
+
+## 🎵 Sound File
 Download Diablo_2_Lootfilter_Sounds([GitHub](https://raw.githubusercontent.com/FKPX3118/DAHAKA-s-Filter/main/Diablo_2_Lootfilter_Sounds.zip))([MEGA](https://mega.nz/file/8YRC3JQR#fe9REHw8__V8100QRhYGNY88t4JWHNJFBEU5hFQ7hxA))
 
 Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
 
-## How to update
+&nbsp;
+
+## 🔄 How to update
 You need to click load on your filter every time filterblade, neversink, or I push an update, unless you have patreon support on filterblade.
 
-## FAQ
+&nbsp;
+
+## ❓ FAQ
 - WIP
 
-## ChangeLog
+&nbsp;
+
+## 📝 ChangeLog
 >[DAHAKA-s-Filter](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/ChangeLog.md)
