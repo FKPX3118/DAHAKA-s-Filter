@@ -49,7 +49,7 @@
 
   * **5-Magic-find Add-on** (WIP)
     
-    >A unique and fracture gear blocker. This feature allows you to generate two different filters, enabling you to switch seamlessly between picking up currency and checking items on the ground.
+    >A unique and fractured bases blocker. This feature allows you to generate two different filters, enabling you to switch seamlessly between picking up currency and checking items on the ground.
     
 - ### 🚀 Leveling add-on for league starter builds
 
