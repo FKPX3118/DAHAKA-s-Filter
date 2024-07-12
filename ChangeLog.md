@@ -1,5 +1,12 @@
 # DAHAKA-s-Filter Change Log
 
+
+## [0.9.5] - 2023-12-15
+- updated to neversink version 8.13.1
+- minor bug fixes for strictness
+- updated new tiering based on current league economy（SC）
+
+
 ## [0.9.4] - 2023-12-12
 - minor bug fixes for tiering and styling
 - updated new tiering for currency
