@@ -28,7 +28,7 @@
     
     >Customized item tiering based on the league economy
     >
-    >You can check here to see the full details on how each tier was determined, along with the mathematical background behind it
+    >You can check [How the tiering of DAHAKA's Filter is determined](https://github.com/FKPX3118/DAHAKA-s-Filter/wiki/How-the-tiering-of-DAHAKA's-Filter-is-determined) to see the full details on how tiering was determined, along with the mathematical background behind it
     
   * **1-Style**
     
