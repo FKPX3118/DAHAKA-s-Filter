@@ -80,7 +80,7 @@
 
 ## 🛠️ Installation
 
-### 1. 🔧 Installation on Filterblade (Recommended)
+### 1. 🔧 Preload Installation on Filterblade (Recommended)
 
 - <details>
   <summary><i>Click to see more</i></summary>
