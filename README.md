@@ -19,13 +19,10 @@
 >8. Create magic-find add-on 🔄
 >
 >**After Patch Notes:**
->
 >9. Archive leveling add-ons of outdated builds 🔄
->
 >10. Create leveling add-ons for popular builds 🔄
 >
 >**After Filter Blade Update:**
->
 >11. Update to 3.25 🔄
 ---
 
