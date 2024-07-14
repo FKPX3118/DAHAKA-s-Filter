@@ -20,13 +20,15 @@ DAHAKA's Filter 3.25 Release Roadmap:
 7. Check viability of Leveling add-on ⏳
 8. Create magic-find add-on ⏳
 9. Update Installation Guide ⏳
+10. Create FAQ ⏳
+11. Create Compatibility notes for devs ⏳
 
 After Patch Notes:
-10. Archive leveling add-ons of outdated builds ⏳
-11. Create leveling add-ons for popular builds ⏳
+12. Archive leveling add-ons of outdated builds ⏳
+13. Create leveling add-ons for popular builds ⏳
 
 After Filter Blade Update:
-12. Update to 3.25 ⏳
+14. Update to 3.25 ⏳
 ```
 ---
 
