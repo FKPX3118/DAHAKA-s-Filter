@@ -19,13 +19,14 @@ DAHAKA's Filter 3.25 Release Roadmap:
 6. Update SoundPack to 3.24 ✅
 7. Check viability of Leveling add-on ⏳
 8. Create magic-find add-on ⏳
+9. Update Installation Guide ⏳
 
 After Patch Notes:
-9. Archive leveling add-ons of outdated builds ⏳
-10. Create leveling add-ons for popular builds ⏳
+10. Archive leveling add-ons of outdated builds ⏳
+11. Create leveling add-ons for popular builds ⏳
 
 After Filter Blade Update:
-11. Update to 3.25 ⏳
+12. Update to 3.25 ⏳
 ```
 ---
 
