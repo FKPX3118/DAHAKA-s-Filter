@@ -1,4 +1,5 @@
 
+
 &nbsp;
 
 # 🌟 DAHAKA's Filter
@@ -63,13 +64,13 @@
     >
     >**3. Explosive Arrow Ballista Elementalist**
     >
-    >**4. Poison Concoction Pathfinder**
+    >**4. [Poison Concoction Pathfinder](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)**
     >
     >**5. Lightning Arrow Deadeye 01: RoA Ballista**
     >
-    >**6. Lightning Arrow Deadeye 02: LA Manaforged Arrow**
+    >**6. [Lightning Arrow Deadeye 02: LA Manaforged Arrow](https://www.youtube.com/watch?v=ZpH9IH4e64M)**
     >
-    >**7. Summon Raging Spirit Guardian**
+    >**7. [Summon Raging Spirit Guardian](https://maxroll.gg/poe/build-guides/summon-raging-spirit-guardian-league-starter)**
     >
     >**8. Detonate Dead Elementalist**
     >
@@ -79,7 +80,37 @@
 
 ## 🛠️ Installation
 
-### 1. 🧩 Modularization Installing on Filterblade (Recommended)
+### 1. 🔧 Installation on Filterblade (Recommended)
+
+- <details>
+  <summary><i>Click to see more</i></summary>
+  
+  ### Preloaded Filter without SoundPack
+  
+  >Filter Includes Only Tiering, Style, and Strictness
+  >- [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-01-REGULAR](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-02-SEMI-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-03-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=T3CO19ZXDEUBPT&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-04-VERY STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=1EALH7YPPUXH3J&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-05-UBER STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-06-UBER PLUS](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
+
+  ### Preloaded Filter with SoundPack
+  
+  >Filter Includes Only Tiering, Style, and Strictness
+  >- [DAHAKA-s-Filter-00-SOFT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-01-REGULAR-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-02-SEMI-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-03-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=T3CO19ZXDEUBPT&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-04-VERY STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=1EALH7YPPUXH3J&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-05-UBER STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-06-UBER PLUS-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
+
+</details>
+
+### 2. 🧩 Modularization Installation on Filterblade (Recommended)
+
 
 - <details>
   <summary><i>Click to see more</i></summary>
@@ -90,7 +121,7 @@
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2472cdd3-a559-43fa-8c1d-20d818309a86" alt="Image" width="400">
   
   ### Step 2
-  >On the FilterBlade homepage, you can choose to load your own filter or use Neversink’s stable version, which is the default option. You can also select the strictness level of the filter, which determines how much loot is shown or hidden. The higher the strictness, the less loot you will see, but the more valuable it will be.
+  >On the FilterBlade homepage, you can choose to load your own favorite filter or use Neversink’s stable version(recommend), which is the default option. You can also select the strictness level of the filter, which determines how much loot is shown or hidden. The higher the strictness, the less loot you will see, but the more valuable it will be. Remember to choose the same strictness level of DAHAKA's Filter if you want to use this 3-Strictness module.
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078" alt="Image" width="400">
 
@@ -99,11 +130,11 @@
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
   >
-  >Then, click on Public and enter **“FKPX3118”** in the By Author field. Click on Search to find DAHAKA’s presets.
+  >Then, click on Public and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA’s presets.
   >
   >You will see a list of presets that you can add to your filter.
   >
-  >These include: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, and 4-Leveling add-on.
+  >These include: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on, 5-Magic-find add-on, etc
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c" alt="Image" width="400">
 
@@ -121,7 +152,11 @@
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
 
-  ### Step 5
+  ### Step 5 (Optional)
+  >Create your own preset and then load it at last. This will help you to keep your own personal favorite changes for this filter, so you don't need to change anything each time you receive an update.
+  >Here is how: go to FilterBlade
+
+  ### Step 6
   >SAVE & EXPORT -> Sync or download locally to %userprofile%/Documents/My Games/Path of Exile
   >
   >In game Option, choose the filter you want
@@ -129,26 +164,6 @@
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/260e6486-7d54-4ed8-b1ea-91e9172ecb8b" alt="Image" width="400">
   
 </details>
-
-
-### 2. 🔧 Customizing on Filterblade
-
-- <details>
-  <summary><i>Click to see more</i></summary>
-  
-  ### Preloaded Filter for customizing
-  
-  >Filter Includes Only Tiering, Style, and Strictness
-  >- [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-01-REGULAR](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-02-SEMI-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-03-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=T3CO19ZXDEUBPT&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-04-VERY STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=1EALH7YPPUXH3J&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-05-UBER STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-06-UBER PLUS](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
-
-</details>
-
 
 ### 3. 🌐 Following on Official site
 
@@ -158,7 +173,7 @@
   ### For New Players
   >Auto-Update
   >
-  >Filter Includes Only Tiering, Style, and Strictness
+  >Filter Includes Only Tiering, Style, and Strictness,  w/wo SoundPack
   >
   >- [Official Item Filter](https://www.pathofexile.com/account/view-profile/FKPX3118/item-filters)
 
@@ -170,8 +185,8 @@
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### For Devs or you can download here
-  >Filter Includes Only Tiering, Style, and Strictness
+  ### For Devs or you can manually download here
+  >Filter Includes Only Tiering, Style, Strictness, w/wo SoundPack
   >
   >The filters from GitHub do **NOT** auto-update. Please check the commit history for updates.
   
