@@ -91,7 +91,7 @@
     >Enable additional features designed to make leveling faster and smoother. This add-on follows various specific, authoritative league starter build guides to ensure an efficient progression
   fully compatibility to other filters and presets
 
-  * **5-Magic-find Add-on** (WIP)
+  * **5-Magic-find Add-on**
     
     >A unique and fractured bases blocker. This feature allows you to generate two different filters, enabling you to switch seamlessly between picking up currency and checking items on the ground.
     
@@ -101,21 +101,21 @@
 
   * There are now various Leveling Add-ons for several reliable league starter builds:
 
-    >**1. Boneshatter Juggernaut**
+    >**1. [Boneshatter Juggernaut](https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter)**
     >
-    >**2. Corrupting Fever Champion**
+    >**2. [Corrupting Fever Champion](https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide)**
     >
-    >**3. Explosive Arrow Ballista Elementalist**
+    >**3. [Explosive Arrow Ballista Elementalist](https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist)**
     >
     >**4. [Poison Concoction Pathfinder](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)**
     >
-    >**5. Lightning Arrow Deadeye 01: RoA Ballista**
+    >**5. [Lightning Arrow Deadeye 01: RoA Ballista](https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter)**
     >
     >**6. [Lightning Arrow Deadeye 02: LA Manaforged Arrow](https://www.youtube.com/watch?v=ZpH9IH4e64M)**
     >
     >**7. [Summon Raging Spirit Guardian](https://maxroll.gg/poe/build-guides/summon-raging-spirit-guardian-league-starter)**
     >
-    >**8. Detonate Dead Elementalist**
+    >**8. [Detonate Dead Elementalist](https://maxroll.gg/poe/build-guides/detonate-dead-elementalist-league-starter-guide)**
     >
     >More incoming
 
