@@ -11,12 +11,12 @@
 ```python
 DAHAKA's Filter 3.25 Release Roadmap:
 
-  1. Update Readme ✔
-  2. Create Wiki Page ✔
-  3. Update Tiering to Newest Version ✔
-  4. Update Style to Newest Version ✔
-  5. Update Strictness to Newest Version ✔
-  6. Update SoundPack to Newest Version ✔
+  1. Update Readme ✅
+  2. Create Wiki Page ✅
+  3. Update Tiering to Newest Version ✅
+  4. Update Style to Newest Version ✅
+  5. Update Strictness to Newest Version ✅
+  6. Update SoundPack to Newest Version ✅
   7. Check Viability of Leveling Add-on ⏳
   8. Create Magic-Find Add-on ⏳
   9. Update Installation Guide ⏳
