@@ -13,10 +13,10 @@ DAHAKA's Filter 3.25 Release Roadmap:
 
 1. Update Readme ✅
 2. Create wiki page ✅
-3. Update Tiering to 3.24 ✅
-4. Update Style to 3.24 ✅
-5. Update Strictness to 3.24 ✅
-6. Update SoundPack to 3.24 ✅
+3. Update Tiering to newest version ✅
+4. Update Style to newest version ✅
+5. Update Strictness to newest version ✅
+6. Update SoundPack to newest version ✅
 7. Check viability of Leveling add-on ⏳
 8. Create magic-find add-on ⏳
 9. Update Installation Guide ⏳
