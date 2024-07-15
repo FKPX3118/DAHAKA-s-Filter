@@ -116,7 +116,7 @@ After FilterBlade Update:
   <summary><i>Click to see more</i></summary>
     
   ### Step 1
-  Click one from those preloaded versions which works exactly the same with Modularization Installation 
+  Click one from the preloaded versions, which works exactly the same as [Modularization Installation](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#step-1-1),  if you add the same modules. This simply preloads them for users.
   
   > **Preloaded Filter without SoundPack**
   >
@@ -128,19 +128,57 @@ After FilterBlade Update:
   >- [DAHAKA-s-Filter-04-VERY STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=1EALH7YPPUXH3J&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-05-UBER STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-06-UBER PLUS](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
-
-  ### Preloaded Filter with SoundPack
   
+  >&nbsp;
+  
+  >**Preloaded Filter with SoundPack**
+  >
   >Filter Includes Tiering, Style, SoundPack, Strictness
   >You'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.
-  >- [DAHAKA-s-Filter-00-SOFT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-01-REGULAR-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-02-SEMI-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-03-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=T3CO19ZXDEUBPT&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-04-VERY STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=1EALH7YPPUXH3J&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-05-UBER STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
-  >- [DAHAKA-s-Filter-06-UBER PLUS-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
+  >- DAHAKA-s-Filter-00-SOFT-S
+  >- DAHAKA-s-Filter-01-REGULAR-S
+  >- DAHAKA-s-Filter-02-SEMI-STRICT-S
+  >- DAHAKA-s-Filter-03-STRICT-S
+  >- DAHAKA-s-Filter-04-VERY STRICT-S
+  >- DAHAKA-s-Filter-05-UBER STRICT-S
+  >- DAHAKA-s-Filter-06-UBER PLUS-S
 
+  ### Step 2 (Optional)
+  > Apply other DAHAKA's Presets and Add-ons or remove current ones:
+  >To apply DAHAKA's Presets, go to the Overview tab and click "MODULES".
+  >
+  ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
+  >
+  >Then, click on Public and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
+  >
+  >You will see a list of presets that you can add to your filter.
+  >
+  > <img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c" alt="Image" width="400">
+  > 
+  >These include: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on, 5-Magic-find add-on, etc
+  >
+  >"0-Tiering, 1-Style, 2-SoundPack (Depends on what version you picked), 3-Strictness" these presets are already loaded, so you can now add 4-Leveling add-on, 5-Magic-find add-on, etc, or remove the presets you don't need.
+  >
+  >All of these presets are optional. You can add any or all of them to your filter by clicking "Add" if they are at different layers. 
+  >
+  >Once you have selected the presets you want, click "Apply" to confirm your changes.
+  >
+  >***Note1**: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.*
+  >
+  >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 5. This will ensure that the presets are applied correctly and do not conflict with each other.*
+  >
+  >***Note3**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
+  >
+  >For uninstalling a preset, click "Currently loaded" then click "Delete" for the one you don't want. Click "Apply" to ensure the changes.
+  >
+  ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
+  
+  ### Step 4
+  >SAVE & EXPORT -> Sync or download locally to %userprofile%/Documents/My Games/Path of Exile
+  >
+  >In game Option, choose the filter you want
+  >
+  ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/260e6486-7d54-4ed8-b1ea-91e9172ecb8b" alt="Image" width="400">
 </details>
 
 ### 2. 🧩 Modularization Installation on Filterblade (Recommended)
@@ -164,17 +202,21 @@ After FilterBlade Update:
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
   >
-  >Then, click on Public and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
+  >Then, click on Public.
   >
-  >You will see a list of presets that you can add to your filter.
+  >Type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
   >
-  >These include: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on, 5-Magic-find add-on, etc
+  >You will see a list of presets that you can add to your filter:
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/dc588fcf-c935-4e69-b0d5-76f5716f273c" alt="Image" width="400">
+  >
+  >These include: 0-Tiering, 1-Style, 2-SoundPack, 3-Strictness, 4-Leveling add-on, 5-Magic-find add-on, etc
 
   ### Step 4
   
-  >All of these presets are optional. You can add any or all of them to your filter by clicking "Add." Once you have selected the presets you want, click "Apply" to confirm your changes.
+  >All of these presets are optional. You can add any or all of them to your filter by clicking "Add" if they are at different layers. 
+  >
+  >Once you have selected the presets you want, click "Apply" to confirm your changes.
   >
   >***Note1**: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.*
   >
@@ -182,15 +224,11 @@ After FilterBlade Update:
   >
   >***Note3**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
-  >For uninstalling, click "Delete"
+  >For uninstalling a preset, click "Currently loaded" then click "Delete" for the one you don't want. Click "Apply" to ensure the changes.
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
 
-  ### Step 5 (Optional)
-  >Create your own preset and then load it at last. This will help you to keep your own personal favorite changes for this filter, so you don't need to change anything each time you receive an update.
-  >Here is how: go to FilterBlade
-
-  ### Step 6
+  ### Step 5
   >SAVE & EXPORT -> Sync or download locally to %userprofile%/Documents/My Games/Path of Exile
   >
   >In game Option, choose the filter you want
