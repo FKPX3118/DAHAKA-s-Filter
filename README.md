@@ -18,14 +18,14 @@ DAHAKA's Filter 3.25 Release Roadmap:
   5. Update Strictness to Newest Version ✅
   6. Update SoundPack to Newest Version ✅
   7. Check Viability of Leveling Add-on ⏳
-  8. Create Magic-Find Add-on ⏳
-  9. Update Installation Guide ⏳
+  8. Create Magic-Find Add-on ✅
+  9. Update Installation Guide ✅
  10. Create FAQ ⏳
  11. Create Compatibility Notes for Developers ⏳
- 12. Create Preloaded Filters with SoundPack ⏳
- 13. Update Filters on FilterBlade ⏳
- 14. Update Filters on PoE Official ⏳
- 15. Update Filters on GitHub ⏳
+ 12. Create Preloaded Filters with SoundPack ✅
+ 13. Update Filters on FilterBlade ✅
+ 14. Update Filters on PoE Official ✅
+ 15. Update Filters on GitHub ✅
 
 After Patch Notes: 
  16. Archive Leveling Add-ons of Outdated Builds ⏳
@@ -276,8 +276,33 @@ Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
 
 &nbsp;
 
+## ⚙️ Create you own Preset
+- <details>
+  <summary><i>Click to see more</i></summary>
+  
+  >You can create your own preset and then load it at last. This will help you to keep your own personal favorite changes for the filter, so you don’t need to make adjustments each time you receive an update.
+  >
+  >Go to FilterBlade and navigate to “Back to my filters”
+  >
+  >Under “My Modules” click “Create new module”
+  >
+  ><img src="https://github.com/user-attachments/assets/6104932d-56bd-471e-9fbb-ba5123e447b7" alt="Image" width="400">
+  >
+  >Choose Neversink stable version and the corresponding strictness
+  >
+  >In customize tab, make your own changes, save the preset
+  >
+  >Load the filter you want to override, your presets will be in "My Own" in "MODULES"
+  >
+  ><img src="https://github.com/user-attachments/assets/8699b61c-6f21-43aa-bab3-c6d71e9cbe89" alt="Image" width="400">
+  >
+  >Load your preset last, save the filter and you are good to go.
+</details>
+
+&nbsp;
+
 ## 🔄 How to update
-You need to click “Load” on your filter every time FilterBlade, Neversink, or I push an update, unless you become a [patreon support](https://www.patreon.com/Neversink) on filterblade.
+You need to click “Load” on your filter every time FilterBlade, Neversink, or I push an update. Unless you become a [patreon support](https://www.patreon.com/Neversink) on Filterblade, you can open your filter setting and switch "Auto-Update" on.
 
 &nbsp;
 
