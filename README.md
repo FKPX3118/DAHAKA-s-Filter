@@ -5,34 +5,33 @@
 
 # 🌟 DAHAKA's Filter
 
-**DAHAKA’s Filter** is a customizable, preset-based filter for Path of Exile, inspired by [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter). It helps to show rare or higher items, with different colors, sounds, icons, and beams. It hides useless or cluttering items. It is easy to customize and update on [Filterblade](https://www.filterblade.xyz/).
+**DAHAKA's Filter** is a customizable, preset-based filter for Path of Exile, inspired by [Neversink's Filter](https://github.com/NeverSinkDev/NeverSink-Filter). It helps to show rare or higher items, with different colors, sounds, icons, and beams. It hides useless or cluttering items. It is easy to customize and update on [Filterblade](https://www.filterblade.xyz/).
 
 ---
 ```python
 DAHAKA's Filter 3.25 Release Roadmap:
+ 1. Update Readme ✅
+ 2. Create Wiki Page ✅
+ 3. Update Tiering to Newest Version ✅
+ 4. Update Style to Newest Version ✅
+ 5. Update Strictness to Newest Version ✅
+ 6. Update SoundPack to Newest Version ✅
+ 7. Check Viability of Leveling Add-on ⏳
+ 8. Create Magic-Find Add-on ⏳
+ 9. Update Installation Guide ⏳
+ 10. Create FAQ ⏳
+ 11. Create Compatibility Notes for Developers ⏳
+ 12. Create Preloaded Filters with SoundPack ⏳
+ 13. Update Filters on FilterBlade ⏳
+ 14. Update Filters on PoE Official ⏳
+ 15. Update Filters on GitHub ⏳
 
-1. Update Readme ✅
-2. Create wiki page ✅
-3. Update Tiering to newest version ✅
-4. Update Style to newest version ✅
-5. Update Strictness to newest version ✅
-6. Update SoundPack to newest version ✅
-7. Check viability of Leveling add-on ⏳
-8. Create magic-find add-on ⏳
-9. Update Installation Guide ⏳
-10. Create FAQ ⏳
-11. Create Compatibility notes for devs ⏳
-12. Create Preloaded Filters w/ SoundPack ⏳
-13. Update filters On FilterBlade ⏳
-14. Update filters On Poe offical ⏳
-15. Update filters On Github ⏳
+After Patch Notes: 
+ 16. Archive Leveling Add-ons of Outdated Builds ⏳
+ 17. Create Leveling Add-ons for Popular Builds ⏳
 
-After Patch Notes:
-16. Archive leveling add-ons of outdated builds ⏳
-17. Create leveling add-ons for popular builds ⏳
-
-After Filter Blade Update:
-18. Update to 3.25 ⏳
+After FilterBlade Update: 
+ 18. Update to 3.25 ⏳
 ```
 ---
 
@@ -44,15 +43,15 @@ After Filter Blade Update:
 &nbsp;
   
 ## ⚙️ Features
-- ### 🛡️ Based on [Neversink’s Filter](https://github.com/NeverSinkDev/NeverSink-Filter)
+- ### 🛡️ Based on [Neversink's Filter](https://github.com/NeverSinkDev/NeverSink-Filter)
   
   * Easiest way to manage your filters, customize them to your liking, and get fast updates
   
 - ### 🧬Module-Based Architecture
 
-  * Unlike typical filters, DAHAKA’s Filter is entirely preset-based. This means it is divided into several independent aspects, ensuring that changes in one aspect do not affect the others.
+  * Unlike typical filters, DAHAKA's Filter is entirely preset-based. This means it is divided into several independent aspects, ensuring that changes in one aspect do not affect the others.
 
-  * Each aspect can be individually added to your custom filter, or you can assemble all of them to create the complete DAHAKA’s Filter. This flexibility allows you to tailor the filter to your specific needs and preferences, ensuring an optimized and clutter-free gaming experience.
+  * Each aspect can be individually added to your custom filter, or you can assemble all of them to create the complete DAHAKA's Filter. This flexibility allows you to tailor the filter to your specific needs and preferences, ensuring an optimized and clutter-free gaming experience.
 
 - ### 🎛️ Module Introduction
   * **0-Tiering**
@@ -146,21 +145,21 @@ After Filter Blade Update:
   <summary><i>Click to see more</i></summary>
   
   ### Step 1
-  >Visit the [FilterBlade](https://www.filterblade.xyz/) and log in with your account. If you don’t have an account, you can create one for free by linking your Path of Exile account.
+  >Visit the [FilterBlade](https://www.filterblade.xyz/) and log in with your account. If you don't have an account, you can create one for free by linking your Path of Exile account.
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2472cdd3-a559-43fa-8c1d-20d818309a86" alt="Image" width="400">
   
   ### Step 2
-  >On the FilterBlade homepage, you can choose to load your own favorite filter or use Neversink’s stable version(recommend), which is the default option. You can also select the strictness level of the filter, which determines how much loot is shown or hidden. The higher the strictness, the less loot you will see, but the more valuable it will be. Remember to choose the same strictness level of DAHAKA's Filter if you want to use this 3-Strictness module.
+  >On the FilterBlade homepage, you can choose to load your own favorite filter or use Neversink's stable version(recommend), which is the default option. You can also select the strictness level of the filter, which determines how much loot is shown or hidden. The higher the strictness, the less loot you will see, but the more valuable it will be. Remember to choose the same strictness level of DAHAKA's Filter if you want to use this 3-Strictness module.
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/303d419a-c366-4be3-94fe-538b102b1078" alt="Image" width="400">
 
   ### Step 3
-  >To apply DAHAKA’s presets, go to the Overview tab and click "MODULES".
+  >To apply DAHAKA's presets, go to the Overview tab and click "MODULES".
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
   >
-  >Then, click on Public and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA’s presets.
+  >Then, click on Public and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
   >
   >You will see a list of presets that you can add to your filter.
   >
