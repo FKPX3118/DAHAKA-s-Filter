@@ -114,10 +114,13 @@ After FilterBlade Update:
 
 - <details>
   <summary><i>Click to see more</i></summary>
+    
+  ### Step 1
+  Click one from those preloaded versions which works exactly the same with Modularization Installation 
   
-  ### Preloaded Filter without SoundPack
-  
-  >Filter Includes Only Tiering, Style, and Strictness
+  > **Preloaded Filter without SoundPack**
+  >
+  >Filter Includes Only Tiering, Style, Strictness
   >- [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-01-REGULAR](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-02-SEMI-STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
@@ -128,7 +131,8 @@ After FilterBlade Update:
 
   ### Preloaded Filter with SoundPack
   
-  >Filter Includes Only Tiering, Style, and Strictness
+  >Filter Includes Tiering, Style, SoundPack, Strictness
+  >You'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.
   >- [DAHAKA-s-Filter-00-SOFT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-01-REGULAR-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=85WR7T0C6CAR10&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-02-SEMI-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=3R0ZV50CYDOT8B&platform=pc&isPreset=false)
@@ -176,7 +180,7 @@ After FilterBlade Update:
   >
   >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 5. This will ensure that the presets are applied correctly and do not conflict with each other.*
   >
-  >***Note3**: If you want to use the SoundPack, you'll need the [sound file](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
+  >***Note3**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
   >For uninstalling, click "Delete"
   >
