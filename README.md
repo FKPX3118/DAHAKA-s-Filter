@@ -8,10 +8,10 @@
 **DAHAKA's Filter** is a customizable, preset-based filter for Path of Exile, inspired by [Neversink's Filter](https://github.com/NeverSinkDev/NeverSink-Filter). It helps to show rare or higher items, with different colors, sounds, icons, and beams. It hides useless or cluttering items. It is easy to customize and update on [Filterblade](https://www.filterblade.xyz/).
 
 ---
-DAHAKA's Filter 3.25 Release Roadmap:
-
-  1. Update Readme ✅
-  2. Create Wiki Page ✅
+>DAHAKA's Filter 3.25 Release Roadmap:
+>
+>  1. Update Readme ✅
+>  2. Create Wiki Page ✅
   3. Update Tiering to Newest Version ✅
   4. Update Style to Newest Version ✅
   5. Update Strictness to Newest Version ✅
