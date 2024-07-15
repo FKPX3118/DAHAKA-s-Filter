@@ -395,7 +395,7 @@ Show # $type->rare->warlord $tier->t13
 	PlayEffect Blue
 	MinimapIcon 0 Blue Diamond
 
-#Show  # $type->rare->redeemer $tier->t11
+#Show  # # $type->rare->redeemer $tier->t11
 #	HasInfluence Redeemer
 #	ItemLevel >= 82
 #	Rarity Rare
@@ -554,7 +554,7 @@ Show # $type->rare->elder $tier->t13
 #   [0204] Common Tier - T2
 #------------------------------------
 
-#Show  # $type->influenced->common $tier->t2_exo
+#Show  # # $type->influenced->common $tier->t2_exo
 #	HasInfluence Crusader Elder Hunter Redeemer Shaper Warlord
 #	Rarity Rare
 #	BaseType == "Apothecary's Gloves" "Blue Pearl Amulet" "Bone Helmet" "Cerulean Ring" "Crystal Belt" "Fingerless Silk Gloves" "Fugitive Boots" "Gripped Gloves" "Iolite Ring" "Marble Amulet" "Opal Ring" "Sacrificial Garb" "Spiked Gloves" "Steel Ring" "Stygian Vise" "Two-Toned Boots" "Vanguard Belt" "Vermillion Ring"
@@ -566,7 +566,7 @@ Show # $type->rare->elder $tier->t13
 #	PlayEffect Blue
 #	MinimapIcon 1 Blue Diamond
 
-#Show  # $type->influenced->common $tier->t2_86
+#Show  # # $type->influenced->common $tier->t2_86
 #	HasInfluence Crusader Elder Hunter Redeemer Shaper Warlord
 #	ItemLevel >= 86
 #	Rarity Rare
@@ -789,7 +789,7 @@ Show # %D3 $type->rare->exarch $tier->anyhigh
 MinimapIcon 0 Blue Diamond
 CustomAlertSound "flippy.wav" 300
 
-#Show # %D1 $type->rare->exarch $tier->any
+#Show # # %D1 $type->rare->exarch $tier->any
 #	HasSearingExarchImplicit >= 1
 #	Rarity Normal Magic Rare
 #	SetFontSize 35
@@ -810,7 +810,7 @@ Show # %D3 $type->rare->eater $tier->anyhigh
 MinimapIcon 0 Blue Diamond
 CustomAlertSound "flippy.wav" 300
 
-#Show # %D1 $type->rare->eater $tier->any
+#Show # # %D1 $type->rare->eater $tier->any
 #	HasEaterOfWorldsImplicit >= 1
 #	Rarity Normal Magic Rare
 #	SetFontSize 35
@@ -1852,7 +1852,7 @@ CustomAlertSound "flippy.wav" 300
 
 # +1 to all arrows quivers
 
-#Show  # %D5 $type->magicid $tier->t2quiver
+#Show  # # %D5 $type->magicid $tier->t2quiver
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1869,7 +1869,7 @@ CustomAlertSound "flippy.wav" 300
 
 # +1 to all global elemental gems + spell damage t1
 
-#Show  # %D5 $type->magicid $tier->t2caster
+#Show  # # %D5 $type->magicid $tier->t2caster
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1886,7 +1886,7 @@ CustomAlertSound "flippy.wav" 300
 
 # +2 to all maximum resists shield
 
-#Show  # %D4 $type->magicid $tier->t2shield
+#Show  # # %D4 $type->magicid $tier->t2shield
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1903,7 +1903,7 @@ CustomAlertSound "flippy.wav" 300
 
 # Uncorrupted Suppression Gear from Dexterity Equip
 
-#Show  # %D4 $type->magicid $tier->t2suppress
+#Show  # # %D4 $type->magicid $tier->t2suppress
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1920,7 +1920,7 @@ CustomAlertSound "flippy.wav" 300
 
 # Uncorrupted Tyrranical weapons
 
-#Show  # %D4 $type->magicid $tier->t2purephys
+#Show  # # %D4 $type->magicid $tier->t2purephys
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1937,7 +1937,7 @@ CustomAlertSound "flippy.wav" 300
 
 # DOT Sceptres and Wands
 
-#Show  # %D4 $type->magicid $tier->t2dotwand
+#Show  # # %D4 $type->magicid $tier->t2dotwand
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1952,7 +1952,7 @@ CustomAlertSound "flippy.wav" 300
 #	MinimapIcon 1 Pink Diamond
 #CustomAlertSound "flippy.wav" 300
 
-#Show  # %D4 $type->magicid $tier->t2sceptre
+#Show  # # %D4 $type->magicid $tier->t2sceptre
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -1969,7 +1969,7 @@ CustomAlertSound "flippy.wav" 300
 
 # Elemental Weapons
 
-#Show  # %D4 $type->magicid $tier->t2eleweapons
+#Show  # # %D4 $type->magicid $tier->t2eleweapons
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -2230,7 +2230,7 @@ Show # %D4 $type->exoticmods $tier->incursionmagic
 	MinimapIcon 2 Blue Diamond
 CustomAlertSound "flippy.wav" 300
 
-#Show # %D2 $type->exoticmods $tier->incursionrandom
+#Show # # %D2 $type->exoticmods $tier->incursionrandom
 #	Identified True
 #	Rarity Rare
 #	HasExplicitMod "Citaqualotl" "Guatelitzi" "Matatl" "Puhuarte" "Tacati" "Topotante" "Xopec"
@@ -2321,7 +2321,7 @@ Show # %D3 $type->exoticmods $tier->warband
 	MinimapIcon 2 Blue Diamond
 CustomAlertSound "flippy.wav" 300
 
-#Show # %D2 $type->exoticmods $tier->essence
+#Show # # %D2 $type->exoticmods $tier->essence
 #	Identified True
 #	Rarity Rare
 #	HasExplicitMod "of the Essence" "Essences"
@@ -2329,7 +2329,7 @@ CustomAlertSound "flippy.wav" 300
 #	SetBorderColor 0 240 190 180
 #	PlayEffect Blue Temp
 
-#Show # %D1 $type->exoticmods $tier->crafting
+#Show # # %D1 $type->exoticmods $tier->crafting
 #	Identified True
 #	Rarity Rare
 #	HasExplicitMod "of Crafting" "of Spellcraft" "of Weaponcraft"
@@ -2450,7 +2450,7 @@ Show # $type->questlikeexception $tier->questitems
 	MinimapIcon 0 Green Pentagon
 CustomAlertSound "skull.wav" 300
 
-#Show  # $type->exotic->invitation $tier->t1
+#Show  # # $type->exotic->invitation $tier->t1
 #	Rarity Normal Magic Rare
 #	SetFontSize 45
 #	SetTextColor 159 15 213 255
@@ -2697,7 +2697,7 @@ Hide # %D2 $type->exotic->fractured $tier->fractothers
 
 # Optional modules for enchanment based filtering
 
-#Show  # $type->exotic->enchanted $tier->enchantedringsgoldoil
+#Show  # # $type->exotic->enchanted $tier->enchantedringsgoldoil
 #	AnyEnchantment True
 #	Mirrored False
 #	Corrupted False
@@ -2712,7 +2712,7 @@ Hide # %D2 $type->exotic->fractured $tier->fractothers
 #	MinimapIcon 0 Yellow Diamond
 #CustomAlertSound "flippy.wav" 300
 
-#Show  # $type->exotic->enchanted $tier->enchantedringssilveroil
+#Show  # # $type->exotic->enchanted $tier->enchantedringssilveroil
 #	AnyEnchantment True
 #	Mirrored False
 #	Corrupted False
@@ -2870,7 +2870,7 @@ CustomAlertSound "flippy.wav" 300
 #------------------------------------
 # !! Waypoint c3.gear.perfectionbased.all : "Crafting Bases - Items with perfect variable defense rolls (Sacred Orb roll)"
 
-#Show # %D4 $type->crafting->perfectarmours $tier->t1
+#Show # # %D4 $type->crafting->perfectarmours $tier->t1
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 86
@@ -2885,7 +2885,7 @@ CustomAlertSound "flippy.wav" 300
 #	MinimapIcon 0 Purple Moon
 #CustomAlertSound "flippy.wav" 300
 
-#Show  # %D0 $type->crafting->perfectarmours $tier->t2
+#Show  # # %D0 $type->crafting->perfectarmours $tier->t2
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 86
@@ -2905,7 +2905,7 @@ CustomAlertSound "flippy.wav" 300
 #------------------------------------
 # !! Waypoint c4.recipes.rgb.all : "Recipes - Endgame chromatic recipes (normal and magic RGBs)"
 
-#Show # %D2 $type->endgamergb $tier->rgbsmall1
+#Show # # %D2 $type->endgamergb $tier->rgbsmall1
 #	Width 2
 #	Height 2
 #	Rarity Normal Magic
@@ -2916,7 +2916,7 @@ CustomAlertSound "flippy.wav" 300
 #	SetBorderColor 200 200 200 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D2 $type->endgamergb $tier->rgbsmall2
+#Show # # %D2 $type->endgamergb $tier->rgbsmall2
 #	Width 1
 #	Height <= 4
 #	Rarity Normal Magic
@@ -2927,7 +2927,7 @@ CustomAlertSound "flippy.wav" 300
 #	SetBorderColor 200 200 200 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D0 $type->endgamergb $tier->rgblarge
+#Show # # %D0 $type->endgamergb $tier->rgblarge
 #	Width 2
 #	Height 4
 #	Rarity Normal Magic
@@ -2938,7 +2938,7 @@ CustomAlertSound "flippy.wav" 300
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D0 $type->endgamergb $tier->rgbmedium
+#Show # # %D0 $type->endgamergb $tier->rgbmedium
 #	Width 2
 #	Height 3
 #	Rarity Normal Magic
@@ -3033,7 +3033,7 @@ Show # %D5 $type->normalcraft->i86 $tier->t1
 	MinimapIcon 0 Blue Diamond
 CustomAlertSound "flippy.wav" 300
 
-#Show # %D4 $type->normalcraft->i86 $tier->t2
+#Show # # %D4 $type->normalcraft->i86 $tier->t2
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 86
@@ -3041,7 +3041,7 @@ CustomAlertSound "flippy.wav" 300
 #	BaseType == "Amethyst Ring" "Archon Kite Shield" "Artillery Quiver" "Astral Plate" "Battered Foil" "Blue Pearl Amulet" "Bone Ring" "Broadhead Arrow Quiver" "Cardinal Round Shield" "Cerulean Ring" "Colossal Tower Shield" "Convoking Wand" "Copper Kris" "Crusader Boots" "Crusader Gloves" "Deicide Mask" "Despot Axe" "Diamond Ring" "Dragonscale Boots" "Dragonscale Gauntlets" "Eternal Burgonet" "Ezomyte Tower Shield" "Fossilised Spirit Shield" "Full Dragonscale" "Gemini Claw" "Glorious Plate" "Golden Kris" "Hubris Circlet" "Imbued Wand" "Imperial Claw" "Lacquered Buckler" "Lion Pelt" "Murder Boots" "Murder Mitts" "Onyx Amulet" "Opal Sceptre" "Opal Wand" "Pig-Faced Bascinet" "Platinum Kris" "Praetor Crown" "Primal Arrow Quiver" "Prismatic Ring" "Profane Wand" "Prophecy Wand" "Reflex Bow" "Royal Burgonet" "Sadist Garb" "Sambar Sceptre" "Short Bow" "Siege Axe" "Slink Boots" "Slink Gloves" "Sorcerer Boots" "Sorcerer Gloves" "Supreme Spiked Shield" "Thicket Bow" "Titan Gauntlets" "Titan Greaves" "Titanium Spirit Shield" "Two-Stone Ring" "Unset Ring" "Vaal Regalia" "Vanguard Belt" "Void Sceptre" "Zodiac Leather"
 #	SetBorderColor 255 125 0 185
 
-#Show # %D1 $type->normalcraft->i86 $tier->t3
+#Show # # %D1 $type->normalcraft->i86 $tier->t3
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 86
@@ -3063,7 +3063,7 @@ Hide # %D2 $type->normalcraft->i84 $tier->t1
 	SetFontSize 45
 	SetBorderColor 200 200 0 240
 
-#Show # %D1 $type->normalcraft->i84 $tier->t2
+#Show # # %D1 $type->normalcraft->i84 $tier->t2
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 84
@@ -3071,7 +3071,7 @@ Hide # %D2 $type->normalcraft->i84 $tier->t1
 #	BaseType == "Amethyst Ring" "Archon Kite Shield" "Artillery Quiver" "Astral Plate" "Battered Foil" "Blue Pearl Amulet" "Bone Ring" "Broadhead Arrow Quiver" "Cardinal Round Shield" "Cerulean Ring" "Colossal Tower Shield" "Convoking Wand" "Copper Kris" "Crusader Boots" "Crusader Gloves" "Deicide Mask" "Despot Axe" "Diamond Ring" "Dragonscale Boots" "Dragonscale Gauntlets" "Eternal Burgonet" "Ezomyte Tower Shield" "Fossilised Spirit Shield" "Full Dragonscale" "Gemini Claw" "Glorious Plate" "Golden Kris" "Hubris Circlet" "Imbued Wand" "Imperial Claw" "Lacquered Buckler" "Lion Pelt" "Murder Boots" "Murder Mitts" "Onyx Amulet" "Opal Sceptre" "Opal Wand" "Pig-Faced Bascinet" "Platinum Kris" "Praetor Crown" "Primal Arrow Quiver" "Prismatic Ring" "Profane Wand" "Prophecy Wand" "Reflex Bow" "Royal Burgonet" "Sadist Garb" "Sambar Sceptre" "Short Bow" "Siege Axe" "Slink Boots" "Slink Gloves" "Sorcerer Boots" "Sorcerer Gloves" "Supreme Spiked Shield" "Thicket Bow" "Titan Gauntlets" "Titan Greaves" "Titanium Spirit Shield" "Two-Stone Ring" "Unset Ring" "Vaal Regalia" "Vanguard Belt" "Void Sceptre" "Zodiac Leather"
 #	SetBorderColor 200 200 0 185
 
-#Show  # $type->normalcraft->i84 $tier->t3
+#Show  # # $type->normalcraft->i84 $tier->t3
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 84
@@ -3084,7 +3084,7 @@ Hide # %D2 $type->normalcraft->i84 $tier->t1
 #------------------------------------
 # !! Waypoint c3.gear.crafting-others : "Crafting Bases - High level basetypes - others"
 
-#Show # %D2 $type->normalcraft->rest $tier->t1
+#Show # # %D2 $type->normalcraft->rest $tier->t1
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel <= 83
@@ -3096,7 +3096,7 @@ Hide # %D2 $type->normalcraft->i84 $tier->t1
 #	PlayEffect Grey
 #	MinimapIcon 2 Grey Diamond
 
-#Show  # %D0 $type->normalcraft->rest $tier->t2
+#Show  # # %D0 $type->normalcraft->rest $tier->t2
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel <= 83
@@ -3105,7 +3105,7 @@ Hide # %D2 $type->normalcraft->i84 $tier->t1
 #	BaseType == "Amethyst Ring" "Archon Kite Shield" "Artillery Quiver" "Astral Plate" "Battered Foil" "Blue Pearl Amulet" "Bone Ring" "Broadhead Arrow Quiver" "Cardinal Round Shield" "Cerulean Ring" "Colossal Tower Shield" "Convoking Wand" "Copper Kris" "Crusader Boots" "Crusader Gloves" "Deicide Mask" "Despot Axe" "Diamond Ring" "Dragonscale Boots" "Dragonscale Gauntlets" "Eternal Burgonet" "Ezomyte Tower Shield" "Fossilised Spirit Shield" "Full Dragonscale" "Gemini Claw" "Glorious Plate" "Golden Kris" "Hubris Circlet" "Imbued Wand" "Imperial Claw" "Lacquered Buckler" "Lion Pelt" "Murder Boots" "Murder Mitts" "Onyx Amulet" "Opal Sceptre" "Opal Wand" "Pig-Faced Bascinet" "Platinum Kris" "Praetor Crown" "Primal Arrow Quiver" "Prismatic Ring" "Profane Wand" "Prophecy Wand" "Reflex Bow" "Royal Burgonet" "Sadist Garb" "Sambar Sceptre" "Short Bow" "Siege Axe" "Slink Boots" "Slink Gloves" "Sorcerer Boots" "Sorcerer Gloves" "Supreme Spiked Shield" "Thicket Bow" "Titan Gauntlets" "Titan Greaves" "Titanium Spirit Shield" "Two-Stone Ring" "Unset Ring" "Vaal Regalia" "Vanguard Belt" "Void Sceptre" "Zodiac Leather"
 #	SetBorderColor 100 100 100 150
 
-#Show  # $type->normalcraft->rest $tier->t3
+#Show  # # $type->normalcraft->rest $tier->t3
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel <= 83
@@ -3154,7 +3154,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 # Minimal list of bases for harvest specific crafting. This list is really not conclusive, but you can adjust it yourself on filterblade or here.
 # Having this list too long will lead to being too flooded with these drops.
 
-#Show  # %D0 $type->normalcraft->extra $tier->any
+#Show  # # %D0 $type->normalcraft->extra $tier->any
 #	Mirrored False
 #	Corrupted False
 #	ItemLevel >= 68
@@ -3163,7 +3163,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	BaseType == "Amethyst Ring" "Convoking Wand" "Imbued Wand" "Imperial Claw" "Spine Bow" "Two-Stone Ring"
 #	SetBorderColor 100 100 100 150
 
-#Show  # %D1 $type->normalcraft->lowstrict $tier->overquality
+#Show  # # %D1 $type->normalcraft->lowstrict $tier->overquality
 #	Mirrored False
 #	Corrupted False
 #	Quality >= 29
@@ -3176,7 +3176,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	SetBorderColor 0 240 190 180
 #	PlayEffect Blue Temp
 
-#Show # %D1 $type->normalcraft->lowstrict $tier->earlyendgame4link
+#Show # # %D1 $type->normalcraft->lowstrict $tier->earlyendgame4link
 #	Mirrored False
 #	Corrupted False
 #	LinkedSockets >= 4
@@ -3194,7 +3194,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #------------------------------------
 # !! Waypoint c4.recipes.chisel.all : "Recipes - Chisel recipe"
 
-#Show  # %D0 $type->chiselrecipe $tier->chisel20
+#Show  # # %D0 $type->chiselrecipe $tier->chisel20
 #	Quality >= 20
 #	Rarity Normal Magic Rare
 #	BaseType == "Gavel" "Rock Breaker" "Stone Hammer"
@@ -3203,7 +3203,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	SetBorderColor 200 200 200 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show  # %D0 $type->chiselrecipe $tier->chiselhighqualnormal
+#Show  # # %D0 $type->chiselrecipe $tier->chiselhighqualnormal
 #	Mirrored False
 #	Corrupted False
 #	Quality >= 15
@@ -3214,7 +3214,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show  # %D0 $type->chiselrecipe $tier->chiselhighqualmagic
+#Show  # # %D0 $type->chiselrecipe $tier->chiselhighqualmagic
 #	Mirrored False
 #	Corrupted False
 #	Quality >= 18
@@ -3225,7 +3225,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show  # %D0 $type->chiselrecipe $tier->chiselanyqualmagic
+#Show  # # %D0 $type->chiselrecipe $tier->chiselanyqualmagic
 #	Mirrored False
 #	Corrupted False
 #	Rarity Magic
@@ -3235,7 +3235,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show  # %D0 $type->chiselrecipe $tier->chiselanyqualnormal
+#Show  # # %D0 $type->chiselrecipe $tier->chiselanyqualnormal
 #	Mirrored False
 #	Corrupted False
 #	Rarity Normal
@@ -3250,7 +3250,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #===============================================================================================================
 # !! Waypoint c4.chancing : "Chancing bases"
 
-#Show # %D1 $type->chancing $tier->hh
+#Show # # %D1 $type->chancing $tier->hh
 #	Mirrored False
 #	Corrupted False
 #	Rarity Normal
@@ -3259,7 +3259,7 @@ Show # $type->decorator->craftinggeneric $tier->normaldecoratorremover
 #	SetTextColor 255 255 255 255
 #	SetBorderColor 0 150 0 90
 
-#Show # %D1 $type->chancing $tier->t2
+#Show # # %D1 $type->chancing $tier->t2
 #	Mirrored False
 #	Corrupted False
 #	Rarity Normal
@@ -3386,7 +3386,7 @@ SetBackgroundColor 130 110 110
 #------------------------------------
 # !! Waypoint c4.flasks.others : "Endgame Flasks - Other flasks"
 
-#Show # %D2 $type->endgameflasks $tier->any20qualflask
+#Show # # %D2 $type->endgameflasks $tier->any20qualflask
 #	Quality >= 20
 #	Rarity Normal
 #	Class == "Hybrid Flasks" "Life Flasks" "Mana Flasks" "Utility Flasks"
@@ -3428,7 +3428,7 @@ BaseType == "Quicksilver Flask" "Bismuth Flask" "Amethyst Flask" "Ruby Flask" "S
 #   [1404] Quality Low
 #------------------------------------
 
-#Show  # %D1 $type->endgameflasks $tier->qualityhigh
+#Show  # # %D1 $type->endgameflasks $tier->qualityhigh
 #	Quality >= 15
 #	Rarity Normal Magic
 #	Class == "Hybrid Flasks" "Life Flasks" "Mana Flasks" "Utility Flasks"
@@ -3439,7 +3439,7 @@ BaseType == "Quicksilver Flask" "Bismuth Flask" "Amethyst Flask" "Ruby Flask" "S
 #	SetBorderColor 200 200 200 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show  # %D0 $type->endgameflasks $tier->qualitylow
+#Show  # # %D0 $type->endgameflasks $tier->qualitylow
 #	Quality >= 1
 #	Rarity Normal Magic
 #	Class == "Hybrid Flasks" "Life Flasks" "Mana Flasks" "Utility Flasks"
@@ -3454,7 +3454,7 @@ BaseType == "Quicksilver Flask" "Bismuth Flask" "Amethyst Flask" "Ruby Flask" "S
 #   [1405] Early mapping life/mana/utility flasks
 #------------------------------------
 
-#Show # %D2 $type->endgameflasks $tier->earlymappinglifemana
+#Show # # %D2 $type->endgameflasks $tier->earlymappinglifemana
 #	Mirrored False
 #	Corrupted False
 #	Rarity Normal Magic
@@ -3469,7 +3469,7 @@ BaseType == "Quicksilver Flask" "Bismuth Flask" "Amethyst Flask" "Ruby Flask" "S
 #===============================================================================================================
 # !! Waypoint c4.misc.others : "SpecialGear - Overquality items and optional animated weapon module"
 
-#Show # %D3 $type->miscendgamerules $tier->whitesocketweapons1h
+#Show # # %D3 $type->miscendgamerules $tier->whitesocketweapons1h
 #	Mirrored False
 #	Corrupted False
 #	Sockets >= 3WWW
@@ -3480,28 +3480,28 @@ BaseType == "Quicksilver Flask" "Bismuth Flask" "Amethyst Flask" "Ruby Flask" "S
 #	SetBorderColor 0 240 190 180
 #	PlayEffect Blue Temp
 
-#Show  # $type->animatedweapons $tier->normalmelee
+#Show  # # $type->animatedweapons $tier->normalmelee
 #	Rarity Normal
 #	Class == "Claws" "Daggers" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Warstaves"
 #	SetFontSize 18
 #	SetBorderColor 230 0 0 255
 #	SetBackgroundColor 20 20 0 100
 
-#Show  # $type->animatedweapons $tier->normalranged
+#Show  # # $type->animatedweapons $tier->normalranged
 #	Rarity Normal
 #	Class == "Bows" "Wands"
 #	SetFontSize 18
 #	SetBorderColor 230 0 0 255
 #	SetBackgroundColor 20 20 0 100
 
-#Show  # $type->animatedweapons $tier->magicmelee
+#Show  # # $type->animatedweapons $tier->magicmelee
 #	Rarity Magic
 #	Class == "Claws" "Daggers" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Warstaves"
 #	SetFontSize 18
 #	SetBorderColor 230 0 0 255
 #	SetBackgroundColor 20 20 0 100
 
-#Show  # $type->animatedweapons $tier->magicranged
+#Show  # # $type->animatedweapons $tier->magicranged
 #	Rarity Magic
 #	Class == "Bows" "Wands"
 #	SetFontSize 18
@@ -3746,7 +3746,7 @@ Hide # %H0 $type->rare->exotic->talisman $tier->any
 #===============================================================================================================
 # !! Waypoint c6.rare.generic.all : "Rare Endgame Items - (Optional) Hiding identified rares"
 
-#Hide  # $type->rareoptional $tier->idhider
+#Hide  # # $type->rareoptional $tier->idhider
 #	Identified True
 #	ItemLevel >= 68
 #	Rarity Rare
@@ -3784,7 +3784,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #===============================================================================================================
 # !! Waypoint c6.rare.trinkets.all : "Rare Endgame Items - Amulets, Rings"
 
-#Show # %D4 $type->rr->amuring $tier->t1
+#Show # # %D4 $type->rr->amuring $tier->t1
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Amulets" "Rings"
@@ -3792,7 +3792,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 45
 #	SetBackgroundColor 0 80 30 255
 
-#Show # %D3 $type->rr->amuring $tier->t2
+#Show # # %D3 $type->rr->amuring $tier->t2
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Amulets" "Rings"
@@ -3800,7 +3800,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 45
 #	SetBackgroundColor 0 40 10 255
 
-#Show # %D2 $type->rr->amuring $tier->t3
+#Show # # %D2 $type->rr->amuring $tier->t3
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Amulets" "Rings"
@@ -3810,7 +3810,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 
 # !! Waypoint c6.rare.belts.all : "Rare Endgame Items - Belts"
 
-#Show # %D4 $type->rr->belts $tier->t1
+#Show # # %D4 $type->rr->belts $tier->t1
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Belts"
@@ -3818,7 +3818,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 45
 #	SetBackgroundColor 0 80 30 255
 
-#Show # %D3 $type->rr->belts $tier->t2
+#Show # # %D3 $type->rr->belts $tier->t2
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Belts"
@@ -3826,7 +3826,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 45
 #	SetBackgroundColor 0 40 10 255
 
-#Show # %D2 $type->rr->belts $tier->t3
+#Show # # %D2 $type->rr->belts $tier->t3
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Belts"
@@ -3839,14 +3839,14 @@ Hide # $type->hidelayer $tier->mirroredrares
 #===============================================================================================================
 # !! Waypoint c6.rare.t1.all : "Rare Endgame Items - T1"
 
-#Show # %D3 $type->rr $tier->t1weapons
+#Show # # %D3 $type->rr $tier->t1weapons
 #	ItemLevel >= 68
 #	Rarity Rare
 #	BaseType == "Broadhead Arrow Quiver" "Convoking Wand" "Feathered Arrow Quiver" "Imbued Wand" "Imperial Bow" "Opal Sceptre" "Profane Wand" "Prophecy Wand" "Short Bow" "Spine Bow" "Thicket Bow" "Void Sceptre"
 #	SetFontSize 45
 #	SetBackgroundColor 20 20 0 255
 
-#Show # %D3 $type->rr $tier->t1armours
+#Show # # %D3 $type->rr $tier->t1armours
 #	ItemLevel >= 68
 #	Rarity Rare
 #	BaseType == "Apothecary's Gloves" "Assassin's Mitts" "Bone Helmet" "Crusader Boots" "Dragonscale Boots" "Dragonscale Gauntlets" "Eternal Burgonet" "Fugitive Boots" "Gripped Gloves" "Hubris Circlet" "Hydrascale Boots" "Hydrascale Gauntlets" "Lacquered Buckler" "Legion Boots" "Lion Pelt" "Murder Boots" "Nightmare Bascinet" "Pig-Faced Bascinet" "Royal Burgonet" "Shagreen Boots" "Slink Boots" "Slink Gloves" "Sorcerer Boots" "Sorcerer Gloves" "Stealth Boots" "Stealth Gloves" "Titan Gauntlets" "Titan Greaves" "Titanium Spirit Shield" "Two-Toned Boots" "Vaal Greaves" "Wyrmscale Boots"
@@ -3858,14 +3858,14 @@ Hide # $type->hidelayer $tier->mirroredrares
 #===============================================================================================================
 # !! Waypoint c6.rare.t2.all : "Rare Endgame Items - T2"
 
-#Show # %D3 $type->rr $tier->t2weapons
+#Show # # %D3 $type->rr $tier->t2weapons
 #	ItemLevel >= 68
 #	Rarity Rare
 #	BaseType == "Battered Foil" "Calling Wand" "Carnal Sceptre" "Citadel Bow" "Convening Wand" "Demon Dagger" "Demon's Horn" "Despot Axe" "Ezomyte Axe" "Fiend Dagger" "Gemini Claw" "Heathen Wand" "Heavy Arrow Quiver" "Imperial Claw" "Ivory Bow" "Maraketh Bow" "Omen Wand" "Primal Arrow Quiver" "Vaal Sceptre" "Copper Kris" "Golden Kris" "Platinum Kris" "Tornado Wand" "Opal Wand"
 #	SetFontSize 40
 #	SetBackgroundColor 35 35 35 240
 
-#Show # %D3 $type->rr $tier->t2armours
+#Show # # %D3 $type->rr $tier->t2armours
 #	ItemLevel >= 68
 #	Rarity Rare
 #	BaseType == "Ambush Boots" "Ambush Mitts" "Ancient Greaves" "Angelic Kite Shield" "Antique Greaves" "Arcanist Gloves" "Arcanist Slippers" "Assassin's Boots" "Bronzescale Boots" "Callous Mask" "Cardinal Round Shield" "Carnal Boots" "Carnal Mitts" "Champion Kite Shield" "Colossal Tower Shield" "Crusader Buckler" "Eelskin Boots" "Elegant Round Shield" "Ezomyte Burgonet" "Ezomyte Tower Shield" "Fencer Helm" "Fingerless Silk Gloves" "Fluted Bascinet" "Fossilised Spirit Shield" "Full Dragonscale" "Goliath Gauntlets" "Goliath Greaves" "Harlequin Mask" "Harmonic Spirit Shield" "Imperial Buckler" "Lacquered Helmet" "Legion Gloves" "Magistrate Crown" "Mirrored Spiked Shield" "Mosaic Kite Shield" "Nubuck Boots" "Pinnacle Tower Shield" "Prophet Crown" "Regicide Mask" "Sadist Garb" "Saintly Chainmail" "Serpentscale Boots" "Serpentscale Gauntlets" "Shagreen Gloves" "Sharkskin Boots" "Silken Hood" "Soldier Boots" "Soldier Gloves" "Spiked Gloves" "Steelscale Boots" "Steelscale Gauntlets" "Supreme Spiked Shield" "Triumphant Lamellar" "Ursine Pelt" "Vaal Gauntlets" "Vaal Regalia" "Vaal Spirit Shield" "Wyrmscale Gauntlets" "Zealot Boots" "Zodiac Leather" "Archon Kite Shield" "Sinner Tricorne" "Vaal Mask" "Deicide Mask" "Praetor Crown" "Murder Mitts" "Crusader Gloves"
@@ -3877,7 +3877,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #===============================================================================================================
 # !! Waypoint c6.rare.idhandling.all :  "Rare Endgame Items - Identified Item Handling"
 
-#Show # %D1 $type->rr $tier->identifieditemhandling
+#Show # # %D1 $type->rr $tier->identifieditemhandling
 #	Mirrored False
 #	Corrupted False
 #	Identified True
@@ -3893,7 +3893,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #===============================================================================================================
 # !! Waypoint c6.rare.t3.all : "Rare Endgame Items - t3"
 
-#Show # %D2 $type->rr $tier->t3runedaggers
+#Show # # %D2 $type->rr $tier->t3runedaggers
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Rune Daggers"
@@ -3901,7 +3901,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3daggers
+#Show # # %D2 $type->rr $tier->t3daggers
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Daggers"
@@ -3909,7 +3909,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3claws
+#Show # # %D2 $type->rr $tier->t3claws
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Claws"
@@ -3917,7 +3917,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3wands
+#Show # # %D2 $type->rr $tier->t3wands
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Wands"
@@ -3925,7 +3925,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3foils
+#Show # # %D2 $type->rr $tier->t3foils
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Thrusting One Hand Swords"
@@ -3933,7 +3933,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3swords1h
+#Show # # %D2 $type->rr $tier->t3swords1h
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "One Hand Swords"
@@ -3941,7 +3941,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3maces1h
+#Show # # %D2 $type->rr $tier->t3maces1h
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "One Hand Maces"
@@ -3949,7 +3949,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3axes1h
+#Show # # %D2 $type->rr $tier->t3axes1h
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "One Hand Axes"
@@ -3957,7 +3957,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3sceptres
+#Show # # %D2 $type->rr $tier->t3sceptres
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Sceptres"
@@ -3965,7 +3965,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3warstaves
+#Show # # %D2 $type->rr $tier->t3warstaves
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Warstaves"
@@ -3973,7 +3973,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3staves
+#Show # # %D2 $type->rr $tier->t3staves
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Staves"
@@ -3981,7 +3981,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3swords2h
+#Show # # %D2 $type->rr $tier->t3swords2h
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Two Hand Swords"
@@ -3989,7 +3989,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3axes2h
+#Show # # %D2 $type->rr $tier->t3axes2h
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Two Hand Axes"
@@ -3997,7 +3997,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3maces2h
+#Show # # %D2 $type->rr $tier->t3maces2h
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Two Hand Maces"
@@ -4005,7 +4005,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3bows
+#Show # # %D2 $type->rr $tier->t3bows
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Bows"
@@ -4013,7 +4013,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3boots
+#Show # # %D2 $type->rr $tier->t3boots
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Boots"
@@ -4021,7 +4021,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3gloves
+#Show # # %D2 $type->rr $tier->t3gloves
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Gloves"
@@ -4029,7 +4029,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3helmets
+#Show # # %D2 $type->rr $tier->t3helmets
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Helmets"
@@ -4037,7 +4037,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3body
+#Show # # %D2 $type->rr $tier->t3body
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Body Armours"
@@ -4045,7 +4045,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3shields
+#Show # # %D2 $type->rr $tier->t3shields
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Shields"
@@ -4053,7 +4053,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetFontSize 35
 #	SetBackgroundColor 80 80 80 190
 
-#Show # %D2 $type->rr $tier->t3quivers
+#Show # # %D2 $type->rr $tier->t3quivers
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Quivers"
@@ -4066,7 +4066,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #===============================================================================================================
 # !! Waypoint c6.rare.t4.all : "Rare Endgame Items - T4"
 
-#Show # %D1 $type->rr $tier->t4endgamerares
+#Show # # %D1 $type->rr $tier->t4endgamerares
 #	ItemLevel >= 68
 #	Rarity Rare
 #	Class == "Body Armours" "Boots" "Bows" "Claws" "Daggers" "Gloves" "Helmets" "One Hand Axes" "One Hand Maces" "One Hand Swords" "Quivers" "Rune Daggers" "Sceptres" "Shields" "Staves" "Thrusting One Hand Swords" "Two Hand Axes" "Two Hand Maces" "Two Hand Swords" "Wands" "Warstaves"
@@ -4075,7 +4075,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 
 # !! Waypoint c6.rare.t4.chroms : "Rare Endgame Items - lowtierchromatics"
 
-#Show # %D2 $type->rr $tier->rgbsmall1
+#Show # # %D2 $type->rr $tier->rgbsmall1
 #	Width 2
 #	Height 2
 #	ItemLevel >= 68
@@ -4086,7 +4086,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetBorderColor 200 200 200 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D2 $type->rr $tier->rgbsmall2
+#Show # # %D2 $type->rr $tier->rgbsmall2
 #	Width 1
 #	Height <= 4
 #	ItemLevel >= 68
@@ -4097,7 +4097,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetBorderColor 200 200 200 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D0 $type->rr $tier->rgblarge
+#Show # # %D0 $type->rr $tier->rgblarge
 #	Width 2
 #	Height 4
 #	ItemLevel >= 68
@@ -4108,7 +4108,7 @@ Hide # $type->hidelayer $tier->mirroredrares
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D0 $type->rr $tier->rgbmedium
+#Show # # %D0 $type->rr $tier->rgbmedium
 #	Width 2
 #	Height 3
 #	ItemLevel >= 68
@@ -4313,7 +4313,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 	PlayEffect Purple
 	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n12_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n12_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 12
@@ -4326,7 +4326,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t1
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n12_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n12_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 12
@@ -4355,7 +4355,7 @@ Show # $type->jewels->clustereco $tier->n11_i84_t1
 	PlayEffect Purple
 	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n11_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n11_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 11
@@ -4368,7 +4368,7 @@ Show # $type->jewels->clustereco $tier->n11_i84_t1
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n11_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n11_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 11
@@ -4397,7 +4397,7 @@ PlayAlertSound 1 300
 PlayEffect Purple
 MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n10_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n10_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 10
@@ -4410,7 +4410,7 @@ MinimapIcon 0 Purple Diamond
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n10_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n10_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 10
@@ -4425,7 +4425,7 @@ MinimapIcon 0 Purple Diamond
 
 # Large N9 T1
 
-#Show  # $type->jewels->clustereco $tier->n9_i84_t1
+#Show  # # $type->jewels->clustereco $tier->n9_i84_t1
 #	ItemLevel >= 84
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 9
@@ -4438,7 +4438,7 @@ MinimapIcon 0 Purple Diamond
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n9_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n9_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 9
@@ -4451,7 +4451,7 @@ MinimapIcon 0 Purple Diamond
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n9_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n9_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 9
@@ -4512,7 +4512,7 @@ EnchantmentPassiveNode "Attack Damage while holding a Shield"
 
 # Medium N6 T1
 
-#Show  # $type->jewels->clustereco $tier->n6_i84_t1
+#Show  # # $type->jewels->clustereco $tier->n6_i84_t1
 #	ItemLevel >= 84
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 6
@@ -4525,7 +4525,7 @@ EnchantmentPassiveNode "Attack Damage while holding a Shield"
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n6_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n6_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 6
@@ -4538,7 +4538,7 @@ EnchantmentPassiveNode "Attack Damage while holding a Shield"
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n6_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n6_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 6
@@ -4567,7 +4567,7 @@ PlayEffect Purple
 MinimapIcon 0 Purple Diamond
 EnchantmentPassiveNode "Projectile Damage"
 
-#Show  # $type->jewels->clustereco $tier->n4_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n4_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum <= 5
@@ -4611,7 +4611,7 @@ Show # $type->jewels->clustereco $tier->n3_i84_t1
 	PlayEffect Purple
 	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n3_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n3_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 3
@@ -4624,7 +4624,7 @@ Show # $type->jewels->clustereco $tier->n3_i84_t1
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n3_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n3_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 3
@@ -4653,7 +4653,7 @@ PlayEffect Purple
 MinimapIcon 0 Purple Diamond
 EnchantmentPassiveNode "Reservation Efficiency"
 
-#Show  # $type->jewels->clustereco $tier->n2_i75_t1
+#Show  # # $type->jewels->clustereco $tier->n2_i75_t1
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 2
@@ -4666,7 +4666,7 @@ EnchantmentPassiveNode "Reservation Efficiency"
 #	PlayEffect Purple
 #	MinimapIcon 0 Purple Diamond
 
-#Show  # $type->jewels->clustereco $tier->n2_i68_t1
+#Show  # # $type->jewels->clustereco $tier->n2_i68_t1
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 2
@@ -4695,7 +4695,7 @@ Show # $type->jewels->clustereco $tier->n12_i84_t2
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n12_i75_t2
+#Show  # # $type->jewels->clustereco $tier->n12_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 12
@@ -4708,7 +4708,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n12_i68_t2
+#Show  # # $type->jewels->clustereco $tier->n12_i68_t2
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 12
@@ -4723,7 +4723,7 @@ CustomAlertSound "jewel.wav" 300
 
 # Large N11 T2
 
-#Show # $type->jewels->clustereco $tier->n11_i84_t2
+#Show # # $type->jewels->clustereco $tier->n11_i84_t2
 #	ItemLevel >= 84
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 11
@@ -4736,7 +4736,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n11_i75_t2
+#Show  # # $type->jewels->clustereco $tier->n11_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 11
@@ -4749,7 +4749,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n11_i68_t2
+#Show  # # $type->jewels->clustereco $tier->n11_i68_t2
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 11
@@ -4764,7 +4764,7 @@ CustomAlertSound "jewel.wav" 300
 
 # Large N10 T2
 
-#Show # $type->jewels->clustereco $tier->n10_i84_t2
+#Show # # $type->jewels->clustereco $tier->n10_i84_t2
 #	ItemLevel >= 84
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 10
@@ -4777,7 +4777,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n10_i75_t2
+#Show  # # $type->jewels->clustereco $tier->n10_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 10
@@ -4790,7 +4790,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n10_i68_t2
+#Show  # # $type->jewels->clustereco $tier->n10_i68_t2
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 10
@@ -4805,7 +4805,7 @@ CustomAlertSound "jewel.wav" 300
 
 # Large N9 T2
 
-#Show # $type->jewels->clustereco $tier->n9_i84_t2
+#Show # # $type->jewels->clustereco $tier->n9_i84_t2
 #	ItemLevel >= 84
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 9
@@ -4818,7 +4818,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n9_i75_t2
+#Show  # # $type->jewels->clustereco $tier->n9_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 9
@@ -4831,7 +4831,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n9_i68_t2
+#Show  # # $type->jewels->clustereco $tier->n9_i68_t2
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 9
@@ -4904,7 +4904,7 @@ Show # $type->jewels->clustereco $tier->n6_i84_t2
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n6_i75_t2
+#Show  # # $type->jewels->clustereco $tier->n6_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 6
@@ -4917,7 +4917,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n6_i68_t2
+#Show  # # $type->jewels->clustereco $tier->n6_i68_t2
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 6
@@ -4946,7 +4946,7 @@ Show # $type->jewels->clustereco $tier->n4_i84_t2
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show # $type->jewels->clustereco $tier->n4_i75_t2
+#Show # # $type->jewels->clustereco $tier->n4_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum <= 5
@@ -4959,7 +4959,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show # $type->jewels->clustereco $tier->n4_i68_t2
+#Show # # $type->jewels->clustereco $tier->n4_i68_t2
 #	ItemLevel >= 68
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum <= 5
@@ -5032,7 +5032,7 @@ Show # $type->jewels->clustereco $tier->n2_i84_t2
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n2_i75_t2
+#Show  # # $type->jewels->clustereco $tier->n2_i75_t2
 #	ItemLevel >= 75
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 2
@@ -5045,7 +5045,7 @@ CustomAlertSound "jewel.wav" 300
 #	MinimapIcon 1 Purple Diamond
 #CustomAlertSound "jewel.wav" 300
 
-#Show  # $type->jewels->clustereco $tier->n2_i68_t2
+#Show  # # $type->jewels->clustereco $tier->n2_i68_t2
 #	ItemLevel >= 50
 #	Rarity Normal Magic Rare
 #	EnchantmentPassiveNum 2
@@ -5103,7 +5103,7 @@ Show # %D4 $type->jewels->cluster $tier->highlarge
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show # %D3 $type->jewels->cluster $tier->large
+#Show # # %D3 $type->jewels->cluster $tier->large
 #	Rarity Normal Magic Rare
 #	BaseType == "Large Cluster Jewel"
 #	SetFontSize 45
@@ -5139,7 +5139,7 @@ Show # %D4 $type->jewels->cluster $tier->highmedium
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show # %D3 $type->jewels->cluster $tier->medium
+#Show # # %D3 $type->jewels->cluster $tier->medium
 #	Rarity Normal Magic Rare
 #	BaseType == "Medium Cluster Jewel"
 #	SetFontSize 45
@@ -5162,7 +5162,7 @@ Show # %D4 $type->jewels->cluster $tier->highsmall
 	MinimapIcon 1 Purple Diamond
 CustomAlertSound "jewel.wav" 300
 
-#Show # %D3 $type->jewels->cluster $tier->small
+#Show # # %D3 $type->jewels->cluster $tier->small
 #	Rarity Normal Magic Rare
 #	BaseType == "Small Cluster Jewel"
 #	SetFontSize 45
@@ -5570,7 +5570,7 @@ Show # $type->gems-generic $tier->qt1
 	MinimapIcon 1 Blue Hexagon
 CustomAlertSound "gem.wav" 300
 
-#Show  # $type->gems-generic $tier->plusonegemcold
+#Show  # # $type->gems-generic $tier->plusonegemcold
 #	Quality >= 5
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType == "Added Cold Damage Support" "Arctic Armour" "Bonechill Support" "Cold Penetration Support" "Cold Snap" "Cold to Fire Support" "Creeping Frost" "Discharge" "Elemental Hit" "Elemental Proliferation Support" "Explosive Concoction" "Eye of Winter" "Freezing Pulse" "Frigid Bond Support" "Frost Blades" "Frost Bomb" "Frost Shield" "Frost Wall" "Frostbite" "Frostblink" "Frostbolt" "Frozen Legion" "Glacial Cascade" "Glacial Hammer" "Hatred" "Herald of Ice" "Hydrosphere" "Hypothermia Support" "Ice Bite Support" "Ice Crash" "Ice Nova" "Ice Shot" "Ice Spear" "Ice Trap" "Icicle Mine" "Prismatic Burst Support" "Purity of Ice" "Siphoning Trap" "Summon Ice Golem" "Summon Skitterbots" "Vaal Arctic Armour" "Vaal Cold Snap" "Vaal Glacial Hammer" "Vaal Ice Nova" "Vaal Ice Shot" "Vaal Impurity of Ice" "Vortex" "Wild Strike" "Winter Orb" "Wintertide Brand"
@@ -5581,7 +5581,7 @@ CustomAlertSound "gem.wav" 300
 #	PlayEffect Green
 #	MinimapIcon 1 Green Hexagon
 
-#Show  # $type->gems-generic $tier->plusonegemfire
+#Show  # # $type->gems-generic $tier->plusonegemfire
 #	Quality >= 5
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType == "Added Fire Damage Support" "Alchemist's Mark" "Anger" "Armageddon Brand" "Artillery Ballista" "Blast Rain" "Blazing Salvo" "Bodyswap" "Burning Arrow" "Burning Damage Support" "Cold to Fire Support" "Combustion Support" "Consecrated Path" "Controlled Blaze Support" "Cremation" "Detonate Dead" "Discharge" "Elemental Hit" "Elemental Proliferation Support" "Explosive Arrow" "Explosive Concoction" "Explosive Trap" "Fire Penetration Support" "Fireball" "Firestorm" "Flame Dash" "Flame Link" "Flame Surge" "Flame Wall" "Flameblast" "Flamethrower Trap" "Flamewood Support" "Flammability" "Herald of Ash" "Holy Flame Totem" "Ignite Proliferation Support" "Immolate Support" "Incinerate" "Infernal Blow" "Infernal Cry" "Infernal Legion Support" "Molten Shell" "Molten Strike" "Prismatic Burst Support" "Purifying Flame" "Purity of Fire" "Pyroclast Mine" "Righteous Fire" "Rolling Magma" "Scorching Ray" "Searing Bond" "Summon Flame Golem" "Summon Raging Spirit" "Tectonic Slam" "Vaal Burning Arrow" "Vaal Fireball" "Vaal Firestorm" "Vaal Flameblast" "Vaal Impurity of Fire" "Vaal Molten Shell" "Vaal Molten Strike" "Vaal Righteous Fire" "Vaal Volcanic Fissure" "Volatile Dead" "Volcanic Fissure" "Wave of Conviction" "Wild Strike"
@@ -5592,7 +5592,7 @@ CustomAlertSound "gem.wav" 300
 #	PlayEffect Green
 #	MinimapIcon 1 Green Hexagon
 
-#Show  # $type->gems-generic $tier->plusonegemlight
+#Show  # # $type->gems-generic $tier->plusonegemlight
 #	Quality >= 5
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType == "Absolution" "Added Lightning Damage Support" "Arc" "Arcane Cloak" "Archmage Support" "Ball Lightning" "Charged Dash" "Conductivity" "Crackling Lance" "Discharge" "Divine Ire" "Elemental Hit" "Elemental Proliferation Support" "Energy Blade" "Explosive Concoction" "Galvanic Arrow" "Galvanic Field" "Herald of Thunder" "Hydrosphere" "Innervate Support" "Lightning Arrow" "Lightning Conduit" "Lightning Penetration Support" "Lightning Spire Trap" "Lightning Strike" "Lightning Tendrils" "Lightning Trap" "Lightning Warp" "Manabond" "Orb of Storms" "Overcharge Support" "Penance Brand" "Physical to Lightning Support" "Prismatic Burst Support" "Purity of Lightning" "Shock Nova" "Sigil of Power" "Smite" "Spark" "Static Strike" "Storm Brand" "Storm Burst" "Storm Call" "Storm Rain" "Stormbind" "Stormblast Mine" "Summon Lightning Golem" "Summon Skitterbots" "Tempest Shield" "Vaal Absolution" "Vaal Arc" "Vaal Impurity of Lightning" "Vaal Lightning Arrow" "Vaal Lightning Strike" "Vaal Lightning Trap" "Vaal Lightning Warp" "Vaal Smite" "Vaal Spark" "Vaal Storm Call" "Voltaxic Burst" "Wave of Conviction" "Wild Strike" "Wrath"
@@ -5603,7 +5603,7 @@ CustomAlertSound "gem.wav" 300
 #	PlayEffect Green
 #	MinimapIcon 1 Green Hexagon
 
-#Show  # $type->gems-generic $tier->plusonegemchaos
+#Show  # # $type->gems-generic $tier->plusonegemchaos
 #	Quality >= 5
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType == "Added Chaos Damage Support" "Alchemist's Mark" "Bane" "Blight" "Caustic Arrow" "Chance to Poison Support" "Cobra Lash" "Contagion" "Dark Pact" "Decay Support" "Desecrate" "Despair" "Essence Drain" "Forbidden Rite" "Herald of Agony" "Hexblast" "Impending Doom Support" "Pestilent Strike" "Plague Bearer" "Poisonous Concoction" "Sacrifice Support" "Scourge Arrow" "Spirit Offering" "Summon Chaos Golem" "Toxic Rain" "Vaal Blight" "Vaal Caustic Arrow" "Vaal Venom Gyre" "Venom Gyre" "Vicious Projectiles Support" "Viper Strike" "Void Manipulation Support" "Void Sphere" "Voltaxic Burst" "Wither" "Withering Step" "Withering Touch Support"
@@ -5614,7 +5614,7 @@ CustomAlertSound "gem.wav" 300
 #	PlayEffect Green
 #	MinimapIcon 1 Green Hexagon
 
-#Show  # $type->gems-generic $tier->plusonegemphys
+#Show  # # $type->gems-generic $tier->plusonegemphys
 #	Quality >= 5
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType == "Absolution" "Added Fire Damage Support" "Animate Weapon" "Bear Trap" "Blade Blast" "Blade Flurry" "Bladefall" "Blood Rage" "Bloodlust Support" "Bloodthirst Support" "Boneshatter" "Brutality Support" "Chance to Bleed Support" "Cleave" "Corrupting Cry Support" "Corrupting Fever" "Cyclone" "Defiance Banner" "Determination" "Divine Ire" "Double Strike" "Dread Banner" "Ethereal Knives" "Explosive Trap" "Exsanguinate" "Glacial Cascade" "Herald of Agony" "Herald of Purity" "Holy Flame Totem" "Hydrosphere" "Impale Support" "Intimidating Cry" "Iron Grip Support" "Lacerate" "Lancing Steel" "Maim Support" "Melee Physical Damage Support" "Molten Shell" "Penance Brand" "Perforate" "Phase Run" "Physical to Lightning Support" "Pride" "Puncture" "Punishment" "Purifying Flame" "Reap" "Reckoning" "Riposte" "Seismic Trap" "Shattering Steel" "Shield Charge" "Shield Crush" "Shockwave Totem" "Shrapnel Ballista" "Snipe" "Spectral Shield Throw" "Split Arrow" "Splitting Steel" "Storm Burst" "Summon Carrion Golem" "Summon Reaper" "Summon Stone Golem" "Sweep" "Tornado" "Trauma Support" "Unearth" "Vaal Absolution" "Vaal Animate Weapon" "Vaal Blade Flurry" "Vaal Blade Vortex" "Vaal Cleave" "Vaal Cyclone" "Vaal Double Strike" "Vaal Molten Shell" "Vaal Reap" "Vengeance" "Vicious Projectiles Support" "Void Sphere" "Vulnerability" "War Banner" "Wave of Conviction" "Withering Touch Support"
@@ -5625,7 +5625,7 @@ CustomAlertSound "gem.wav" 300
 #	PlayEffect Green
 #	MinimapIcon 1 Green Hexagon
 
-#Show  # $type->gems-generic $tier->plusonegemminion
+#Show  # # $type->gems-generic $tier->plusonegemminion
 #	Quality >= 5
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType == "Absolution" "Animate Guardian" "Animate Weapon" "Blink Arrow" "Bone Offering" "Convocation" "Dark Pact" "Dominating Blow" "Elemental Army Support" "Feeding Frenzy Support" "Flesh Offering" "Fresh Meat Support" "Guardian's Blessing Support" "Herald of Agony" "Herald of Purity" "Infernal Legion Support" "Meat Shield Support" "Minion Damage Support" "Minion Life Support" "Minion Speed Support" "Mirror Arrow" "Predator Support" "Raise Spectre" "Raise Zombie" "Spirit Offering" "Summon Carrion Golem" "Summon Chaos Golem" "Summon Flame Golem" "Summon Holy Relic" "Summon Ice Golem" "Summon Lightning Golem" "Summon Phantasm Support" "Summon Raging Spirit" "Summon Reaper" "Summon Skeletons" "Summon Skitterbots" "Summon Stone Golem" "Vaal Summon Skeletons"
@@ -5703,7 +5703,7 @@ Show # %D3 $type->gems-generic $tier->qt4
 	SetBorderColor 40 130 130 255
 	PlayEffect Grey Temp
 
-#Show  # %D0 $type->gems-generic $tier->lt4
+#Show  # # %D0 $type->gems-generic $tier->lt4
 #	GemLevel >= 2
 #	Class == "Skill Gems" "Support Gems"
 #	SetFontSize 45
@@ -5739,7 +5739,7 @@ Hide # %H2 $type->gems-generic $tier->leveling
 	SetFontSize 40
 	SetBorderColor 0 0 0
 
-#Show # %D3 $type->gems-generic $tier->corruptedvaalany
+#Show # # %D3 $type->gems-generic $tier->corruptedvaalany
 #	Class == "Skill Gems" "Support Gems"
 #	BaseType "Vaal"
 #	SetFontSize 35
@@ -6033,14 +6033,14 @@ Show # %D5 $type->maps->corruptedimplicit $tier->any
 #===============================================================================================================
 # !! Waypoint c9.maps.generic.specialcases : "Maps - generic - optional special cases"
 
-#Hide  # $type->maphiders $tier->corruptedmaphider
+#Hide  # # $type->maphiders $tier->corruptedmaphider
 #	Corrupted True
 #	Rarity Normal Magic
 #	Class == "Maps"
 #	SetFontSize 35
 #	SetBorderColor 0 0 0
 
-#Hide  # $type->maphiders $tier->mirroredmaphider
+#Hide  # # $type->maphiders $tier->mirroredmaphider
 #	Mirrored True
 #	Rarity Normal Magic
 #	Class == "Maps"
@@ -6652,7 +6652,7 @@ Show # $type->breachstone $tier->t2
 	PlayEffect Orange
 	MinimapIcon 0 Orange Square
 
-#Show  # $type->breachstone $tier->t3
+#Show  # # $type->breachstone $tier->t3
 #	Class == "Breachstones"
 #	SetFontSize 45
 #	SetTextColor 0 0 0 255
@@ -6791,28 +6791,28 @@ Show # %D3 $type->currency->leveling $tier->wisdom
 
 # Whetstones, augments and transmutes
 
-Show # %DS4 $type->currency->stackedsupplieshigh $tier->t1
-	StackSize >= 10
-	Class == "Stackable Currency"
-	BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
-	SetFontSize 45
-	SetTextColor 0 0 0 255
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 249 130 25 255
-	PlayEffect White
-	MinimapIcon 2 White Circle
-CustomAlertSound "rune.wav" 300
+#Show # # %DS4 $type->currency->stackedsupplieshigh $tier->t1
+#	StackSize >= 10
+#	Class == "Stackable Currency"
+#	BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
+#	SetFontSize 45
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 249 130 25 255
+#	PlayEffect White
+#	MinimapIcon 2 White Circle
+#CustomAlertSound "rune.wav" 300
 
-Show # %DS3 $type->currency->stackedsupplieshigh $tier->t2
-	StackSize >= 5
-	Class == "Stackable Currency"
-	BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
-	SetFontSize 45
-	SetTextColor 0 0 0 255
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 203 161 86 255
+#Show # # %DS3 $type->currency->stackedsupplieshigh $tier->t2
+#	StackSize >= 5
+#	Class == "Stackable Currency"
+#	BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
+#	SetFontSize 45
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 203 161 86 255
 
-#Show # %D2 $type->currency->stackedsupplieshigh $tier->t3
+#Show # # %D2 $type->currency->stackedsupplieshigh $tier->t3
 #	StackSize >= 3
 #	Class == "Stackable Currency"
 #	BaseType == "Blacksmith's Whetstone" "Orb of Augmentation" "Orb of Transmutation"
@@ -6827,28 +6827,28 @@ Show # %DS3 $type->currency->stackedsupplieshigh $tier->t2
 
 # armourers
 
-Show # %DS4 $type->currency->stackedsupplieslow $tier->t1
-	StackSize >= 10
-	Class == "Stackable Currency"
-	BaseType == "Armourer's Scrap"
-	SetFontSize 45
-	SetTextColor 0 0 0 255
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 213 159 0 255
-	PlayEffect Grey
-	MinimapIcon 2 Grey Circle
-CustomAlertSound "rune.wav" 300
+#Show # # %DS4 $type->currency->stackedsupplieslow $tier->t1
+#	StackSize >= 10
+#	Class == "Stackable Currency"
+#	BaseType == "Armourer's Scrap"
+#	SetFontSize 45
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 213 159 0 255
+#	PlayEffect Grey
+#	MinimapIcon 2 Grey Circle
+#CustomAlertSound "rune.wav" 300
 
-Show # %DS3 $type->currency->stackedsupplieslow $tier->t2
-	StackSize >= 5
-	Class == "Stackable Currency"
-	BaseType == "Armourer's Scrap"
-	SetFontSize 45
-	SetTextColor 0 0 0 255
-	SetBorderColor 0 0 0 255
-	SetBackgroundColor 203 161 86 255
+#Show # # %DS3 $type->currency->stackedsupplieslow $tier->t2
+#	StackSize >= 5
+#	Class == "Stackable Currency"
+#	BaseType == "Armourer's Scrap"
+#	SetFontSize 45
+#	SetTextColor 0 0 0 255
+#	SetBorderColor 0 0 0 255
+#	SetBackgroundColor 203 161 86 255
 
-#Show # %D2 $type->currency->stackedsupplieslow $tier->t3
+#Show # # %D2 $type->currency->stackedsupplieslow $tier->t3
 #	StackSize >= 3
 #	Class == "Stackable Currency"
 #	BaseType == "Armourer's Scrap"
@@ -7288,7 +7288,7 @@ Show # $type->vials $tier->restex
 #------------------------------------
 # !! Waypoint c9.currency.delirium.all : "Tierlist - Currency - Delirium Orbs"
 
-#Show  # $type->currency->deliriumorbs $tier->t1
+#Show  # # $type->currency->deliriumorbs $tier->t1
 #	Class == "Stackable Currency"
 #	SetFontSize 45
 #	SetTextColor 240 90 35 255
@@ -7468,7 +7468,7 @@ MinimapIcon 0 Red Raindrop
 PlayEffect Red
 BaseType == "Silver Oil"
 
-#Show  # $type->currency->oil $tier->t1
+#Show  # # $type->currency->oil $tier->t1
 #	Class == "Stackable Currency"
 #	SetFontSize 45
 #	SetTextColor 218 178 34 255
@@ -7638,7 +7638,7 @@ Show # %D5 $type->currency->incubators $tier->leveledex
 	PlayAlertSound 2 300
 	PlayEffect Grey
 
-#Show  # $type->currency->incubators $tier->t2
+#Show  # # $type->currency->incubators $tier->t2
 #	Class == "Incubators"
 #	SetFontSize 45
 #	SetTextColor 255 255 255 255
@@ -8040,7 +8040,7 @@ Show # $type->divination $tier->t3
 	PlayEffect Cyan
 	MinimapIcon 1 Cyan Triangle
 
-#Show  # $type->divination $tier->tnew
+#Show  # # $type->divination $tier->tnew
 #	Class == "Divination Cards"
 #	SetFontSize 45
 #	SetTextColor 0 0 0 255
@@ -8117,7 +8117,7 @@ Show # $type->divination $tier->restex
 # [[4200]] Remaining Currency
 #===============================================================================================================
 
-#Hide  # $type->currency $tier->untiereditems
+#Hide  # # $type->currency $tier->untiereditems
 #	Class == "Stackable Currency"
 #	SetFontSize 35
 #	SetBorderColor 0 0 0
@@ -8418,7 +8418,7 @@ Show # %D4 $type->uniques $tier->6s
 #------------------------------------
 # !! Waypoint c10.uniques.t1 : "Tierlist - Uniques - Low Tier Uniques"
 
-#Show  # %H5 $type->uniques $tier->earlyleague
+#Show  # # %H5 $type->uniques $tier->earlyleague
 #	Rarity Unique
 #	SetFontSize 45
 #	SetTextColor 175 96 37 255
@@ -8452,7 +8452,7 @@ Show # $type->uniques $tier->exjewels
 	PlayEffect Brown
 	MinimapIcon 0 Brown Diamond
 
-#Show  # $type->uniques $tier->highvinktar
+#Show  # # $type->uniques $tier->highvinktar
 #	ItemLevel >= 82
 #	Rarity Unique
 #	BaseType == "Imperial Staff"
@@ -8464,7 +8464,7 @@ Show # $type->uniques $tier->exjewels
 #	PlayEffect Yellow
 #	MinimapIcon 1 Brown Star
 
-#Show  # $type->uniques $tier->recipeuniquerings
+#Show  # # $type->uniques $tier->recipeuniquerings
 #	Rarity Unique
 #	Class == "Rings"
 #	SetFontSize 45
@@ -8761,7 +8761,7 @@ SetFontSize 40
 SetBorderColor 0 0 0 255
 SetBackgroundColor 25 100 75
 
-#Show # %D3 $type->leveling->flasks->quality $tier->max
+#Show # # %D3 $type->leveling->flasks->quality $tier->max
 #	Quality >= 20
 #	Rarity Normal
 #	Class == "Hybrid Flasks" "Life Flasks" "Mana Flasks" "Utility Flasks"
@@ -8772,7 +8772,7 @@ SetBackgroundColor 25 100 75
 #	PlayEffect Grey Temp
 #CustomAlertSound "potiondrink.wav" 300
 
-#Show # %D1 $type->leveling->flasks->quality $tier->high
+#Show # # %D1 $type->leveling->flasks->quality $tier->high
 #	Quality >= 14
 #	Rarity Normal
 #	Class == "Hybrid Flasks" "Life Flasks" "Mana Flasks" "Utility Flasks"
@@ -8782,7 +8782,7 @@ SetBackgroundColor 25 100 75
 #	SetBackgroundColor 130 110 110 255
 #CustomAlertSound "potiondrink.wav" 300
 
-#Show # %D0 $type->leveling->flasks->quality $tier->any
+#Show # # %D0 $type->leveling->flasks->quality $tier->any
 #	Quality >= 1
 #	Rarity Normal
 #	Class == "Hybrid Flasks" "Life Flasks" "Mana Flasks" "Utility Flasks"
@@ -9355,20 +9355,20 @@ Show # %D3 $type->leveling->rare->remaining $tier->chromaticrares class == "body
 	SetBackgroundColor 130 110 110 255
 SetBorderColor 0 0 0 255
 
-#Show # %D2 $type->leveling->rare->remaining $tier->underlevel68 class == "body armours" "gloves" "boots" "helmets" "shields" "staves" "rune daggers" "sceptres" "wands" "daggers" "claws" "thrusting one hand swords" "one hand swords" "one hand maces" "one hand axes" "warstaves" "two hand swords" "two hand axes" "two hand maces" "bows" "quivers" "amulets" "belts" "rings"
+#Show # # %D2 $type->leveling->rare->remaining $tier->underlevel68 class == "body armours" "gloves" "boots" "helmets" "shields" "staves" "rune daggers" "sceptres" "wands" "daggers" "claws" "thrusting one hand swords" "one hand swords" "one hand maces" "one hand axes" "warstaves" "two hand swords" "two hand axes" "two hand maces" "bows" "quivers" "amulets" "belts" "rings"
 #	Rarity Rare
 #	AreaLevel >= 42
 #	SetFontSize 30
 #	SetBackgroundColor 80 80 80 100
 
-#Show # %D2 $type->leveling->rare->remaining $tier->underlevel42 class == "body armours" "gloves" "boots" "helmets" "shields" "staves" "rune daggers" "sceptres" "wands" "daggers" "claws" "thrusting one hand swords" "one hand swords" "one hand maces" "one hand axes" "warstaves" "two hand swords" "two hand axes" "two hand maces" "bows" "quivers" "amulets" "belts" "rings"
+#Show # # %D2 $type->leveling->rare->remaining $tier->underlevel42 class == "body armours" "gloves" "boots" "helmets" "shields" "staves" "rune daggers" "sceptres" "wands" "daggers" "claws" "thrusting one hand swords" "one hand swords" "one hand maces" "one hand axes" "warstaves" "two hand swords" "two hand axes" "two hand maces" "bows" "quivers" "amulets" "belts" "rings"
 #	ItemLevel <= 42
 #	Rarity Rare
 #	AreaLevel >= 24
 #	SetFontSize 30
 #	SetBackgroundColor 80 80 80 100
 
-#Show # %D2 $type->leveling->rare->remaining $tier->underlevel24 class == "body armours" "gloves" "boots" "helmets" "shields" "staves" "rune daggers" "sceptres" "wands" "daggers" "claws" "thrusting one hand swords" "one hand swords" "one hand maces" "one hand axes" "warstaves" "two hand swords" "two hand axes" "two hand maces" "bows" "quivers" "amulets" "belts" "rings"
+#Show # # %D2 $type->leveling->rare->remaining $tier->underlevel24 class == "body armours" "gloves" "boots" "helmets" "shields" "staves" "rune daggers" "sceptres" "wands" "daggers" "claws" "thrusting one hand swords" "one hand swords" "one hand maces" "one hand axes" "warstaves" "two hand swords" "two hand axes" "two hand maces" "bows" "quivers" "amulets" "belts" "rings"
 #	ItemLevel <= 24
 #	Rarity Rare
 #	AreaLevel >= 16
@@ -9421,7 +9421,7 @@ Show # %D3 $type->leveling->normalmagic->rgb $tier->rgbsmall2
 	SetBorderColor 200 200 200 255
 	SetBackgroundColor 130 110 110 255
 
-#Show # %D2 $type->leveling->normalmagic->rgb $tier->rgblarge
+#Show # # %D2 $type->leveling->normalmagic->rgb $tier->rgblarge
 #	Width 2
 #	Height 4
 #	Rarity Normal Magic
@@ -9431,7 +9431,7 @@ Show # %D3 $type->leveling->normalmagic->rgb $tier->rgbsmall2
 #	SetBorderColor 0 0 0 255
 #	SetBackgroundColor 130 110 110 255
 
-#Show # %D2 $type->leveling->normalmagic->rgb $tier->rgbmedium
+#Show # # %D2 $type->leveling->normalmagic->rgb $tier->rgbmedium
 #	Width 2
 #	Height 3
 #	Rarity Normal Magic
@@ -9452,7 +9452,7 @@ Show # %D3 $type->leveling->normalmagic->3l $tier->earlythreelinks
 	SetBackgroundColor 20 20 0 255
 	PlayEffect Grey Temp
 
-#Show # %D2 $type->leveling->normalmagic->3l $tier->general
+#Show # # %D2 $type->leveling->normalmagic->3l $tier->general
 #	LinkedSockets >= 3
 #	Rarity Normal Magic
 #	AreaLevel <= 28
@@ -9541,14 +9541,14 @@ Show # %D3 $type->leveling->normalmagic->act2 $tier->physical
 
 # !! Waypoint c11.leveling.actlater.all : "Leveling - Normal and Magic - Later Acts"
 
-#Show # %D2 $type->leveling->normalmagic->otheracts $tier->highphysquivers
+#Show # # %D2 $type->leveling->normalmagic->otheracts $tier->highphysquivers
 #	Rarity Normal Magic
 #	BaseType == "Broadhead Arrow Quiver" "Heavy Arrow Quiver"
 #	SetFontSize 35
 #	SetBorderColor 19 181 0 255
 #	SetBackgroundColor 20 20 0 180
 
-#Show # %D2 $type->leveling->normalmagic->otheracts $tier->fireresistgear
+#Show # # %D2 $type->leveling->normalmagic->otheracts $tier->fireresistgear
 #	Rarity Normal Magic
 #	BaseType == "Ruby Ring"
 #	AreaLevel >= 24
@@ -9557,7 +9557,7 @@ Show # %D3 $type->leveling->normalmagic->act2 $tier->physical
 #	SetBorderColor 100 100 100 150
 #	SetBackgroundColor 20 20 0 180
 
-#Show # %D2 $type->leveling->normalmagic->otheracts $tier->generalcrafting
+#Show # # %D2 $type->leveling->normalmagic->otheracts $tier->generalcrafting
 #	Rarity Normal Magic
 #	BaseType == "Leather Belt" "Onyx Amulet" "Prismatic Ring" "Two-Stone Ring"
 #	AreaLevel >= 34
@@ -9565,14 +9565,14 @@ Show # %D3 $type->leveling->normalmagic->act2 $tier->physical
 #	SetBorderColor 100 100 100 150
 #	SetBackgroundColor 20 20 0 180
 
-#Show # %D2 $type->leveling->normalmagic->minion $tier->miniongear
+#Show # # %D2 $type->leveling->normalmagic->minion $tier->miniongear
 #	Rarity Normal Magic
 #	BaseType == "Bone Ring" "Calling Wand" "Convening Wand" "Convoking Wand"
 #	SetFontSize 35
 #	SetBorderColor 102 0 181 255
 #	SetBackgroundColor 34 10 65 255
 
-#Show  # $type->leveling->normalmagic->minion $tier->minionshields
+#Show  # # $type->leveling->normalmagic->minion $tier->minionshields
 #	Rarity Normal Magic
 #	BaseType == "Bone Spirit Shield" "Fossilised Spirit Shield" "Ivory Spirit Shield"
 #	SetFontSize 35
@@ -9616,7 +9616,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #------------------------------------
 # !! Waypoint c11.leveling.progression.all : "Leveling - Normal and Magic - Item Progression"
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r01
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r01
 #	Sockets >= 3
 #	ItemLevel <= 9
 #	DropLevel >= 5
@@ -9626,7 +9626,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r02
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r02
 #	Sockets >= 3
 #	ItemLevel <= 15
 #	DropLevel >= 11
@@ -9636,7 +9636,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r03
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r03
 #	Sockets >= 3
 #	ItemLevel <= 18
 #	DropLevel >= 15
@@ -9646,7 +9646,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r04
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r04
 #	Sockets >= 3
 #	ItemLevel <= 22
 #	DropLevel >= 18
@@ -9656,7 +9656,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r05
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r05
 #	Sockets >= 3
 #	ItemLevel <= 26
 #	DropLevel >= 22
@@ -9666,7 +9666,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r06
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r06
 #	Sockets >= 3
 #	ItemLevel <= 30
 #	DropLevel >= 26
@@ -9676,7 +9676,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r07
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r07
 #	Sockets >= 3
 #	ItemLevel <= 34
 #	DropLevel >= 30
@@ -9686,7 +9686,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r08
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r08
 #	Sockets >= 3
 #	ItemLevel <= 40
 #	DropLevel >= 34
@@ -9696,7 +9696,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r09
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r09
 #	Sockets >= 3
 #	ItemLevel <= 44
 #	DropLevel >= 40
@@ -9706,7 +9706,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r10
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r10
 #	Sockets >= 3
 #	ItemLevel <= 48
 #	DropLevel >= 44
@@ -9716,7 +9716,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r11
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r11
 #	Sockets >= 3
 #	ItemLevel <= 52
 #	DropLevel >= 48
@@ -9726,7 +9726,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r12
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r12
 #	Sockets >= 3
 #	ItemLevel <= 56
 #	DropLevel >= 52
@@ -9736,7 +9736,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r13
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r13
 #	Sockets >= 3
 #	ItemLevel <= 60
 #	DropLevel >= 56
@@ -9746,7 +9746,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r14
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r14
 #	Sockets >= 3
 #	ItemLevel <= 64
 #	DropLevel >= 60
@@ -9756,7 +9756,7 @@ Show # %H3 $type->leveling->firstlevels $tier->firstareas
 #	SetBorderColor 0 0 0
 #	SetBackgroundColor 20 20 0 180
 
-#Hide # %H2 $type->leveling->weaponprogression $tier->r15bas
+#Hide # # %H2 $type->leveling->weaponprogression $tier->r15bas
 #	Sockets >= 3
 #	ItemLevel <= 68
 #	DropLevel >= 64
