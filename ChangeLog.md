@@ -7,21 +7,21 @@
 ```python
 DAHAKA's Filter 3.25 Release Roadmap:
 
-  1. Update Readme ✅
-  2. Create Wiki Page ✅
-  3. Update Tiering to Newest Version ✅
-  4. Update Style to Newest Version ✅
-  5. Update Strictness to Newest Version ✅
-  6. Update SoundPack to Newest Version ✅
+  1. Update Readme ✔
+  2. Create Wiki Page ✔
+  3. Update Tiering to Newest Version ✔
+  4. Update Style to Newest Version ✔
+  5. Update Strictness to Newest Version ✔
+  6. Update SoundPack to Newest Version ✔
   7. Check Viability of Leveling Add-on ⏳
-  8. Create Magic-Find Add-on ✅
-  9. Update Installation Guide ✅
+  8. Create Magic-Find Add-on ✔
+  9. Update Installation Guide ✔
  10. Create FAQ ⏳
  11. Create Compatibility Notes for Developers ⏳
- 12. Create Preloaded Filters with SoundPack ✅
- 13. Update Filters on FilterBlade ✅
- 14. Update Filters on PoE Official ✅
- 15. Update Filters on GitHub ✅
+ 12. Create Preloaded Filters with SoundPack ✔
+ 13. Update Filters on FilterBlade ✔
+ 14. Update Filters on PoE Official ✔
+ 15. Update Filters on GitHub ✔
 
 After Patch Notes: 
  16. Archive Leveling Add-ons of Outdated Builds ⏳
