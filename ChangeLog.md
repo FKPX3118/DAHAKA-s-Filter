@@ -4,6 +4,7 @@
 ## [0.9.6] - 2024-07-15
 - updated to neversink version 8.14.4
 - updated new tiering based on current league economy（SC）
+```python
 DAHAKA's Filter 3.25 Release Roadmap:
 
   1. Update Readme ✅
@@ -28,6 +29,7 @@ After Patch Notes:
 
 After FilterBlade Update: 
  18. Update to 3.25 ⏳
+```
 
 &nbsp;
 
