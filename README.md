@@ -22,16 +22,17 @@ DAHAKA's Filter 3.25 Release Roadmap:
 9. Update Installation Guide ⏳
 10. Create FAQ ⏳
 11. Create Compatibility notes for devs ⏳
-12. Update filters On FilterBlade ⏳
-13. Update filters On Poe offical ⏳
-14. Update filters On Github ⏳
+12. Create Preloaded Filters w/ SoundPack ⏳
+13. Update filters On FilterBlade ⏳
+14. Update filters On Poe offical ⏳
+15. Update filters On Github ⏳
 
 After Patch Notes:
-15. Archive leveling add-ons of outdated builds ⏳
-16. Create leveling add-ons for popular builds ⏳
+16. Archive leveling add-ons of outdated builds ⏳
+17. Create leveling add-ons for popular builds ⏳
 
 After Filter Blade Update:
-17. Update to 3.25 ⏳
+18. Update to 3.25 ⏳
 ```
 ---
 
