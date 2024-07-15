@@ -7,7 +7,7 @@
 
 **DAHAKA's Filter** is a customizable, preset-based filter for Path of Exile, inspired by [Neversink's Filter](https://github.com/NeverSinkDev/NeverSink-Filter). It helps to show rare or higher items, with different colors, sounds, icons, and beams. It hides useless or cluttering items. It is easy to customize and update on [Filterblade](https://www.filterblade.xyz/).
 
->DAHAKA's Filter 3.25 Release Roadmap:
+> **DAHAKA's Filter 3.25 Release Roadmap:**
 >
 >  1. Update Readme ✅
 >
@@ -148,13 +148,13 @@
   >
   >Filter Includes Tiering, Style, SoundPack, Strictness
   >You'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.
-  >- DAHAKA-s-Filter-00-SOFT-S
-  >- DAHAKA-s-Filter-01-REGULAR-S
-  >- DAHAKA-s-Filter-02-SEMI-STRICT-S
-  >- DAHAKA-s-Filter-03-STRICT-S
-  >- DAHAKA-s-Filter-04-VERY STRICT-S
-  >- DAHAKA-s-Filter-05-UBER STRICT-S
-  >- DAHAKA-s-Filter-06-UBER PLUS-S
+  >- [DAHAKA-s-Filter-00-SOFT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=Y2XD9IJ5NBDIIA&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-01-REGULAR-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=NBXVW7DCQ2JH1D&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-02-SEMI-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=V91X6I52TIY5WW&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-03-STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=FGV81DHDM8QJKK&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-04-VERY STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=GS2GZ9NEWUZCUM&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-05-UBER STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=28SN04ZI839RKB&platform=pc&isPreset=false)
+  >- [DAHAKA-s-Filter-06-UBER PLUS-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=C6072VA3TK19GI&platform=pc&isPreset=false)
 
   ### Step 2 (Optional)
   > Apply other DAHAKA's Presets and Add-ons or remove current ones:
