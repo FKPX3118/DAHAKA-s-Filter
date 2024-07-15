@@ -186,7 +186,7 @@
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/2c41f766-64e8-46bf-a4d9-14600dd05f3f" alt="Image" width="400">
   
-  ### Step 4
+  ### Step 3
   >SAVE & EXPORT -> Sync or download locally to %userprofile%/Documents/My Games/Path of Exile
   >
   >In game Option, choose the filter you want
