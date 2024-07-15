@@ -68,17 +68,17 @@
   * Each aspect can be individually added to your custom filter, or you can assemble all of them to create the complete DAHAKA's Filter. This flexibility allows you to tailor the filter to your specific needs and preferences, ensuring an optimized and clutter-free gaming experience.
 
 - ### 🎛️ Module Introduction
-  * **0-Tiering**
+  * **0 - Tiering**
     
     >Customized item tiering based on the league economy
     >
     >You can check [How the tiering of DAHAKA's Filter is determined](https://github.com/FKPX3118/DAHAKA-s-Filter/wiki/How-the-tiering-of-DAHAKA's-Filter-is-determined) to see the full details on how tiering was determined, along with the mathematical background behind it
     
-  * **1-Style**
+  * **1 - Style**
     
     >A variant of the standard Neversink Filter style, offering a familiar yet distinct visual and auditory experience
     
-  * **2-SoundPack**
+  * **2 - SoundPack**
   
     >Enhance your immersion with a sound pack that blends Diablo II and default sounds, providing a more engaging item drop audio experience
     
@@ -86,12 +86,12 @@
     
     >Choose from 7 levels of strictness, each with its own tweaks to optimize loot filtering for different needs and strategies
   
-  * **4-Leveling Add-on**
+  * **4 - Leveling Add-on**
   
     >Enable additional features designed to make leveling faster and smoother. This add-on follows various specific, authoritative league starter build guides to ensure an efficient progression
   fully compatibility to other filters and presets
 
-  * **5-Magic-find Add-on**
+  * **5 - Magic-find Add-on**
     
     >A unique and fractured bases blocker. This feature allows you to generate two different filters, enabling you to switch seamlessly between picking up currency and checking items on the ground.
     
