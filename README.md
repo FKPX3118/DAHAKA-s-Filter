@@ -15,20 +15,23 @@ DAHAKA's Filter 3.25 Release Roadmap:
 2. Create wiki page ✅
 3. Update Tiering to 3.24 ✅
 4. Update Style to 3.24 ✅
-5. Update Strictness to 3.24 ⏳
+5. Update Strictness to 3.24 ✅
 6. Update SoundPack to 3.24 ✅
 7. Check viability of Leveling add-on ⏳
 8. Create magic-find add-on ⏳
 9. Update Installation Guide ⏳
 10. Create FAQ ⏳
 11. Create Compatibility notes for devs ⏳
+12. Update filters On FilterBlade ⏳
+13. Update filters On Poe offical ⏳
+14. Update filters On Github ⏳
 
 After Patch Notes:
-12. Archive leveling add-ons of outdated builds ⏳
-13. Create leveling add-ons for popular builds ⏳
+15. Archive leveling add-ons of outdated builds ⏳
+16. Create leveling add-ons for popular builds ⏳
 
 After Filter Blade Update:
-14. Update to 3.25 ⏳
+17. Update to 3.25 ⏳
 ```
 ---
 
