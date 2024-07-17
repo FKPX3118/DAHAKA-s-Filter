@@ -331,4 +331,4 @@ You need to click “Load” on your filter every time FilterBlade, Neversink, o
 &nbsp;
 
 ## 📝 ChangeLog
->[DAHAKA-s-Filter](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/ChangeLog.md)
+>[DAHAKA-s-Filter ChangeLog](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/ChangeLog.md)
