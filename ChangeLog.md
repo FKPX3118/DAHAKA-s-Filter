@@ -4,18 +4,19 @@
 ## [0.9.6] - 2024-07-15
 - updated to neversink version 8.14.4
 - updated new tiering based on current league economy（SC）
-- Update Readme ✅
-- Create Wiki Page ✅
-- Update Tiering to Newest Version ✅
-- Update Style to Newest Version ✅
-- Update Strictness to Newest Version ✅
-- Update SoundPack to Newest Version ✅
-- Create Magic-Find Add-on ✅
-- Update Installation Guide ✅
-- Create Preloaded Filters with SoundPack ✅
-- Update Filters on FilterBlade ✅
-- Update Filters on PoE Official ✅
-- Update Filters on GitHub ✅
+- Updated Readme ✅
+- Created Wiki Page ✅
+- Updated Tiering to Newest Version ✅
+- Updated Style to Newest Version ✅
+- Updated Strictness to Newest Version ✅
+- Updated SoundPack to Newest Version ✅
+- Created Magic-Find Add-on ✅
+- Updated Installation Guide ✅
+- Created Preloaded Filters with SoundPack ✅
+- Updated Filters on FilterBlade ✅
+- Updated Filters on PoE Official ✅
+- Updated Filters on GitHub ✅
+- Fixed multiple issues and bugs
 
 &nbsp;
 
