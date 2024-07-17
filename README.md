@@ -39,9 +39,7 @@
 >
 > - Update Filters on GitHub ✅
 >
-> - Remove all default sound of SoundPack ⏳
->
-> - Create Alternative Add-on to reapply the default sound ⏳
+> - Create Alternative Add-on to remove all default drop sound ✅
 >   
 >After Patch Notes:
 >
