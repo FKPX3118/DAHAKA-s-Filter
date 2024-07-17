@@ -9,13 +9,13 @@
 
 > **DAHAKA's Filter 3.25 Release Roadmap:**
 >
->  1. Update Readme ✅
+> - Update Readme ✅
 >
->  2. Create Wiki Page ✅
+> - Create Wiki Page ✅
 >
->  3. Update Tiering to Newest Version ✅
+> - Update Tiering to Newest Version ✅
 >
->  4. Update Style to Newest Version ✅
+> - Update Style to Newest Version ✅
 >
 >  5. Update Strictness to Newest Version ✅
 >
