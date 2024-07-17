@@ -51,7 +51,7 @@
 >
 >After FilterBlade Update:
 >
-> - Update to Version 0.9.7 (3.25) ⏳
+> - Update to New Version for (3.25) ⏳
 
 &nbsp;
 
