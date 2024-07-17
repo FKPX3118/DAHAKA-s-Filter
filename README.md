@@ -17,37 +17,40 @@
 >
 > - Update Style to Newest Version ✅
 >
->  5. Update Strictness to Newest Version ✅
+> - Update Strictness to Newest Version ✅
 >
->  6. Update SoundPack to Newest Version ✅
+> - Update SoundPack to Newest Version ✅
 >
->  7. Check Viability of Leveling Add-on ⏳
+> - Check Viability of Leveling Add-on ⏳
 >
->  8. Create Magic-Find Add-on ✅
+> - Create Magic-Find Add-on ✅
 >
->  9. Update Installation Guide ✅
+> - Update Installation Guide ✅
 >
-> 10. Create FAQ ⏳
+> - Create FAQ ⏳
 >
-> 11. Create Compatibility Notes for Developers ⏳
+> - Create Compatibility Notes for Developers ⏳
 >
-> 12. Create Preloaded Filters with SoundPack ✅
+> - Create Preloaded Filters with SoundPack ✅
 >
-> 13. Update Filters on FilterBlade ✅
+> - Update Filters on FilterBlade ✅
 >
-> 14. Update Filters on PoE Official ✅
+> - Update Filters on PoE Official ✅
 >
-> 15. Update Filters on GitHub ✅
+> - Update Filters on GitHub ✅
 >
+> - Remove all default sound of SoundPack ⏳
+>
+> - Create Alternative Add-on to reapply the default sound ⏳
 >After Patch Notes:
 >
-> 16. Archive Leveling Add-ons of Outdated Builds ⏳
+> - Archive Leveling Add-ons of Outdated Builds ⏳
 >
-> 17. Create Leveling Add-ons for Popular Builds ⏳
+> - Create Leveling Add-ons for Popular Builds ⏳
 >
 >After FilterBlade Update:
 >
-> 18. Update to 3.25 ⏳
+> - Update to Version 0.9.7 (3.25) ⏳
 
 &nbsp;
 
