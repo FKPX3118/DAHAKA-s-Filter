@@ -99,6 +99,11 @@
     
     >A unique and fractured bases blocker. This feature allows you to generate two different filters, enabling you to switch seamlessly between picking up currency and checking items on the ground.
     
+  * **6 - Default Drop Sound Remover**
+    
+    >This Alternative Add-on disables all default item drop sounds in the game, including those from the SoundPack.
+
+    
 - ### 🚀 Leveling add-on for league starter builds
 
   * The **Leveling Add-on** highlights specific weapons, socket color combinations, specific flasks, and essential recipes for different league starter builds. Additionally, if a build has a transition using different skill gems and weapons, the Leveling Add-on ensures this happens at the appropriate level.
