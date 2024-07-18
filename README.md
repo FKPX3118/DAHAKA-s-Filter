@@ -185,7 +185,7 @@
   >
   >Once you have selected the presets you want, click "Apply" to confirm your changes.
   >
-  >***Note1**: If you want to add multiple presets, you need to add them in order from 0 to 5+. This will ensure that the presets are applied correctly and do not conflict with each other. This order logic also applies to other filters or presets if you want to add those from others*
+  >***Note1**: If you want to add multiple presets, you need to add them in order from 0 to 6+. This will ensure that the presets are applied correctly and do not conflict with each other. This order logic also applies to other filters or presets if you want to add those from others*
   >
   >***Note2**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
@@ -240,7 +240,7 @@
   >
   >***Note1**: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.*
   >
-  >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 5. This will ensure that the presets are applied correctly and do not conflict with each other. This order logic also applies to other filters or presets if you want to add those from others*
+  >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 6+. This will ensure that the presets are applied correctly and do not conflict with each other. This order logic also applies to other filters or presets if you want to add those from others*
   >
   >***Note3**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
