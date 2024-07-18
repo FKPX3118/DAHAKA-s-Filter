@@ -21,15 +21,9 @@
 >
 > - Update SoundPack to Newest Version ✅
 >
-> - Check Viability of Leveling Add-on ⏳
->
 > - Create Magic-Find Add-on ✅
 >
 > - Update Installation Guide ✅
->
-> - Create FAQ ⏳
->
-> - Create Compatibility Notes for Developers ⏳
 >
 > - Create Preloaded Filters with SoundPack ✅
 >
@@ -42,6 +36,12 @@
 > - Create Alternative Add-on to remove all default drop sound ✅
 >   
 >After Patch Notes:
+>
+> - Check Viability of Leveling Add-on ⏳
+>
+> - Create FAQ ⏳
+>
+> - Create Compatibility Notes for Developers ⏳
 >
 > - Archive Leveling Add-ons of Outdated Builds ⏳
 >
