@@ -116,15 +116,15 @@
     >
     >**3. [Explosive Arrow Ballista Elementalist](https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist)**
     >
-    >**4. [Poison Concoction Pathfinder (outdated)](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)**
+    >**4. [Lightning Arrow Deadeye 01: RoA Ballista](https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter)**
     >
-    >**5. [Lightning Arrow Deadeye 01: RoA Ballista](https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter)**
+    >**5. [Detonate Dead Elementalist](https://maxroll.gg/poe/build-guides/detonate-dead-elementalist-league-starter-guide)**
     >
-    >**6. [Lightning Arrow Deadeye 02: LA Manaforged Arrow (outdated)](https://www.youtube.com/watch?v=ZpH9IH4e64M)**
+    >**6. [Poison Concoction Pathfinder (outdated)](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)**
     >
-    >**7. [Summon Raging Spirit Guardian (outdated)](https://maxroll.gg/poe/build-guides/summon-raging-spirit-guardian-league-starter)**
+    >**7. [Lightning Arrow Deadeye 02: LA Manaforged Arrow (outdated)](https://www.youtube.com/watch?v=ZpH9IH4e64M)**
     >
-    >**8. [Detonate Dead Elementalist](https://maxroll.gg/poe/build-guides/detonate-dead-elementalist-league-starter-guide)**
+    >**8. [Summon Raging Spirit Guardian (outdated)](https://maxroll.gg/poe/build-guides/summon-raging-spirit-guardian-league-starter)**
     >
     >More incoming
 
