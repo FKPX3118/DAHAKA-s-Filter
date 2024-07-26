@@ -37,13 +37,13 @@
 >   
 >After Patch Notes:
 >
-> - Check Viability of Leveling Add-on ⏳
+> - Check Viability of Leveling Add-on ✅
 >
 > - Create FAQ ⏳
 >
 > - Create Compatibility Notes for Developers ⏳
 >
-> - Archive Leveling Add-ons of Outdated Builds ⏳
+> - Archive Leveling Add-ons of Outdated Builds ✅
 >
 > - Create Leveling Add-ons for Popular Builds ⏳
 >
@@ -140,7 +140,7 @@
   ### Step 1
   Click one from the preloaded versions, which works exactly the same as [Modularization Installation](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#step-1-1),  if you add the same modules. This simply preloads them in advance for users.
   
-  > **Preloaded Filter without SoundPack**
+  **Preloaded Filter without SoundPack**
   >
   >Filter Includes Only Tiering, Style, Strictness
   >- [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
@@ -151,9 +151,9 @@
   >- [DAHAKA-s-Filter-05-UBER STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-06-UBER PLUS](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
   
-  >&nbsp;
+  &nbsp;
   
-  >**Preloaded Filter with SoundPack**
+  **Preloaded Filter with SoundPack**
   >
   >Filter Includes Tiering, Style, SoundPack, Strictness
   >You'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.
@@ -164,6 +164,10 @@
   >- [DAHAKA-s-Filter-04-VERY STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=GS2GZ9NEWUZCUM&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-05-UBER STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=28SN04ZI839RKB&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-06-UBER PLUS-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=C6072VA3TK19GI&platform=pc&isPreset=false)
+  
+  &nbsp;
+
+  >- **[DAHAKA's Filter Profile](https://www.filterblade.xyz/Profile?name=FKPX3118&platform=pc)**
 
   ### Step 2 (Optional)
   > Apply other DAHAKA's Presets and Add-ons or remove current ones:
