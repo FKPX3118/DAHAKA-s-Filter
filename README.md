@@ -119,7 +119,7 @@
   <summary><i>Click to see more</i></summary>
     
   ### Step 1
-  Click one from the preloaded versions, which works exactly the same as [Modularization Installation](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#step-1-1),  if you add the same modules. This simply preloads them in advance, and save extra clicks for users.
+  Click one from the preloaded versions, which works exactly the same as [Modularization Installation](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#step-1-1),  if you add the same set of modules. This simply preloads them in advance, saves extra clicks for users.
   
   **Preloaded Filter without SoundPack**
   >
