@@ -45,7 +45,7 @@
 >
 > - Archive Leveling Add-ons of Outdated Builds ✅
 >
-> - Create Leveling Add-ons for Popular Builds ⏳
+> - Create Leveling Add-ons for Popular Builds ✅
 >
 >After FilterBlade Update:
 >
