@@ -1,5 +1,18 @@
 # DAHAKA-s-Filter Change Log
 
+## [0.9.7] - 2024-07-27
+- updated to neversink version 8.15a
+- Check Viability of Leveling Add-on ✅
+- Create FAQ ✅
+- Create Compatibility Notes for Developers ⏳
+- Archive Leveling Add-ons of Outdated Builds ✅
+- Create Leveling Add-ons for Popular Builds ✅
+- fixed Tiering bugs
+- fixed Style bugs
+- fixed Strictness bugs
+- fixed SoundPack bugs
+- added new style for new items
+- added new Sound for new items
 
 ## [0.9.6] - 2024-07-15
 - updated to neversink version 8.14.4
