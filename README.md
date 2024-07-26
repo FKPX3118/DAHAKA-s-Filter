@@ -39,7 +39,7 @@
 >
 > - Check Viability of Leveling Add-on ✅
 >
-> - Create FAQ ⏳
+> - Create FAQ ✅
 >
 > - Create Compatibility Notes for Developers ⏳
 >
@@ -314,7 +314,8 @@ You need to click “Load” on your filter every time FilterBlade, Neversink, o
 &nbsp;
 
 ## ❓ FAQ
-- WIP
+* **Why isn’t there a XXX build for Leveling Add-on?**
+> There are 25 slots of modules for each user in FilterBlade, so I can only pick what I think are the most popular ones.
 
 &nbsp;
 
