@@ -1,35 +1,35 @@
 # DAHAKA-s-Filter Change Log
 
+## [0.9.7] - 2024-07-27
+- updated to neversink version 8.15a
+- Check Viability of Leveling Add-on ✅
+- Create FAQ ✅
+- Create Compatibility Notes for Developers ⏳
+- Archive Leveling Add-ons of Outdated Builds ✅
+- Create Leveling Add-ons for Popular Builds ✅
+- fixed Tiering bugs
+- fixed Style bugs
+- fixed Strictness bugs
+- fixed SoundPack bugs
+- added new style for new items
+- added new Sound for new items
 
 ## [0.9.6] - 2024-07-15
 - updated to neversink version 8.14.4
 - updated new tiering based on current league economy（SC）
-```python
-DAHAKA's Filter 3.25 Release Roadmap:
-
-  1. Update Readme ✅
-  2. Create Wiki Page ✅
-  3. Update Tiering to Newest Version ✅
-  4. Update Style to Newest Version ✅
-  5. Update Strictness to Newest Version ✅
-  6. Update SoundPack to Newest Version ✅
-  7. Check Viability of Leveling Add-on ⏳
-  8. Create Magic-Find Add-on ✅
-  9. Update Installation Guide ✅
- 10. Create FAQ ⏳
- 11. Create Compatibility Notes for Developers ⏳
- 12. Create Preloaded Filters with SoundPack ✅
- 13. Update Filters on FilterBlade ✅
- 14. Update Filters on PoE Official ✅
- 15. Update Filters on GitHub ✅
-
-After Patch Notes: 
- 16. Archive Leveling Add-ons of Outdated Builds ⏳
- 17. Create Leveling Add-ons for Popular Builds ⏳
-
-After FilterBlade Update: 
- 18. Update to 3.25 ⏳
-```
+- Updated Readme ✅
+- Created Wiki Page ✅
+- Updated Tiering to Newest Version ✅
+- Updated Style to Newest Version ✅
+- Updated Strictness to Newest Version ✅
+- Updated SoundPack to Newest Version ✅
+- Created Magic-Find Add-on ✅
+- Updated Installation Guide ✅
+- Created Preloaded Filters with SoundPack ✅
+- Updated Filters on FilterBlade ✅
+- Updated Filters on PoE Official ✅
+- Updated Filters on GitHub ✅
+- Fixed multiple issues and bugs
 
 &nbsp;
 

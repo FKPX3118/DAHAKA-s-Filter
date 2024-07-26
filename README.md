@@ -9,49 +9,53 @@
 
 > **DAHAKA's Filter 3.25 Release Roadmap:**
 >
->  1. Update Readme ✅
+> - Update Readme ✅
 >
->  2. Create Wiki Page ✅
+> - Create Wiki Page ✅
 >
->  3. Update Tiering to Newest Version ✅
+> - Update Tiering to Newest Version ✅
 >
->  4. Update Style to Newest Version ✅
+> - Update Style to Newest Version ✅
 >
->  5. Update Strictness to Newest Version ✅
+> - Update Strictness to Newest Version ✅
 >
->  6. Update SoundPack to Newest Version ✅
+> - Update SoundPack to Newest Version ✅
 >
->  7. Check Viability of Leveling Add-on ⏳
+> - Create Magic-Find Add-on ✅
 >
->  8. Create Magic-Find Add-on ✅
+> - Update Installation Guide ✅
 >
->  9. Update Installation Guide ✅
+> - Create Preloaded Filters with SoundPack ✅
 >
-> 10. Create FAQ ⏳
+> - Update Filters on FilterBlade ✅
 >
-> 11. Create Compatibility Notes for Developers ⏳
+> - Update Filters on PoE Official ✅
 >
-> 12. Create Preloaded Filters with SoundPack ✅
+> - Update Filters on GitHub ✅
 >
-> 13. Update Filters on FilterBlade ✅
->
-> 14. Update Filters on PoE Official ✅
->
-> 15. Update Filters on GitHub ✅
->
+> - Create Alternative Add-on to remove all default drop sound ✅
+>   
 >After Patch Notes:
 >
-> 16. Archive Leveling Add-ons of Outdated Builds ⏳
+> - Check Viability of Leveling Add-on ✅
 >
-> 17. Create Leveling Add-ons for Popular Builds ⏳
+> - Create FAQ ✅
+>
+> - Create Compatibility Notes for Developers ⏳
+>
+> - Archive Leveling Add-ons of Outdated Builds ✅
+>
+> - Create Leveling Add-ons for Popular Builds ✅
 >
 >After FilterBlade Update:
 >
-> 18. Update to 3.25 ⏳
+> - Update to New Version for (3.25) ✅
 
 &nbsp;
 
 ## 🎨 Overview
+>- [Random Showcase Video](https://www.youtube.com/watch?v=5-Zu_WNY4Dw)
+>
 >- [Style Overview](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/Filter%20Overview%203.22.png)
 
 &nbsp;
@@ -95,30 +99,16 @@
     
     >A unique and fractured bases blocker. This feature allows you to generate two different filters, enabling you to switch seamlessly between picking up currency and checking items on the ground.
     
+  * **6 - Default Drop Sound Remover**
+    
+    >This Alternative Add-on disables all default item drop sounds in the game, including those from the SoundPack.
+
+    
 - ### 🚀 Leveling add-on for league starter builds
 
   * The **Leveling Add-on** highlights specific weapons, socket color combinations, specific flasks, and essential recipes for different league starter builds. Additionally, if a build has a transition using different skill gems and weapons, the Leveling Add-on ensures this happens at the appropriate level.
 
-  * There are now various Leveling Add-ons for several reliable league starter builds:
-
-    >**1. [Boneshatter Juggernaut](https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter)**
-    >
-    >**2. [Corrupting Fever Champion](https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide)**
-    >
-    >**3. [Explosive Arrow Ballista Elementalist](https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist)**
-    >
-    >**4. [Poison Concoction Pathfinder (outdated)](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)**
-    >
-    >**5. [Lightning Arrow Deadeye 01: RoA Ballista](https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter)**
-    >
-    >**6. [Lightning Arrow Deadeye 02: LA Manaforged Arrow (outdated)](https://www.youtube.com/watch?v=ZpH9IH4e64M)**
-    >
-    >**7. [Summon Raging Spirit Guardian (outdated)](https://maxroll.gg/poe/build-guides/summon-raging-spirit-guardian-league-starter)**
-    >
-    >**8. [Detonate Dead Elementalist](https://maxroll.gg/poe/build-guides/detonate-dead-elementalist-league-starter-guide)**
-    >
-    >More incoming
-
+  * There are now various Leveling Add-ons for several reliable league starter builds: [Check the full list here](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/Leveling%20Add-On%20Details.md)
 &nbsp;
 
 ## 🛠️ Installation
@@ -129,9 +119,9 @@
   <summary><i>Click to see more</i></summary>
     
   ### Step 1
-  Click one from the preloaded versions, which works exactly the same as [Modularization Installation](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#step-1-1),  if you add the same modules. This simply preloads them for users.
+  Click one from the preloaded versions, which works exactly the same as [Modularization Installation](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#step-1-1),  if you add the same modules. This simply preloads them in advance, and save extra clicks for users.
   
-  > **Preloaded Filter without SoundPack**
+  **Preloaded Filter without SoundPack**
   >
   >Filter Includes Only Tiering, Style, Strictness
   >- [DAHAKA-s-Filter-00-SOFT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=JANSMYGTZWBX2P&platform=pc&isPreset=false)
@@ -142,9 +132,9 @@
   >- [DAHAKA-s-Filter-05-UBER STRICT](https://www.filterblade.xyz/?profile=FKPX3118&saveState=G6EUQWGR6JL6AQ&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-06-UBER PLUS](https://www.filterblade.xyz/?profile=FKPX3118&saveState=R9ZGUCSINV2YI3&platform=pc&isPreset=false)
   
-  >&nbsp;
+  &nbsp;
   
-  >**Preloaded Filter with SoundPack**
+  **Preloaded Filter with SoundPack**
   >
   >Filter Includes Tiering, Style, SoundPack, Strictness
   >You'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.
@@ -155,6 +145,10 @@
   >- [DAHAKA-s-Filter-04-VERY STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=GS2GZ9NEWUZCUM&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-05-UBER STRICT-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=28SN04ZI839RKB&platform=pc&isPreset=false)
   >- [DAHAKA-s-Filter-06-UBER PLUS-S](https://www.filterblade.xyz/?profile=FKPX3118&saveState=C6072VA3TK19GI&platform=pc&isPreset=false)
+  
+  &nbsp;
+
+  >- **[DAHAKA's Filter Profile](https://www.filterblade.xyz/Profile?name=FKPX3118&platform=pc)**
 
   ### Step 2 (Optional)
   > Apply other DAHAKA's Presets and Add-ons or remove current ones:
@@ -176,11 +170,9 @@
   >
   >Once you have selected the presets you want, click "Apply" to confirm your changes.
   >
-  >***Note1**: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.*
+  >***Note1**: If you want to add multiple presets, you need to add them in order from 0 to 6+. This will ensure that the presets are applied correctly and do not conflict with each other. This order logic also applies to other filters or presets if you want to add those from others*
   >
-  >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 5. This will ensure that the presets are applied correctly and do not conflict with each other.*
-  >
-  >***Note3**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
+  >***Note2**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
   >For uninstalling a preset, click "Currently loaded" then click "Delete" for the one you don't want. Click "Apply" to ensure the changes.
   >
@@ -233,7 +225,7 @@
   >
   >***Note1**: If you want to use the strictness preset, make sure to select the same strictness level as the one you chose in Step 2. Otherwise, your filter may not work as intended.*
   >
-  >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 5. This will ensure that the presets are applied correctly and do not conflict with each other.*
+  >***Note2**: If you want to add multiple presets, you need to add them in order from 0 to 6+. This will ensure that the presets are applied correctly and do not conflict with each other. This order logic also applies to other filters or presets if you want to add those from others*
   >
   >***Note3**: If you want to use the SoundPack, you'll need the [Sound File](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/README.md#-sound-file) to be installed.*
   >
@@ -292,7 +284,9 @@ Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
 ## ⚙️ Create you own Preset
 - <details>
   <summary><i>Click to see more</i></summary>
-  
+
+  ### Instruction
+
   >You can create your own preset and then load it at last. This will help you to keep your own personal favorite changes for the filter, so you don’t need to make adjustments each time you receive an update.
   >
   >Go to FilterBlade and navigate to “Back to my filters”
@@ -320,9 +314,10 @@ You need to click “Load” on your filter every time FilterBlade, Neversink, o
 &nbsp;
 
 ## ❓ FAQ
-- WIP
+* **Why isn’t there a XXX build for Leveling Add-on?**
+> There are 25 slots of modules for each user in FilterBlade, so I can only pick what I think are the most popular ones.
 
 &nbsp;
 
 ## 📝 ChangeLog
->[DAHAKA-s-Filter](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/ChangeLog.md)
+>[DAHAKA-s-Filter ChangeLog](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/ChangeLog.md)
