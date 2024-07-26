@@ -108,26 +108,7 @@
 
   * The **Leveling Add-on** highlights specific weapons, socket color combinations, specific flasks, and essential recipes for different league starter builds. Additionally, if a build has a transition using different skill gems and weapons, the Leveling Add-on ensures this happens at the appropriate level.
 
-  * There are now various Leveling Add-ons for several reliable league starter builds:
-
-    >**1. [Boneshatter Juggernaut](https://maxroll.gg/poe/build-guides/boneshatter-juggernaut-league-starter)**
-    >
-    >**2. [Corrupting Fever Champion](https://maxroll.gg/poe/build-guides/corrupting-fever-champion-league-starter-guide)**
-    >
-    >**3. [Explosive Arrow Ballista Elementalist](https://maxroll.gg/poe/build-guides/explosive-arrow-ballista-elementalist)**
-    >
-    >**4. [Lightning Arrow Deadeye 01: RoA Ballista](https://maxroll.gg/poe/build-guides/lightning-arrow-deadeye-league-starter)**
-    >
-    >**5. [Detonate Dead Elementalist](https://maxroll.gg/poe/build-guides/detonate-dead-elementalist-league-starter-guide)**
-    >
-    >**6. [Poison Concoction Pathfinder (outdated)](https://maxroll.gg/poe/build-guides/impending-doom-pathfinder-league-starter/leveling-guide)**
-    >
-    >**7. [Lightning Arrow Deadeye 02: LA Manaforged Arrow (outdated)](https://www.youtube.com/watch?v=ZpH9IH4e64M)**
-    >
-    >**8. [Summon Raging Spirit Guardian (outdated)](https://maxroll.gg/poe/build-guides/summon-raging-spirit-guardian-league-starter)**
-    >
-    >More incoming
-
+  * There are now various Leveling Add-ons for several reliable league starter builds: [Check the full list here](https://github.com/FKPX3118/DAHAKA-s-Filter/blob/main/Leveling%20Add-On%20Details.md)
 &nbsp;
 
 ## 🛠️ Installation
