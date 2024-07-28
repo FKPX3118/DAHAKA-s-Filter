@@ -156,7 +156,7 @@
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
   >
-  >Then, click on Public and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
+  >Then, click on "Public" and type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
   >
   >You will see a list of presets that you can add to your filter.
   >
@@ -207,7 +207,7 @@
   >
   ><img src="https://github.com/FKPX3118/DAHAKA-s-Filter/assets/16643996/e32e7adb-636f-485c-b1e2-22a23991d4c4" alt="Image" width="400">
   >
-  >Then, click on Public.
+  >Then, click on "Public".
   >
   >Type or copy **“FKPX3118”** to the By Author field. Click on "Search" to find DAHAKA's presets.
   >
