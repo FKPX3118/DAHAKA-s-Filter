@@ -9,6 +9,7 @@
 
 <details>
   <summary><i>Click to see more</i></summary>
+
 > **DAHAKA's Filter 3.25 Release Roadmap:**
 >
 > - Update Readme ✅
