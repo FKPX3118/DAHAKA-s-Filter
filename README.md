@@ -302,7 +302,7 @@ Extract .WAV files to %userprofile%/Documents/My Games/Path of Exile
   >
   >Choose Neversink stable version and the corresponding strictness
   >
-  >In customize tab, make your own changes, save the preset
+  >In customize tab, make your own changes, save the preset at Advanced -> My Modules
   >
   >Load the filter you want to override, your presets will be in "My Own" in "MODULES"
   >
