@@ -1,5 +1,11 @@
 # DAHAKA-s-Filter Change Log
 
+## [0.9.9] - 2024-08-02
+- updated to neversink version 8.15.1
+- fixed related changed section of new version
+- fixed some tiering issue
+- fixed a SoundPack issue
+
 ## [0.9.8] - 2024-08-01
 - updated to neversink version 8.15b
 - new tiering to reflect the current economy of sc trade
