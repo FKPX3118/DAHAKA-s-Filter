@@ -1,5 +1,10 @@
 # DAHAKA-s-Filter Change Log
 
+## [1.0.1] - 2024-09-27
+- updated to neversink version 8.15.4
+- updated new tiering based on current league economy(SC)
+- fixed overquality gear issue
+
 ## [1.0.0] - 2024-09-20
 - updated to neversink version 8.15.2c
 - updated new tiering based on current league economy(SC)
