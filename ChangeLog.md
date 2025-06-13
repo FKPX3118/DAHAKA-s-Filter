@@ -1,5 +1,8 @@
 # DAHAKA-s-Filter Change Log
 
+## [1.0.2] - 2025-06-14
+- updated to neversink version 8.17
+
 ## [1.0.1] - 2024-09-27
 - updated to neversink version 8.15.4
 - updated new tiering based on current league economy(SC)
