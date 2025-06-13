@@ -267,7 +267,7 @@
 - <details>
   <summary><i>Click to see more</i></summary>
   
-  ### For Devs or you can manually download here
+  ### For Devs / manually download
   >Filter Includes Only Tiering, Style, Strictness, w/wo SoundPack
   >
   >The filters from GitHub do **NOT** auto-update. Please check the commit history for updates.
