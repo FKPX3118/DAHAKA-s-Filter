@@ -1,5 +1,13 @@
 # DAHAKA-s-Filter Change Log
 
+## \[1.0.4] - 2026-03-16
+
+* updated item tiering to align with current league economy(SC)
+* optimized several style formatting settings
+* fixed iron flask show up in all stricknesses
+
+
+
 ## \[1.0.3] - 2026-03-11
 
 * updated to NeverSink's version 8.19.1
@@ -10,6 +18,8 @@
 * added dedicated style and sound settings for exceptional gems and transfigured gems
 * updated the KF Totem Hierophant profile for leveling add-ons
 
+
+
 ## \[1.0.0] - 2024-09-20
 
 * updated to neversink version 8.15.2c
@@ -18,12 +28,16 @@
 * fixed a strictness issue
 * improved some Style settings
 
+
+
 ## \[0.9.9] - 2024-08-02
 
 * updated to neversink version 8.15.1
 * fixed related changed section of new version
 * fixed some tiering issue
 * fixed a SoundPack issue
+
+
 
 ## \[0.9.8] - 2024-08-01
 
@@ -34,7 +48,9 @@
 * fixed Style bugs
 * fixed Strictness bugs
 * fixed SoundPack bugs
-* improved installation insturction
+* improved installation instruction
+
+
 
 ## \[0.9.7] - 2024-07-27
 
@@ -50,6 +66,8 @@
 * fixed SoundPack bugs
 * added new style for new items
 * added new Sound for new items
+
+
 
 ## \[0.9.6] - 2024-07-15
 
@@ -112,7 +130,7 @@
 * Strictness ✅
 * Leveling (4/4) ✅
 
- 
+
 
 ## \[0.9.0] - 2023-11-29
 
