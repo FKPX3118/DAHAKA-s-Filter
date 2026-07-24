@@ -1,5 +1,12 @@
 # DAHAKA-s-Filter Change Log
 
+## \[1.0.5] - 2026-07-25
+
+* updated to NeverSink's version 8.20
+* reset iron flask show up in all stricknesses
+* White socket leveling fix in all leveling add-ons
+
+
 ## \[1.0.4] - 2026-03-16
 
 * updated item tiering to align with current league economy(SC)
