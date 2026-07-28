@@ -1,6 +1,8 @@
 # DAHAKA-s-Filter Change Log
 
-<<<<<<< HEAD
+
+
+
 
 ## \[1.0.6] - 2026-07-27
 
@@ -10,8 +12,8 @@
 
 
 
-=======
->>>>>>> 690bf1789e9b04622ac1532ed4675c08b738a349
+
+
 ## \[1.0.5] - 2026-07-25
 
 * updated to NeverSink's version 8.20
@@ -19,15 +21,16 @@
 * White socket leveling fix in all leveling add-ons
 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 690bf1789e9b04622ac1532ed4675c08b738a349
+
+
 ## \[1.0.4] - 2026-03-16
 
 * updated item tiering to align with current league economy(SC)
 * optimized several style formatting settings
 * fixed iron flask show up in all stricknesses
+
+
 
 
 
@@ -43,6 +46,8 @@
 
 
 
+
+
 ## \[1.0.0] - 2024-09-20
 
 * updated to neversink version 8.15.2c
@@ -53,12 +58,16 @@
 
 
 
+
+
 ## \[0.9.9] - 2024-08-02
 
 * updated to neversink version 8.15.1
 * fixed related changed section of new version
 * fixed some tiering issue
 * fixed a SoundPack issue
+
+
 
 
 
@@ -72,6 +81,8 @@
 * fixed Strictness bugs
 * fixed SoundPack bugs
 * improved installation instruction
+
+
 
 
 
@@ -89,6 +100,8 @@
 * fixed SoundPack bugs
 * added new style for new items
 * added new Sound for new items
+
+
 
 
 
@@ -112,6 +125,8 @@
 
  
 
+
+
 ## \[0.9.5] - 2023-12-15
 
 * updated to neversink version 8.13.1
@@ -119,6 +134,8 @@
 * updated new tiering based on current league economy（SC）
 
  
+
+
 
 ## \[0.9.4] - 2023-12-12
 
@@ -128,6 +145,8 @@
 
  
 
+
+
 ## \[0.9.3] - 2023-12-10
 
 * tiering updating
@@ -135,6 +154,8 @@
 * fixed a bug with strictness above very strict
 
  
+
+
 
 ## \[0.9.2] - 2023-12-09
 
@@ -144,6 +165,8 @@
 * fixed style for incorrect coloring and beaming
 
  
+
+
 
 ## \[0.9.1] - 2023-12-07
 
@@ -155,6 +178,9 @@
 
 
 
+
+
 ## \[0.9.0] - 2023-11-29
 
 * Built Repository
+
