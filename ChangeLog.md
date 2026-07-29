@@ -4,6 +4,20 @@
 
 
 
+## \[1.0.7] - 2026-07-29
+
+* updated item tiering to align with current league economy (SC)
+* new styles and sound for essences
+* fixed other currency and fragment tiering
+* added tiering for ducats/runegrafts
+* fixed tiering for cluster jewels
+* fixed tiering for uniques and div cards
+* more accurate stack tiering for almost all stackable items
+
+
+
+
+
 ## \[1.0.6] - 2026-07-27
 
 * updated item tiering to align with current league economy(SC)
