@@ -257,7 +257,7 @@
   >
   >Filter Includes Only Tiering, Style, and Strictness,  w/wo SoundPack
   >
-  >- [Official Item Filter](https://www.pathofexile.com/account/view-profile/FKPX3118/item-filters)
+  >- [Official Item Filter](https://www.pathofexile.com/account/view-profile/FKPX3118-7643/item-filters)
 
 </details>
 
