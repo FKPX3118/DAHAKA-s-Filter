@@ -2,6 +2,18 @@
 
 
 
+## \[1.0.8] - 2026-07-31
+
+* updated currency tiering to align with current league economy (SC)
+* rebalanced scarab tiering and added new scarab bases
+* restructured fossil tiering, consolidated mid-tier fossils
+* fixed tiering for divination cards, uniques, cluster jewels and ducats
+* reclassified timeless templar splinter to low-value group
+* raised gold stack thresholds across all tiers
+* new color palette for fragments, essences, and timeless splinters
+* updated rgb socket minimap icon from hexagon to circle
+* removed alert sound from low-tier essences
+
 
 
 ## \[1.0.7] - 2026-07-29
