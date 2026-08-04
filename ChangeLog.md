@@ -3,7 +3,7 @@
 
 ## \[1.0.9] - 2026-08-03
 
-* updated to NeverSink's version 8.20.1b
+* updated to NeverSink's version 8.21.1b
 * updated currency/unique/divcard tiering to align with current league economy (SC)
 * rebalanced scarab/tattoo/runegraft/omen tiering
 * new color palette fix for enchanted blueprint
