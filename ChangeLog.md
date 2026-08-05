@@ -2,7 +2,7 @@
 
 ## \[1.0.11] - 2026-08-05
 
-* Rebalanced Scarab, Fragment, Uniques and Stacked Currency tiering
+* Rebalanced Scarab, Fragment, Uniques and Currency tiering
 * Updated Vial, Fossil, and Tattoo tiering
 * Redistributed Divination Cards across T1–T5
 
