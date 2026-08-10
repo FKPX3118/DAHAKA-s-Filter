@@ -1,5 +1,13 @@
 # DAHAKA-s-Filter Change Log
 
+
+## \[1.0.12] - 2026-08-10
+
+* Rebalanced Scarab, Fragment, Currency, Unique, and crafting base tiers
+* Fixed sound issues for crafting bases
+* Updated Vial, Omen, and Tattoo tiers
+* Redistributed Divination Cards across T1–T5
+
 ## \[1.0.11] - 2026-08-05
 
 * Rebalanced Scarab, Fragment, Uniques and Currency tiering
