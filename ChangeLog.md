@@ -3,7 +3,7 @@
 ## \[1.0.13] - 2026-08-13
 
 * Fixed a Style issue
-* Updated currency tiering to align with current league economy (SC)
+* Updated Tiering to align with current league economy (SC)
 
 <details>
   <summary><i>Click to see more</i></summary>
