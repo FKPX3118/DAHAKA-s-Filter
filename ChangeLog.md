@@ -1,10 +1,13 @@
 # DAHAKA-s-Filter Change Log
 
 ## \[1.0.13] - 2026-08-13
+
 * Fixed a Style issue
 * Updated currency tiering to align with current league economy (SC)
+
 <details>
   <summary><i>Click to see more</i></summary>
+
 ### Currency
 - **t2 → t1**: `Exceptional Eldritch Ember`, `Exceptional Eldritch Ichor`
 - **t4 → t2**: `Karui Enshrouding Crystal`
@@ -88,8 +91,8 @@
 - **hideable → t3**: `Ancient Gauntlets`, `Black Maw Talisman`, `Branded Kite Shield`, `Deerskin Gloves`, `Desert Brigandine`, `Dragonscale Boots`, `Driftwood Wand`, `Full Wyrmscale`, `Gemstone Sword`, `Iron Gauntlets`, `Iron Mask`, `Majestic Plate`, `Nightmare Mace`, `Nubuck Boots`, `Nubuck Gloves`, `Pagan Wand`, `Rotted Round Shield`, `Runic Gauntlets`, `Slink Boots`, `Steel Kite Shield`, `Tornado Wand`, `Vine Circlet`, `Wool Gloves`
 - **t1 → t2**: `Lacewood Spirit Shield`, `Runic Crown`
 - **t2 → t3**: `Riveted Gloves`
-
 </details>
+
 
 
 ## \[1.0.12] - 2026-08-10
