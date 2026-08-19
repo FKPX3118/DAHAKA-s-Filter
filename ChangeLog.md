@@ -119,6 +119,16 @@
 * **t2 → t1highlevel**: `Fragmenting Arrowhead`
 * **(added) → t1**: `Fragmenting Arrowhead`
 
+### Crafting Bases
+* **t2_86 → t1_86**: `Broadhead Arrow Quiver`, `Feathered Arrow Quiver`
+* **t2_84 → t1_84**: `Convoking Wand`, `Kinetic Wand`, `Prophecy Wand`, `Void Sceptre`
+* **t3_86 → t1_86**: `Imperial Bow`
+* **t3_86 → t2_86**: `Maraketh Bow`
+* **t3_83 → t2_83**: `Ezomyte Staff`, `Judgement Staff`
+* **(added) → t1_86**: `Penetrating Arrow Quiver`
+* **(added) → t2_84**: `Primordial Staff`
+
+
 ### Divination Cards
 
 * **t2 → t1**: `Home`, `The Leviathan`
