@@ -128,7 +128,6 @@
 * **(added) → t1_86**: `Penetrating Arrow Quiver`
 * **(added) → t2_84**: `Primordial Staff`
 
-
 ### Divination Cards
 
 * **t2 → t1**: `Home`, `The Leviathan`
