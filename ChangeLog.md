@@ -114,18 +114,19 @@
 * **t2 → t1**: `Black Widow Talisman`, `Carrion Queen Talisman`
 * **t1 → t2**: `Plagued Arachnid Talisman`
 
-### Regular Rares
-
-* **t2 → t1**: `Feathered Arrow Quiver`, `Opal Sceptre`, `Spine Bow`, `Void Sceptre`
-* **t3 → t2**: `Maraketh Bow`
-* **t3 → t1**: `Imperial Bow`, `Jewelled Foil`, `Thicket Bow`
-* **t4 → t2**: `Citadel Bow`, `Sambar Sceptre`
-* **t4 → t3**: `Harbinger Bow`
-
 ### Heist Gear
 
 * **t2 → t1highlevel**: `Fragmenting Arrowhead`
 * **(added) → t1**: `Fragmenting Arrowhead`
+
+### Crafting Bases
+* **t2_86 → t1_86**: `Broadhead Arrow Quiver`, `Feathered Arrow Quiver`
+* **t2_84 → t1_84**: `Convoking Wand`, `Kinetic Wand`, `Prophecy Wand`, `Void Sceptre`
+* **t3_86 → t1_86**: `Imperial Bow`
+* **t3_86 → t2_86**: `Maraketh Bow`
+* **t3_83 → t2_83**: `Ezomyte Staff`, `Judgement Staff`
+* **(added) → t1_86**: `Penetrating Arrow Quiver`
+* **(added) → t2_84**: `Primordial Staff`
 
 ### Divination Cards
 
@@ -425,4 +426,3 @@
 ## \[0.9.0] - 2023-11-29
 
 * Built Repository
-
