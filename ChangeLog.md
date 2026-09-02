@@ -1,5 +1,138 @@
 # DAHAKA-s-Filter Change Log
 
+
+
+## \[1.0.15] - 2026-09-02
+
+* Updated to latest NeverSink's version
+* Updated Tiering to align with current league economy (SC)
+
+<details>
+  <summary><i>Click to see more</i></summary>
+
+### Currency
+- **t6 → t5**: `Tainted Armourer's Scrap`
+- **t1 → t2**: `Chaotic Astrolabe`, `Deceptive Astrolabe`, `Fungal Astrolabe`, `Grasping Astrolabe`, `Lightless Astrolabe`, `Nameless Astrolabe`, `Orb of Remembrance`, `Runic Astrolabe`, `Shaper's Exalted Orb`, `Timeless Astrolabe`, `Veiled Chaos Orb`
+- **t2 → t3**: `Eldritch Chaos Orb`, `Eldritch Orb of Annulment`, `Flesh of Xesht`, `Maven's Chisel of Divination`
+- **t3 → t4**: `Foulborn Regal Orb`, `Fracturing Shard`, `Orb of Annulment`, `Tainted Catalyst`, `Tainted Orb of Fusing`
+- **t3 → t5**: `Maven's Chisel of Procurement`
+- **t4 → t5**: `Crescent Splinter`, `Orb of Unravelling`, `Stacked Deck`, `Tainted Chromatic Orb`, `Tempering Catalyst`
+- **t4 → t6**: `Ritual Vessel`
+- **t5 → t6**: `Abrasive Catalyst`, `Chaos Orb`, `Eldritch Exalted Orb`, `Exalted Orb`, `Exotic Coinage`, `Gemcutter's Prism`, `Imbued Catalyst`, `Noxious Catalyst`, `Turbulent Catalyst`
+- **t6 → t7**: `Orb of Scouring`, `Tainted Jeweller's Orb`, `Vaal Orb`
+- **t7 → t9**: `Ritual Splinter`
+- **t7 → t8**: `Glassblower's Bauble`, `Orb of Alteration`, `Orb of Unmaking`, `Scrap Metal`
+- **t8 → t9**: `Blessed Orb`, `Instilling Orb`, `Orb of Alchemy`, `Regal Orb`
+
+### Currency Large Stacks
+- **t4 → t3**: `Tainted Armourer's Scrap`
+- **t1 → t2**: `Foulborn Regal Orb`, `Fracturing Shard`, `Orb of Annulment`, `Tainted Catalyst`, `Tainted Orb of Fusing`
+- **t1 → t3**: `Maven's Chisel of Procurement`
+- **t2 → t3**: `Crescent Splinter`, `Orb of Unravelling`, `Stacked Deck`, `Tainted Chromatic Orb`, `Tempering Catalyst`
+- **t2 → t4**: `Ritual Vessel`
+- **t3 → t4**: `Abrasive Catalyst`, `Chaos Orb`, `Eldritch Exalted Orb`, `Exalted Orb`, `Exotic Coinage`, `Gemcutter's Prism`, `Imbued Catalyst`, `Noxious Catalyst`, `Turbulent Catalyst`
+- **t4 → t5**: `Orb of Scouring`, `Tainted Jeweller's Orb`, `Vaal Orb`
+- **t5 → t7**: `Ritual Splinter`
+- **t5 → t6**: `Glassblower's Bauble`, `Orb of Alteration`, `Orb of Unmaking`, `Scrap Metal`
+- **t6 → t7**: `Blessed Orb`, `Instilling Orb`, `Orb of Alchemy`, `Regal Orb`
+- **(added) → t1**: `Eldritch Chaos Orb`, `Eldritch Orb of Annulment`, `Flesh of Xesht`, `Maven's Chisel of Divination`
+
+### Currency Small Stacks
+- **t5 → t4**: `Tainted Armourer's Scrap`
+- **t1 → t2**: `Eldritch Chaos Orb`, `Eldritch Orb of Annulment`, `Flesh of Xesht`, `Maven's Chisel of Divination`
+- **t2 → t3**: `Foulborn Regal Orb`, `Fracturing Shard`, `Orb of Annulment`, `Tainted Catalyst`, `Tainted Orb of Fusing`
+- **t2 → t4**: `Maven's Chisel of Procurement`
+- **t3 → t4**: `Crescent Splinter`, `Orb of Unravelling`, `Stacked Deck`, `Tainted Chromatic Orb`, `Tempering Catalyst`
+- **t3 → t5**: `Ritual Vessel`
+- **t4 → t5**: `Abrasive Catalyst`, `Chaos Orb`, `Eldritch Exalted Orb`, `Exalted Orb`, `Exotic Coinage`, `Gemcutter's Prism`, `Imbued Catalyst`, `Noxious Catalyst`, `Turbulent Catalyst`
+- **t5 → t6**: `Orb of Scouring`, `Tainted Jeweller's Orb`, `Vaal Orb`
+- **t6 → t7**: `Glassblower's Bauble`, `Orb of Alteration`, `Orb of Unmaking`, `Scrap Metal`
+- **t6 → (removed)**: `Ritual Splinter`
+- **t7 → (removed)**: `Blessed Orb`, `Instilling Orb`, `Orb of Alchemy`, `Regal Orb`
+- **(added) → t1**: `Chaotic Astrolabe`, `Deceptive Astrolabe`, `Fungal Astrolabe`, `Grasping Astrolabe`, `Lightless Astrolabe`, `Nameless Astrolabe`, `Orb of Remembrance`, `Runic Astrolabe`, `Shaper's Exalted Orb`, `Timeless Astrolabe`, `Veiled Chaos Orb`
+
+### Fragments
+- **t2 → t1**: `Zorath's Eye of the Endless`
+- **t5 → t4**: `The Maven's Writ`, `Tribute to the Goddess`
+- **t1 → t2**: `An Audience With The King`
+- **t4 → t5**: `Timeless Templar Emblem`
+
+### Scarabs
+- **t2 → t1**: `Allflame Ember of Propagation`
+- **t4 → t3**: `Horned Scarab of Nemeses`, `Ritual Scarab of Abundance`
+- **t5 → t4**: `Abyss Scarab of Multitudes`, `Ambush Scarab`, `Breach Scarab of the Incensed Swarm`, `Essence Scarab of Adaptation`, `Legion Scarab of Officers`, `Scarab of Monstrous Lineage`, `Ultimatum Scarab of Dueling`
+- **t6 → t5**: `Ambush Scarab of Potency`, `Influencing Scarab of Hordes`, `Influencing Scarab of Interference`, `Kalguuran Scarab of Enriching`, `Ritual Scarab of Selectiveness`
+- **t1 → t2**: `Cartography Scarab of Risk`, `Horned Scarab of Pandemonium`, `Legion Scarab of Eternal Conflict`
+- **t1 → t3**: `Allflame Ember of Kulemak`
+- **t3 → t4**: `Blight Scarab of Blooming`, `Delirium Scarab of Paranoia`, `Divination Scarab of Plenty`, `Scarab of Wisps`
+- **t4 → t5**: `Blight Scarab of Invigoration`, `Legion Scarab of Treasures`
+- **t5 → t6**: `Essence Scarab of Ascent`
+- **t2 → (removed)**: `Allflame Ember of K'Tash`
+
+### Scarabs (Stacked)
+- **t3stackedex → (removed)**: `Ambush Scarab of Potency`, `Influencing Scarab of Hordes`, `Influencing Scarab of Interference`, `Kalguuran Scarab of Enriching`, `Ritual Scarab of Selectiveness`
+- **(added) → t3stackedex**: `Essence Scarab of Ascent`
+
+### Fossils
+- **t1 → t2**: `Fractured Fossil`
+- **t3 → (removed)**: `Aberrant Fossil`, `Aetheric Fossil`, `Bloodstained Fossil`, `Bound Fossil`, `Frigid Fossil`, `Jagged Fossil`, `Lucent Fossil`, `Metallic Fossil`, `Opulent Fossil`, `Prismatic Fossil`, `Pristine Fossil`, `Scorched Fossil`, `Serrated Fossil`, `Tangled Fossil`
+
+### Tattoos
+- **t2 → t1**: `Journey Tattoo of the Soul`
+- **t3 → t2**: `Tattoo of the Hinekora Storyteller`, `Tattoo of the Rongokurai Turtle`
+- **t4 → t3**: `Tattoo of the Hinekora Warmonger`, `Tattoo of the Tasalio Tideshifter`, `Tattoo of the Tawhoa Herbalist`
+- **t1 → t2**: `Tattoo of the Ngamahu Firewalker`, `Tattoo of the Ngamahu Warmonger`, `Tattoo of the Ramako Fleetfoot`
+- **t3 → t4**: `Tattoo of the Kitava Shaman`
+
+### Vials
+- **t1 → t2**: `Vial of Awakening`, `Vial of the Ritual`
+
+### Ducats
+- **t2 → t3**: `Ukatoa's Ducat`
+- **t3 → t4**: `Katakohi's Ducat`, `Telesia's Ducat`, `Tzamoto's Ducat`
+
+### Omens
+- **t5 → t4**: `Omen of Refreshment`
+- **t1 → t2**: `Omen of Amelioration`
+- **t2 → t3**: `Omen of Brilliance`
+- **t4 → t5**: `Omen of Adrenaline`, `Omen of Death's Door`, `Omen of the Soul Devourer`
+
+### Divination Cards
+- **t2 → t1**: `Friendship`, `The Lake`
+- **t3 → t2**: `Altered Perception`, `Judging Voices`, `Pride of the First Ones`, `The Astromancer`, `The Catch`
+- **t4 → t3**: `A Familiar Call`, `Bound by Flame`, `Echoes of Love`, `From Bone to Ashes`, `Gift of Asenath`, `Perfection`, `The Awakened`, `The Breach`, `The Craving`, `The Professor`, `The Ruthless Ceinture`, `The Strategist`, `The Tumbleweed`, `The Wolf's Legacy`
+- **t5c → t4c**: `Alluring Bounty`, `Runic Luck`, `The Gambler`, `The Scout`
+- **t5 → t3**: `Akil's Prophecy`, `The Price of Protection`, `The Undisputed`
+- **t5 → t4**: `A Note in the Wind`, `Dialla's Subjugation`, `The Avenger`, `The Lunaris Priestess`, `The Mercenary`
+- **t1 → t2**: `A Modest Request`, `Beauty Through Death`, `Home`, `The Destination`, `The Everlasting`, `The Forbidden Fruit`, `The Greatest Intentions`, `The Journey`, `The Leviathan`, `The Mayor`, `The Samurai's Eye`
+- **t1 → t3**: `Lethean Temptation`
+- **t1 → t4**: `Chasing Risk`
+- **t1 → t5**: `The Damned`, `The White Knight`
+- **t2 → t3**: `Deadly Joy`, `Energy Sword`, `Imperfect Memories`, `Lachrymal Necrosis`, `Lonely Warrior`, `Misery in Darkness`, `Peaceful Moments`, `The Aspirant`, `The Endless Darkness`, `The Eye of the Dragon`, `The Fishmonger`, `The Forgotten Treasure`, `The Garish Power`, `The Nurse`, `The Prince of Darkness`, `The World Eater`
+- **t2 → t4**: `Assassin's Gift`, `The Blessing of Moosh`, `The Dungeon Master`, `The Life Thief`, `Who Asked`
+- **t2 → t5**: `Nook's Crown`, `The Celestial Stone`, `The Hale Heart`, `Void of the Elements`
+- **t3 → t5**: `Alivia's Grace`, `Azure Rage`, `Call to the First Ones`, `Justified Ambition`, `Keeper's Corruption`, `The Bear Woman`, `The Coming Storm`, `The Fathomless Depths`, `The Hive of Knowledge`, `The Hunger`, `The Offering`, `The Return of the Rat`, `The Sacrifice`, `The Surveyor`, `The Wedding Gift`, `Turn the Other Cheek`, `When Currents Blaze`
+- **t3 → t4**: `Anarchy's Price`, `Arrogance of the Vaal`, `Brush, Paint and Palette`, `Dark Dreams`, `Dementophobia`, `Dying Light`, `Eternal Bonds`, `The Darkest Dream`, `The Eldritch Decay`, `The Finishing Touch`, `The Long Watch`, `The Road to Power`, `The Shepherd's Sandals`, `The Shortcut`, `The Tinkerer's Table`, `Underground Forest`
+- **t4c → t5c**: `Lucky Connections`, `The Survivalist`
+- **t4 → t5**: `A Dab of Ink`, `A Mother's Parting Gift`, `Ambitious Obsession`, `Bijoux`, `Blind Venture`, `Boundless Realms`, `Bowyer's Dream`, `Cartographer's Delight`, `Death`, `Deathly Designs`, `Desperate Crusade`, `Dying Anguish`, `Eldritch Perfection`, `Endless Night`, `Gift of the Gemling Queen`, `Last Hope`, `Left to Fate`, `Lysah's Respite`, `Merciless Armament`, `Might is Right`, `Rain Tempter`, `Sambodhi's Wisdom`, `Scholar of the Seas`, `Shard of Fate`, `The Academic`, `The Adventuring Spirit`, `The Aesthete`, `The Army of Blood`, `The Battle Born`, `The Beast`, `The Betrayal`, `The Bones`, `The Cataclysm`, `The Celestial Justicar`, `The Chains that Bind`, `The Conduit`, `The Cursed King`, `The Dark Mage`, `The Deceiver`, `The Drunken Aristocrat`, `The Endurance`, `The Escape`, `The Fletcher`, `The Forsaken`, `The Fox`, `The Fox in the Brambles`, `The Gentleman`, `The Golden Era`, `The Incantation`, `The Inoculated`, `The Jester`, `The Jeweller's Boon`, `The Last Laugh`, `The Messenger`, `The Mind's Eyes`, `The Offspring`, `The One That Got Away`, `The Pack Leader`, `The Polymath`, `The Rabid Rhoa`, `The Risk`, `The Scavenger`, `The Spoiled Prince`, `The Standoff`, `The Surgeon`, `The Throne`, `The Tireless Extractor`, `The Tower`, `The Traitor`, `The Twilight Moon`, `The Undaunted`, `The Wilted Rose`, `The Wolverine`, `The Wretched`, `Treasure Hunter`, `Triskaidekaphobia`, `Vile Power`
+
+### Uniques
+- **t2 → t1**: `Cabalist Regalia`, `Champion Kite Shield`, `Runic Crown`, `Seaglass Amulet`
+- **t3 → hideable**: `Ancient Gauntlets`, `Astral Plate`, `Blasting Wand`, `Branded Kite Shield`, `Butcher Axe`, `Cryonic Ring`, `Deicide Mask`, `Desert Brigandine`, `Devout Chainmail`, `Dragonscale Boots`, `Driftwood Wand`, `Ezomyte Spiked Shield`, `Festival Mask`, `Fingerless Silk Gloves`, `Full Wyrmscale`, `Gemstone Sword`, `General's Brigandine`, `Ghostflame Blade`, `Golden Plate`, `Goliath Greaves`, `Grand Mana Flask`, `Iron Gauntlets`, `Iron Mask`, `Jewelled Foil`, `Karui Chopper`, `Majestic Plate`, `Murder Mitts`, `Necromancer Circlet`, `Nightmare Mace`, `Nubuck Boots`, `Occultist's Vestment`, `Piledriver`, `Rawhide Tower Shield`, `Ritual Sceptre`, `Riveted Gloves`, `Royal Skean`, `Sapphire Flask`, `Shield Crab Talisman`, `Silk Gloves`, `Spectral Axe`, `Spiny Round Shield`, `Steel Kite Shield`, `Steel Ring`, `Teak Round Shield`, `Vine Circlet`, `Visored Sallet`, `Wolf Alpha Talisman`, `Wool Gloves`
+- **exjewels → t1**: `Murderous Eye Jewel`
+- **t1 → t2**: `Runic Gages`, `Synaptic Ring`, `Wyrmscale Doublet`
+- **t2 → t3**: `Amethyst Flask`, `Coiled Staff`, `Crimson Round Shield`, `Cutlass`, `Faun's Horn`, `Fleshripper`, `Ghastly Eye Jewel`, `Golden Buckler`, `Martyr Gloves`, `Opal Wand`, `Raven Mask`, `Rawhide Boots`, `Runic Sabatons`, `Scholar's Robe`, `Timeless Jewel`
+
+### uniques->replicas
+- **t2 → (removed)**: `Map (Tier 12)`, `Map (Tier 14)`, `Synthesised Map`
+- **t3 → (removed)**: `Map (Tier 11)`, `Map (Tier 16)`
+
+### influenced->all
+- **(added) → t1baseswarlord**: `Blue Pearl Amulet`, `Coral Amulet`, `Gold Amulet`, `Seaglass Amulet`
+
+</details>
+
+
 ## \[1.0.14] - 2026-08-19
 
 * Fixed serval issues in strictnesses
